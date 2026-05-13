@@ -2,85 +2,27 @@
 
 > Zewnętrzne materiały, artykuły, raporty i narzędzia polecane w dyskusjach.
 
-**231 items**, sortowane malejąco po confidence.
+**144 items**, sortowane malejąco po confidence.
 
 [← powrót do głównej](README.md)
 
 ---
 
-## Bit Golem team – Bluesky
+## Bit Golem team
 
-🟢 **Confidence:** 0.99
+🟢 **Confidence:** 0.99 · **7× wzmianek**
 
 Profil Bit Golem team na Bluesky.
+
+**Warianty/platformy:** Bluesky, Discord invite, Facebook, Instagram, Steam developer page, X (Twitter), YouTube channel
 
 **Link:** https://bsky.app/profile/bitgolem.bsky.social
 
 ---
 
-## Bit Golem team – Discord invite
-
-🟢 **Confidence:** 0.99
-
-Zaproszenie do Discorda Bit Golem team.
-
-**Link:** https://discord.com/invite/W5v6dCGafc
-
----
-
-## Bit Golem team – Facebook
-
-🟢 **Confidence:** 0.99
-
-Strona Bit Golem team na Facebooku.
-
-**Link:** https://www.facebook.com/bitgolem
-
----
-
-## Bit Golem team – Instagram
-
-🟢 **Confidence:** 0.99
-
-Profil Bit Golem team na Instagramie.
-
-**Link:** https://www.instagram.com/bit_golem/
-
----
-
-## Bit Golem team – Steam developer page
-
-🟢 **Confidence:** 0.99
-
-Strona dewelopera Bit Golem team na Steam.
-
-**Link:** https://store.steampowered.com/developer/bitgolem
-
----
-
-## Bit Golem team – X (Twitter)
-
-🟢 **Confidence:** 0.99
-
-Profil Bit Golem team na platformie X.
-
-**Link:** https://x.com/bit_golem
-
----
-
-## Bit Golem team – YouTube channel
-
-🟢 **Confidence:** 0.99
-
-Kanał YouTube Bit Golem team.
-
-**Link:** https://www.youtube.com/@bitgolem1538
-
----
-
 ## Bluesky Bit Golem team
 
-🟢 **Confidence:** 0.99
+🟢 **Confidence:** 0.99 · **2× wzmianek**
 
 Profil Bit Golem team na Bluesky
 
@@ -90,7 +32,7 @@ Profil Bit Golem team na Bluesky
 
 ## Discord Bit Golem team
 
-🟢 **Confidence:** 0.99
+🟢 **Confidence:** 0.99 · **2× wzmianek**
 
 Zaproszenie do Discorda Bit Golem team
 
@@ -100,7 +42,7 @@ Zaproszenie do Discorda Bit Golem team
 
 ## Facebook Bit Golem team
 
-🟢 **Confidence:** 0.99
+🟢 **Confidence:** 0.99 · **2× wzmianek**
 
 Strona Bit Golem team na Facebooku
 
@@ -110,7 +52,7 @@ Strona Bit Golem team na Facebooku
 
 ## Instagram Bit Golem team
 
-🟢 **Confidence:** 0.99
+🟢 **Confidence:** 0.99 · **2× wzmianek**
 
 Profil Bit Golem team na Instagramie
 
@@ -120,7 +62,7 @@ Profil Bit Golem team na Instagramie
 
 ## Steam profile Bit Golem team
 
-🟢 **Confidence:** 0.99
+🟢 **Confidence:** 0.99 · **2× wzmianek**
 
 Strona dewelopera Bit Golem team w Steam
 
@@ -130,7 +72,7 @@ Strona dewelopera Bit Golem team w Steam
 
 ## X (Twitter) Bit Golem team
 
-🟢 **Confidence:** 0.99
+🟢 **Confidence:** 0.99 · **2× wzmianek**
 
 Konto Bit Golem team na X (Twitter)
 
@@ -140,7 +82,7 @@ Konto Bit Golem team na X (Twitter)
 
 ## YouTube Bit Golem team
 
-🟢 **Confidence:** 0.99
+🟢 **Confidence:** 0.99 · **2× wzmianek**
 
 Kanał YouTube Bit Golem team
 
@@ -148,9 +90,19 @@ Kanał YouTube Bit Golem team
 
 ---
 
+## Zapisy na PAX East 2025
+
+🟢 **Confidence:** 0.97 · **4× wzmianek**
+
+Ogłoszenie o rozpoczęciu zapisów na konferencję PAX East 2025, skierowane do deweloperów zainteresowanych udziałem.
+
+**Link:** https://igp.org.pl/paxeast2025/
+
+---
+
 ## Demo gry Moldwasher na Steam
 
-🟢 **Confidence:** 0.97
+🟢 **Confidence:** 0.97 · **3× wzmianek**
 
 Link do demka gry udostępnionego przez Jakuba Kwintę, z prośbą o gry i pozytywne recenzje oraz informacją o pokazie na The MIX w San Francisco.
 
@@ -178,19 +130,9 @@ Startowy artykuł od TinyBuilda omawiający wyzwania i strategie publikacji gier
 
 ---
 
-## Zapisy na PAX East 2025
-
-🟢 **Confidence:** 0.97
-
-Ogłoszenie o rozpoczęciu zapisów na konferencję PAX East 2025, skierowane do deweloperów zainteresowanych udziałem.
-
-**Link:** https://igp.org.pl/paxeast2025/
-
----
-
 ## Gamejam w Tramwaju – IGP
 
-🟢 **Confidence:** 0.96
+🟢 **Confidence:** 0.96 · **2× wzmianek**
 
 Ogłoszenie o organizowanym przez IGP gamejamie w Poznaniu. Przydatne dla deweloperów szukających wydarzeń do udziału.
 
@@ -198,9 +140,75 @@ Ogłoszenie o organizowanym przez IGP gamejamie w Poznaniu. Przydatne dla dewelo
 
 ---
 
+## Retrovibe
+
+🟢 **Confidence:** 0.95 · **14× wzmianek**
+
+Kanał YouTube wydawcy Retrovibe, zawierający trailery i materiały promocyjne.
+
+**Warianty/platformy:** Bluesky profile, Facebook page, GOG publisher page, kanał na YouTube, profil na Bluesky, profil na TikTok, profil na X, Steam publisher page, strona na Facebooku, strona wydawcy na GOG, strona wydawcy na Steam, TikTok profile, X profile, YouTube channel
+
+**Link:** https://youtube.com/retrovibegames
+
+---
+
+## Better Publishing social profiles
+
+🟢 **Confidence:** 0.95 · **8× wzmianek**
+
+Facebook, X, BlueSky, Instagram, Bilibili, YouTube oraz Steam dla wydawcy Better Publishing.
+
+**Link:** https://www.facebook.com/betterpubpro
+
+---
+
+## Polskie studia na X
+
+🟢 **Confidence:** 0.95 · **4× wzmianek**
+
+Lista polskich studiów game dev na platformie X, aktualizowana na bieżąco (limit 100 profili dziennie).
+
+**Warianty/platformy:** lista publiczna
+
+**Link:** https://x.com/i/lists/1988569527945138584
+
+---
+
+## Star Trek Infection na Steam
+
+🟢 **Confidence:** 0.95 · **4× wzmianek**
+
+Link do gry na Steam, udostępniony w kontekście poszukiwania partnerów do bundlingu.
+
+**Link:** https://store.steampowered.com/app/3954580/Star_Trek_Infection/
+
+---
+
+## Repozytorium z podsumowaniami dyskusji Masoneria
+
+🟢 **Confidence:** 0.95 · **3× wzmianek**
+
+Publiczny, ale niejawny link do repozytorium na GitHubie, w którym deweloper praktyk z portfolio Movie Games/GOG zapisuje i streszcza rozmowy z kanału #baza-wiedzy.
+
+**Link:** https://github.com/pgnyp/masoneria-wiedza
+
+---
+
+## Wishlisting games on Steam
+
+🟢 **Confidence:** 0.95 · **3× wzmianek**
+
+Raport zawierający statystyki i przykłady dotyczące wishlistingów na Steam, przydatny przy planowaniu kampanii marketingowych i optymalizacji widoczności gry.
+
+**Warianty/platformy:** What the data tells us, What the data tells us (PDF)
+
+**Link:** https://www.biggamesmachine.com/wp-content/uploads/2025/08/Wishlisting-games-on-Steam_-What-the-data-tells-us.pdf
+
+---
+
 ## Artykuł TinyBuild o publikowaniu w Chinach
 
-🟢 **Confidence:** 0.95
+🟢 **Confidence:** 0.95 · **2× wzmianek**
 
 Startowy przewodnik dla deweloperów, jak odnieść sukces na chińskim rynku gier.
 
@@ -208,13 +216,113 @@ Startowy przewodnik dla deweloperów, jak odnieść sukces na chińskim rynku gi
 
 ---
 
-## Artykuł TinyBuild o publikowaniu w Chinach
+## IRON NEST Heavy Turret Simulator (Steam)
 
-🟢 **Confidence:** 0.95
+🟢 **Confidence:** 0.95 · **2× wzmianek**
 
-Startowy przewodnik dla deweloperów, jak odnieść sukces na chińskim rynku gier.
+Wspomniano o możliwości bundlowania z tym tytułem po jego oficjalnym wydaniu, zwłaszcza w kontekście planowanego wsparcia VR.
 
-**Link:** https://www.gamesindustry.biz/what-devs-need-to-succeed-in-the-chinese-games-market
+**Link:** https://store.steampowered.com/app/2950790/IRON_NEST_Heavy_Turret_Simulator/
+
+---
+
+## Retrovibe Bluesky
+
+🟢 **Confidence:** 0.95 · **2× wzmianek**
+
+Profil Retrovibe na Bluesky
+
+**Link:** https://bsky.app/profile/retrovibegames.bsky.social
+
+---
+
+## Retrovibe Facebook
+
+🟢 **Confidence:** 0.95 · **2× wzmianek**
+
+Strona Retrovibe na Facebooku
+
+**Link:** https://facebook.com/retrovibegames
+
+---
+
+## Retrovibe Publisher Page on GOG
+
+🟢 **Confidence:** 0.95 · **2× wzmianek**
+
+Strona wydawcy Retrovibe w sklepie GOG
+
+**Link:** https://www.gog.com/games?publishers=retrovibe
+
+---
+
+## Retrovibe Publisher Page on Steam
+
+🟢 **Confidence:** 0.95 · **2× wzmianek**
+
+Strona wydawcy Retrovibe w sklepie Steam
+
+**Link:** https://store.steampowered.com/publisher/Retrovibe
+
+---
+
+## Retrovibe TikTok
+
+🟢 **Confidence:** 0.95 · **2× wzmianek**
+
+Profil Retrovibe na TikTok
+
+**Link:** https://tiktok.com/@retrovibegames
+
+---
+
+## Retrovibe X (Twitter)
+
+🟢 **Confidence:** 0.95 · **2× wzmianek**
+
+Profil Retrovibe na X (Twitter)
+
+**Link:** https://x.com/retrovibegames
+
+---
+
+## Retrovibe YouTube
+
+🟢 **Confidence:** 0.95 · **2× wzmianek**
+
+Kanał Retrovibe na YouTube
+
+**Link:** https://youtube.com/retrovibegames
+
+---
+
+## Steam - Bit Golem team
+
+🟢 **Confidence:** 0.95 · **2× wzmianek**
+
+Profil dewelopera Bit Golem team na Steam
+
+**Link:** https://store.steampowered.com/developer/bitgolem
+
+---
+
+## Steam sale Anshar Publishing
+
+🟢 **Confidence:** 0.95 · **2× wzmianek**
+
+Ogłoszenie o aktualnej wyprzedaży gier Anshar Publishing na Steamie.
+
+**Link:** https://store.steampowered.com/sale/AnsharPublishingPublisherSale2024
+
+---
+
+## Wypożyczenie padów – plenti.app
+
+🟢 **Confidence:** 0.95 · **2× wzmianek**
+
+Propozycja wypożyczenia kontrolerów (padów) na platformie plenti.app, przydatna dla deweloperów potrzebujących sprzętu na krótki termin.
+
+**Link:** https://plenti.app/pl/collection/105/konsole-i-akcesoria
 
 ---
 
@@ -228,16 +336,6 @@ Startowy przewodnik dla deweloperów, jak odnieść sukces na chińskim rynku gi
 
 ---
 
-## Better Publishing social profiles
-
-🟢 **Confidence:** 0.95
-
-Facebook, X, BlueSky, Instagram, Bilibili, YouTube oraz Steam dla wydawcy Better Publishing.
-
-**Link:** https://www.facebook.com/betterpubpro
-
----
-
 ## Bluesky - Bit Golem team
 
 🟢 **Confidence:** 0.95
@@ -248,51 +346,11 @@ Profil Bit Golem team na Bluesky
 
 ---
 
-## Bluesky Bit Golem team
-
-🟢 **Confidence:** 0.95
-
-Profil Bit Golem team w serwisie Bluesky
-
-**Link:** https://bsky.app/profile/bitgolem.bsky.social
-
----
-
-## Demo gry Moldwasher na Steam
-
-🟢 **Confidence:** 0.95
-
-Link do demka gry udostępnionego przez dewelopera Jakuba Kwinty, z prośbą o gry i pozytywne recenzje oraz informacją o pokazie na The MIX w San Francisco.
-
-**Link:** https://store.steampowered.com/app/4327990/Moldwasher_Demo/
-
----
-
-## Demo gry Moldwasher na Steam
-
-🟢 **Confidence:** 0.95
-
-Link do demka gry udostępnionego przez dewelopera Jakuba Kwinty, z prośbą o zagranie i pozytywne recenzje.
-
-**Link:** https://store.steampowered.com/app/4327990/Moldwasher_Demo/
-
----
-
 ## Discord - Bit Golem team
 
 🟢 **Confidence:** 0.95
 
 Serwer Discord Bit Golem team
-
-**Link:** https://discord.com/invite/W5v6dCGafc
-
----
-
-## Discord Bit Golem team
-
-🟢 **Confidence:** 0.95
-
-Zaproszenie do serwera Discord Bit Golem team
 
 **Link:** https://discord.com/invite/W5v6dCGafc
 
@@ -318,16 +376,6 @@ Strona Bit Golem team na Facebooku
 
 ---
 
-## Facebook Bit Golem team
-
-🟢 **Confidence:** 0.95
-
-Strona Bit Golem team na Facebooku
-
-**Link:** https://www.facebook.com/bitgolem
-
----
-
 ## Formularz zgłoszeniowy na PAX Boston
 
 🟢 **Confidence:** 0.95
@@ -335,16 +383,6 @@ Strona Bit Golem team na Facebooku
 Nabór na PAX w Bostonie – formularz zgłoszeniowy dla zespołów indie.
 
 **Link:** https://docs.google.com/forms/d/e/1FAIpQLSeTKHBpEjse7OmePocqJ22oFUsjXs6lOPtS-4-mxA8tqW113Q/viewform
-
----
-
-## IRON NEST Heavy Turret Simulator (Steam)
-
-🟢 **Confidence:** 0.95
-
-Wspomniano o możliwości bundlowania z tym tytułem po jego oficjalnym wydaniu, zwłaszcza w kontekście planowanego wsparcia VR.
-
-**Link:** https://store.steampowered.com/app/2950790/IRON_NEST_Heavy_Turret_Simulator/
 
 ---
 
@@ -358,36 +396,6 @@ Profil Instagram Bit Golem team
 
 ---
 
-## Instagram Bit Golem team
-
-🟢 **Confidence:** 0.95
-
-Profil Bit Golem team na Instagramie
-
-**Link:** https://www.instagram.com/bit_golem/
-
----
-
-## Polskie studia na X – lista publiczna
-
-🟢 **Confidence:** 0.95
-
-Lista polskich studiów game dev na platformie X, aktualizowana na bieżąco (limit 100 profili dziennie).
-
-**Link:** https://x.com/i/lists/1988569527945138584
-
----
-
-## Polskie studia na X – lista publiczna
-
-🟢 **Confidence:** 0.95
-
-Lista polskich studiów gier udostępniona na X, aktualizowana na bieżąco (limit 100 profili dziennie).
-
-**Link:** https://x.com/i/lists/1988569527945138584
-
----
-
 ## Repozytorium z podsumowaniami dyskusji
 
 🟢 **Confidence:** 0.95
@@ -395,216 +403,6 @@ Lista polskich studiów gier udostępniona na X, aktualizowana na bieżąco (lim
 Publiczny (choć niejawny) link do repozytorium, w którym zapisywane i streszczane są rozmowy z kanału, aktualizowane co tydzień.
 
 **Link:** https://github.com/pgnyp/masoneria-wiedza
-
----
-
-## Repozytorium z podsumowaniami dyskusji Masoneria
-
-🟢 **Confidence:** 0.95
-
-Publiczny, ale niejawny link do repozytorium, w którym zapisywane i streszczane są dyskusje z kanału.
-
-**Link:** https://github.com/pgnyp/masoneria-wiedza
-
----
-
-## Repozytorium z podsumowaniami dyskusji Masoneria
-
-🟢 **Confidence:** 0.95
-
-Publiczny, ale niejawny link do repozytorium na GitHubie, w którym deweloper praktyk z portfolio Movie Games/GOG zapisuje i streszcza rozmowy z kanału #baza-wiedzy.
-
-**Link:** https://github.com/pgnyp/masoneria-wiedza
-
----
-
-## Retrovibe Bluesky
-
-🟢 **Confidence:** 0.95
-
-Profil Retrovibe na Bluesky
-
-**Link:** https://bsky.app/profile/retrovibegames.bsky.social
-
----
-
-## Retrovibe Facebook
-
-🟢 **Confidence:** 0.95
-
-Strona Retrovibe na Facebooku
-
-**Link:** https://facebook.com/retrovibegames
-
----
-
-## Retrovibe Publisher Page on GOG
-
-🟢 **Confidence:** 0.95
-
-Strona wydawcy Retrovibe w sklepie GOG
-
-**Link:** https://www.gog.com/games?publishers=retrovibe
-
----
-
-## Retrovibe Publisher Page on Steam
-
-🟢 **Confidence:** 0.95
-
-Strona wydawcy Retrovibe w sklepie Steam
-
-**Link:** https://store.steampowered.com/publisher/Retrovibe
-
----
-
-## Retrovibe TikTok
-
-🟢 **Confidence:** 0.95
-
-Profil Retrovibe na TikTok
-
-**Link:** https://tiktok.com/@retrovibegames
-
----
-
-## Retrovibe X (Twitter)
-
-🟢 **Confidence:** 0.95
-
-Profil Retrovibe na X (Twitter)
-
-**Link:** https://x.com/retrovibegames
-
----
-
-## Retrovibe YouTube
-
-🟢 **Confidence:** 0.95
-
-Kanał Retrovibe na YouTube
-
-**Link:** https://youtube.com/retrovibegames
-
----
-
-## Retrovibe – kanał na YouTube
-
-🟢 **Confidence:** 0.95
-
-Kanał YouTube wydawcy Retrovibe, zawierający trailery i materiały promocyjne.
-
-**Link:** https://youtube.com/retrovibegames
-
----
-
-## Retrovibe – profil na Bluesky
-
-🟢 **Confidence:** 0.95
-
-Konto wydawcy Retrovibe na platformie Bluesky.
-
-**Link:** https://bsky.app/profile/retrovibegames.bsky.social
-
----
-
-## Retrovibe – profil na TikTok
-
-🟢 **Confidence:** 0.95
-
-Konto wydawcy Retrovibe na TikTok, publikujące krótkie klipy i teasery.
-
-**Link:** https://tiktok.com/@retrovibegames
-
----
-
-## Retrovibe – profil na X
-
-🟢 **Confidence:** 0.95
-
-Konto wydawcy Retrovibe na platformie X (Twitter).
-
-**Link:** https://x.com/retrovibegames
-
----
-
-## Retrovibe – strona na Facebooku
-
-🟢 **Confidence:** 0.95
-
-Oficjalna strona wydawcy Retrovibe na Facebooku.
-
-**Link:** https://facebook.com/retrovibegames
-
----
-
-## Retrovibe – strona wydawcy na GOG
-
-🟢 **Confidence:** 0.95
-
-Strona wydawcy Retrovibe w sklepie GOG, lista dostępnych tytułów.
-
-**Link:** https://www.gog.com/games?publishers=retrovibe
-
----
-
-## Retrovibe – strona wydawcy na Steam
-
-🟢 **Confidence:** 0.95
-
-Strona wydawcy Retrovibe w sklepie Steam, prezentująca ich gry.
-
-**Link:** https://store.steampowered.com/publisher/Retrovibe
-
----
-
-## Star Trek Infection na Steam
-
-🟢 **Confidence:** 0.95
-
-Link do gry na Steam, udostępniony w kontekście poszukiwania partnerów do bundlingu.
-
-**Link:** https://store.steampowered.com/app/3954580/Star_Trek_Infection/
-
----
-
-## Steam - Bit Golem team
-
-🟢 **Confidence:** 0.95
-
-Profil dewelopera Bit Golem team na Steam
-
-**Link:** https://store.steampowered.com/developer/bitgolem
-
----
-
-## Steam profile Bit Golem team
-
-🟢 **Confidence:** 0.95
-
-Strona dewelopera Bit Golem team na Steam
-
-**Link:** https://store.steampowered.com/developer/bitgolem
-
----
-
-## Steam sale Anshar Publishing
-
-🟢 **Confidence:** 0.95
-
-Ogłoszenie o aktualnej wyprzedaży gier Anshar Publishing na Steamie.
-
-**Link:** https://store.steampowered.com/sale/AnsharPublishingPublisherSale2024
-
----
-
-## Steam sale Anshar Publishing
-
-🟢 **Confidence:** 0.95
-
-Link do promocji sprzedaży gier Anshar Publishing na Steamie.
-
-**Link:** https://store.steampowered.com/sale/AnsharPublishingPublisherSale2024
 
 ---
 
@@ -638,41 +436,11 @@ Profile na X, BlueSky, Instagram, YouTube i TikTok prowadzone przez Mateusza Kie
 
 ---
 
-## Wishlisting games on Steam – What the data tells us (PDF)
-
-🟢 **Confidence:** 0.95
-
-Raport zawierający statystyki i przykłady dotyczące wishlistingów na Steam, przydatny przy planowaniu kampanii marketingowych i optymalizacji widoczności gry.
-
-**Link:** https://www.biggamesmachine.com/wp-content/uploads/2025/08/Wishlisting-games-on-Steam_-What-the-data-tells-us.pdf
-
----
-
-## Wypożyczenie padów – plenti.app
-
-🟢 **Confidence:** 0.95
-
-Propozycja wypożyczenia kontrolerów (padów) na platformie plenti.app, przydatna dla deweloperów potrzebujących sprzętu na krótki termin.
-
-**Link:** https://plenti.app/pl/collection/105/konsole-i-akcesoria
-
----
-
 ## X (Twitter) - Bit Golem team
 
 🟢 **Confidence:** 0.95
 
 Konto Bit Golem team na X (Twitter)
-
-**Link:** https://x.com/bit_golem
-
----
-
-## X (Twitter) Bit Golem team
-
-🟢 **Confidence:** 0.95
-
-Konto Bit Golem team na platformie X
 
 **Link:** https://x.com/bit_golem
 
@@ -688,53 +456,63 @@ Kanał YouTube Bit Golem team
 
 ---
 
-## YouTube Bit Golem team
-
-🟢 **Confidence:** 0.95
-
-Kanał YouTube Bit Golem team
-
-**Link:** https://www.youtube.com/@bitgolem1538
-
----
-
-## Zapisy na PAX East 2025
-
-🟢 **Confidence:** 0.95
-
-Ogłoszenie o otwarciu zapisów na konferencję PAX East 2025, skierowane do indie deweloperów zainteresowanych udziałem.
-
-**Link:** https://igp.org.pl/paxeast2025/
-
----
-
-## Zapisy na PAX East 2025
-
-🟢 **Confidence:** 0.95
-
-Informacja o otwarciu zapisów na udział w PAX East 2025, skierowana do indie devów zainteresowanych wystawieniem gry.
-
-**Link:** https://igp.org.pl/paxeast2025/
-
----
-
-## Zapisy na PAX East 2025
-
-🟢 **Confidence:** 0.95
-
-Informacja o otwarciu zapisów na udział w konferencji PAX East 2025, zachęta do zgłaszania się.
-
-**Link:** https://igp.org.pl/paxeast2025/
-
----
-
 ## What Steam’s big demo update means for your marketing strategy
 
-🟢 **Confidence:** 0.93
+🟢 **Confidence:** 0.93 · **7× wzmianek**
 
 Artykuł omawiający wstępną analizę demograficzną po aktualizacji Steam Demo, przydatny dla indie developerów planujących strategię marketingową.
 
 **Link:** https://howtomarketagame.com/2024/07/31/what-steams-big-demo-update-means-for-your-marketing-strategy/
+
+---
+
+## How the Steam algorithm works
+
+🟢 **Confidence:** 0.92 · **3× wzmianek**
+
+Artykuł opisujący działanie algorytmu Steam, w tym wyjaśnienie pojęcia CTR. Przydatny dla developerów chcących lepiej zrozumieć, jak Steam promuje gry.
+
+**Link:** https://devlandmarketing.com/how-the-steam-algorithm-works
+
+---
+
+## Plenti – wypożyczalnia konsol i akcesoriów
+
+🟢 **Confidence:** 0.92 · **2× wzmianek**
+
+Platforma umożliwiająca wypożyczenie konsol i akcesoriów, przydatna przy potrzebie szybkiego pozyskania 15 padów na wydarzenie PGA.
+
+**Link:** https://plenti.app/pl/collection/105/konsole-i-akcesoria
+
+---
+
+## Portfolio artysty 2D – aksiniaillustration
+
+🟢 **Confidence:** 0.92 · **2× wzmianek**
+
+Portfolio artystki 2D, autorki keyartu do gry Truckful, absolwentki wrocławskiego ASP. Zaproponowano jako potencjalna współpraca przy projektach o bardziej mrocznym, grim stylu.
+
+**Link:** https://www.behance.net/aksiniaillustration
+
+---
+
+## Przykładowy tweet promujący grę
+
+🟢 **Confidence:** 0.92 · **2× wzmianek**
+
+Tweet z konta RadicalFishGame, użyty jako przykład trendu na X (Twitter) w dyskusji o promocji indie gier.
+
+**Link:** https://x.com/RadicalFishGame/status/1983834885354897704
+
+---
+
+## Steam tag "Dice"
+
+🟢 **Confidence:** 0.92 · **2× wzmianek**
+
+Oficjalny tag Steam dla gier z mechaniką rzutów kośćmi, przydatny przy oznaczaniu własnych projektów i wyszukiwaniu podobnych tytułów.
+
+**Link:** https://store.steampowered.com/tags/en/Dice
 
 ---
 
@@ -798,51 +576,11 @@ Newsletter zawiera podsumowanie statystyk Steam za luty 2026 oraz link do surowy
 
 ---
 
-## Gamejam w Tramwaju – IGP
-
-🟢 **Confidence:** 0.92
-
-Ogłoszenie o organizowanym przez IGP gamejamie w Poznaniu, przydatne dla deweloperów szukających wydarzeń do udziału.
-
-**Link:** https://gamejamwtramwaju.pl/
-
----
-
-## How the Steam algorithm works
-
-🟢 **Confidence:** 0.92
-
-Artykuł opisujący działanie algorytmu Steam, w tym wyjaśnienie pojęcia CTR. Przydatny dla developerów chcących lepiej zrozumieć, jak Steam promuje gry.
-
-**Link:** https://devlandmarketing.com/how-the-steam-algorithm-works
-
----
-
-## How the Steam algorithm works
-
-🟢 **Confidence:** 0.92
-
-Artykuł omawiający działanie algorytmu Steam, w tym sekcję o CTR. Przydatny do zrozumienia, jak Steam promuje gry.
-
-**Link:** https://devlandmarketing.com/how-the-steam-algorithm-works
-
----
-
 ## IRON NEST Heavy Turret Simulator
 
 🟢 **Confidence:** 0.92
 
 Gra planowana na VR, autorzy rozważają możliwość bundlowania po premierze w Steam Store.
-
-**Link:** https://store.steampowered.com/app/2950790/IRON_NEST_Heavy_Turret_Simulator/
-
----
-
-## IRON NEST Heavy Turret Simulator (Steam)
-
-🟢 **Confidence:** 0.92
-
-Gra, która jeszcze nie jest oficjalna, ale deweloperzy planują wersję VR i sugerują możliwość wspólnego bundlowania w przyszłości.
 
 **Link:** https://store.steampowered.com/app/2950790/IRON_NEST_Heavy_Turret_Simulator/
 
@@ -868,16 +606,6 @@ Video showing before/after data: charts now sorted by revenue in last 3 days ins
 
 ---
 
-## Plenti – wypożyczalnia konsol i akcesoriów
-
-🟢 **Confidence:** 0.92
-
-Platforma umożliwiająca wypożyczenie konsol i akcesoriów, przydatna przy potrzebie szybkiego pozyskania 15 padów na wydarzenie PGA.
-
-**Link:** https://plenti.app/pl/collection/105/konsole-i-akcesoria
-
----
-
 ## Portfolio artystki 2D – aksiniaillustration
 
 🟢 **Confidence:** 0.92
@@ -885,86 +613,6 @@ Platforma umożliwiająca wypożyczenie konsol i akcesoriów, przydatna przy pot
 Portfolio artystki 2D, autorka keyartów do gry Truckful, absolwentka wrocławskiego ASP. Może być przydatne przy poszukiwaniu ilustratora do projektów indie.
 
 **Link:** https://www.behance.net/aksiniaillustration
-
----
-
-## Portfolio artysty 2D – aksiniaillustration
-
-🟢 **Confidence:** 0.92
-
-Portfolio artystki 2D, autorki keyartu do gry Truckful, absolwentki wrocławskiego ASP. Przydatne przy poszukiwaniu artysty do stylu bardziej grim/cute w zależności od potrzeb.
-
-**Link:** https://www.behance.net/aksiniaillustration
-
----
-
-## Portfolio artysty 2D – aksiniaillustration
-
-🟢 **Confidence:** 0.92
-
-Portfolio artystki 2D, autorki keyartu do gry Truckful, absolwentki wrocławskiego ASP. Zaproponowano jako potencjalna współpraca przy projektach o bardziej mrocznym, grim stylu.
-
-**Link:** https://www.behance.net/aksiniaillustration
-
----
-
-## Przykładowy tweet promujący grę
-
-🟢 **Confidence:** 0.92
-
-Tweet użyty jako przykład trendu marketingowego na X (Twitter).
-
-**Link:** https://x.com/RadicalFishGame/status/1983834885354897704
-
----
-
-## Przykładowy tweet promujący grę
-
-🟢 **Confidence:** 0.92
-
-Tweet z konta RadicalFishGame, użyty jako przykład trendu na X (Twitter) w dyskusji o promocji indie gier.
-
-**Link:** https://x.com/RadicalFishGame/status/1983834885354897704
-
----
-
-## Repozytorium z podsumowaniami dyskusji Masoneria
-
-🟢 **Confidence:** 0.92
-
-Publiczny (choć niejawny) repozytorium na GitHubie, w którym deweloper praktyk z portfolio Movie Games/GOG zapisuje i streszcza rozmowy z kanału #baza-wiedzy, aby zachować wiedzę i umożliwić późniejsze przeglądanie.
-
-**Link:** https://github.com/pgnyp/masoneria-wiedza
-
----
-
-## Steam tag "Dice"
-
-🟢 **Confidence:** 0.92
-
-Strona Steam ze wszystkimi grami oznaczonymi tagiem "Dice" (dice‑rolling).
-
-**Link:** https://store.steampowered.com/tags/en/Dice
-
----
-
-## Steam tag "Dice"
-
-🟢 **Confidence:** 0.92
-
-Oficjalny tag Steam dla gier z mechaniką rzutów kośćmi, przydatny przy oznaczaniu własnych projektów i wyszukiwaniu podobnych tytułów.
-
-**Link:** https://store.steampowered.com/tags/en/Dice
-
----
-
-## Steam – Bytebond
-
-🟢 **Confidence:** 0.92
-
-Strona gry Bytebond, którą zespół udało się umieścić na PAX Rising (PAX East).
-
-**Link:** https://store.steampowered.com/app/1952690/Bytebond
 
 ---
 
@@ -988,26 +636,6 @@ Ogłoszenie wprowadzania nowej zakładki na Steam dedykowanej demom i prologom, 
 
 ---
 
-## What Steam’s big demo update means for your marketing strategy
-
-🟢 **Confidence:** 0.92
-
-Artykuł omawiający najnowsze zmiany w systemie demo na Steamie i ich wpływ na strategie marketingowe gier indie.
-
-**Link:** https://howtomarketagame.com/2024/07/31/what-steams-big-demo-update-means-for-your-marketing-strategy/
-
----
-
-## What Steam’s big demo update means for your marketing strategy
-
-🟢 **Confidence:** 0.92
-
-Artykuł omawia najnowszą aktualizację Steam dotyczącą demo i jej implikacje dla strategii marketingowych gier indie.
-
-**Link:** https://howtomarketagame.com/2024/07/31/what-steams-big-demo-update-means-for-your-marketing-strategy/
-
----
-
 ## Who won February 2026's Steam Next – newsletter with raw data
 
 🟢 **Confidence:** 0.92
@@ -1018,36 +646,6 @@ Newsletter zawiera podsumowanie wyników Steam Next w lutym 2026 oraz link do su
 
 ---
 
-## Wishlisting games on Steam – What the data tells us
-
-🟢 **Confidence:** 0.92
-
-Raport zawierający statystyki i przykłady dotyczące wishlistingów na Steam, przydatny przy planowaniu kampanii marketingowych.
-
-**Link:** https://www.biggamesmachine.com/wp-content/uploads/2025/08/Wishlisting-games-on-Steam_-What-the-data-tells-us.pdf
-
----
-
-## Wishlisting games on Steam – What the data tells us
-
-🟢 **Confidence:** 0.92
-
-Raport zawierający statystyki i przykłady dotyczące wishlistingów gier na Steam, przydatny przy planowaniu kampanii marketingowych.
-
-**Link:** https://www.biggamesmachine.com/wp-content/uploads/2025/08/Wishlisting-games-on-Steam_-What-the-data-tells-us.pdf
-
----
-
-## Wypożyczenie padów – plenti
-
-🟢 **Confidence:** 0.92
-
-Oferta wypożyczenia konsol i akcesoriów, w tym padów, przydatna dla deweloperów potrzebujących sprzętu na krótki termin.
-
-**Link:** https://plenti.app/pl/collection/105/konsole-i-akcesoria
-
----
-
 ## Informacja o PLW kupującym peaki graczy
 
 🟢 **Confidence:** 0.91
@@ -1055,6 +653,68 @@ Oferta wypożyczenia konsol i akcesoriów, w tym padów, przydatna dla deweloper
 Tweet wskazujący, że PLW (Polish League of Warriors) nabywa szczytowe wyniki graczy, co może być przydatne przy analizie rynku i targetowania kampanii.
 
 **Link:** https://x.com/tipheret/status/1866781361865965645
+
+---
+
+## Link udostępniony przez praktyk z portfolio Movie Games/GOG
+
+🟢 **Confidence:** 0.90 · **3× wzmianek**
+
+Link bez dodatkowego komentarza, brak dalszej dyskusji.
+
+**Link:** https://x.com/wpisztutajnic/status/1820912418131673419?s=49
+
+---
+
+## Steam Publisher page
+
+🟢 **Confidence:** 0.90 · **3× wzmianek**
+
+Przykładowa strona wydawcy na Steamie, pokazująca nowe możliwości edycji i układu informacji.
+
+**Warianty/platformy:** Retrovibe
+
+**Link:** https://store.steampowered.com/publisher/Retrovibe
+
+---
+
+## Europa na Steam
+
+🟢 **Confidence:** 0.90 · **2× wzmianek**
+
+Przykład gry z 200 tys. wishliste, której widoczność spadła prawdopodobnie z powodu algorytmu Steam po dużej liczbie nowych tytułów.
+
+**Link:** https://store.steampowered.com/app/2214880/Europa/
+
+---
+
+## Steam sale Anshar Publishing 2024
+
+🟢 **Confidence:** 0.90 · **2× wzmianek**
+
+Ogłoszenie o wyprzedaży gier wydawcy Anshar Publishing na Steamie w 2024 roku.
+
+**Link:** https://store.steampowered.com/sale/AnsharPublishingPublisherSale2024
+
+---
+
+## Symphonia na Steam
+
+🟢 **Confidence:** 0.90 · **2× wzmianek**
+
+Przykładowa gra indie, której szacowane lifetime revenue to ok. 20k USD.
+
+**Link:** https://store.steampowered.com/app/1865960/Symphonia/
+
+---
+
+## Thanksgaming 24 – unknown indie games (Steam wishlist)
+
+🟢 **Confidence:** 0.90 · **2× wzmianek**
+
+Lista nieznanych indie gier na Steam, przydatna do researchu i inspiracji.
+
+**Link:** https://kotaku.com/thanksgaming-24-unknown-indie-games-steam-wishlist-1851710308/slides/16
 
 ---
 
@@ -1118,76 +778,6 @@ X (Twitter) account for Barkour game
 
 ---
 
-## Better Publishing social profiles
-
-🟢 **Confidence:** 0.90
-
-Facebook profile of Better Publishing
-
-**Link:** https://www.facebook.com/betterpubpro
-
----
-
-## Better Publishing social profiles
-
-🟢 **Confidence:** 0.90
-
-X (Twitter) profile of Better Publishing
-
-**Link:** https://x.com/betterpubpro
-
----
-
-## Better Publishing social profiles
-
-🟢 **Confidence:** 0.90
-
-BlueSky profile of Better Publishing
-
-**Link:** https://bsky.app/profile/betterpubpro.bsky.social
-
----
-
-## Better Publishing social profiles
-
-🟢 **Confidence:** 0.90
-
-Instagram profile of Better Publishing
-
-**Link:** https://www.instagram.com/betterpubpro/
-
----
-
-## Better Publishing social profiles
-
-🟢 **Confidence:** 0.90
-
-Bilibili channel of Better Publishing
-
-**Link:** https://space.bilibili.com/3546965505739262
-
----
-
-## Better Publishing social profiles
-
-🟢 **Confidence:** 0.90
-
-YouTube channel of Better Publishing
-
-**Link:** https://www.youtube.com/@betterpubpro
-
----
-
-## Better Publishing social profiles
-
-🟢 **Confidence:** 0.90
-
-Steam publisher page of Better Publishing
-
-**Link:** https://store.steampowered.com/publisher/betterpublishing
-
----
-
 ## Brodaty YouTuber – przykładowy influencer
 
 🟢 **Confidence:** 0.90
@@ -1205,26 +795,6 @@ Link do przykładowego wideo influencera podanego w dyskusji jako potencjalny ta
 Przykład strony (stesmpage) prawie całkowicie bez tekstu, udostępniona w dyskusji jako ciekawy przypadek UI/UX.
 
 **Link:** https://x.com/olima/status/1818954966297399298?s=46&t=avF8dZalZDFlYxUSCdtyKQ
-
----
-
-## Europa na Steam
-
-🟢 **Confidence:** 0.90
-
-Strona gry „Europa” na Steam, przykład tytułu z 200 tys. na liście życzeń, ale niską widocznością.
-
-**Link:** https://store.steampowered.com/app/2214880/Europa/
-
----
-
-## Europa na Steam
-
-🟢 **Confidence:** 0.90
-
-Przykład gry z 200 tys. wishliste, której widoczność spadła prawdopodobnie z powodu algorytmu Steam po dużej liczbie nowych tytułów.
-
-**Link:** https://store.steampowered.com/app/2214880/Europa/
 
 ---
 
@@ -1278,36 +848,6 @@ Link do gry na Steam, jeszcze nie oficjalne, planowane wsparcie VR i możliwoś�
 
 ---
 
-## Link udostępniony przez praktyk z portfolio Movie Games/GOG
-
-🟢 **Confidence:** 0.90
-
-Brak dodatkowego kontekstu, jedynie udostępniony link.
-
-**Link:** https://x.com/wpisztutajnic/status/1820912418131673419?s=49
-
----
-
-## Link udostępniony przez praktyk z portfolio Movie Games/GOG
-
-🟢 **Confidence:** 0.90
-
-Brak dodatkowego opisu, jedynie udostępniony link.
-
-**Link:** https://x.com/wpisztutajnic/status/1820912418131673419?s=49
-
----
-
-## Link udostępniony przez praktyk z portfolio Movie Games/GOG
-
-🟢 **Confidence:** 0.90
-
-Link bez dodatkowego komentarza, brak dalszej dyskusji.
-
-**Link:** https://x.com/wpisztutajnic/status/1820912418131673419?s=49
-
----
-
 ## LinkedIn post o wydawcach, z którymi nie warto współpracować
 
 🟢 **Confidence:** 0.90
@@ -1357,36 +897,6 @@ Link udostępniony w dyskusji, brak dodatkowego opisu.
 Tweet wskazujący, że firma PLW (Play Labs?) nabywa szczytowe momenty aktywności graczy, co może być interesujące przy planowaniu kampanii marketingowych.
 
 **Link:** https://x.com/tipheret/status/1866781361865965645
-
----
-
-## Plenti – wypożyczenie konsol i akcesoriów
-
-🟢 **Confidence:** 0.90
-
-Platforma umożliwiająca wypożyczenie konsol i akcesoriów, potencjalnie przydatna przy potrzebie szybkiego pozyskania 15 padów.
-
-**Link:** https://plenti.app/pl/collection/105/konsole-i-akcesoria
-
----
-
-## Polskie studia na X – lista publiczna
-
-🟢 **Confidence:** 0.90
-
-Lista polskich studiów gier udostępniona na X, aktualizowana na bieżąco (limit 100 profili dziennie).
-
-**Link:** https://x.com/i/lists/1988569527945138584
-
----
-
-## Polskie studia na X – lista publiczna
-
-🟢 **Confidence:** 0.90
-
-Lista polskich studiów game dev na platformie X, aktualizowana na bieżąco (limit 100 profili dziennie).
-
-**Link:** https://x.com/i/lists/1988569527945138584
 
 ---
 
@@ -1460,146 +970,6 @@ Narzędzie do analizy profilu Reddit, pokazuje karmę i popularne posty.
 
 ---
 
-## Retrovibe Bluesky
-
-🟢 **Confidence:** 0.90
-
-Profil wydawcy Retrovibe na Bluesky.
-
-**Link:** https://bsky.app/profile/retrovibegames.bsky.social
-
----
-
-## Retrovibe Facebook
-
-🟢 **Confidence:** 0.90
-
-Strona wydawcy Retrovibe na Facebooku.
-
-**Link:** https://facebook.com/retrovibegames
-
----
-
-## Retrovibe Publisher Page on GOG
-
-🟢 **Confidence:** 0.90
-
-Strona wydawcy Retrovibe w sklepie GOG.
-
-**Link:** https://www.gog.com/games?publishers=retrovibe
-
----
-
-## Retrovibe Publisher Page on Steam
-
-🟢 **Confidence:** 0.90
-
-Strona wydawcy Retrovibe w sklepie Steam.
-
-**Link:** https://store.steampowered.com/publisher/Retrovibe
-
----
-
-## Retrovibe TikTok
-
-🟢 **Confidence:** 0.90
-
-Profil wydawcy Retrovibe na TikToku.
-
-**Link:** https://tiktok.com/@retrovibegames
-
----
-
-## Retrovibe X (Twitter)
-
-🟢 **Confidence:** 0.90
-
-Profil wydawcy Retrovibe na X (Twitter).
-
-**Link:** https://x.com/retrovibegames
-
----
-
-## Retrovibe YouTube
-
-🟢 **Confidence:** 0.90
-
-Kanał YouTube wydawcy Retrovibe.
-
-**Link:** https://youtube.com/retrovibegames
-
----
-
-## Retrovibe – Bluesky profile
-
-🟢 **Confidence:** 0.90
-
-Profil wydawcy Retrovibe na Bluesky.
-
-**Link:** https://bsky.app/profile/retrovibegames.bsky.social
-
----
-
-## Retrovibe – Facebook page
-
-🟢 **Confidence:** 0.90
-
-Strona wydawcy Retrovibe na Facebooku.
-
-**Link:** https://facebook.com/retrovibegames
-
----
-
-## Retrovibe – GOG publisher page
-
-🟢 **Confidence:** 0.90
-
-Strona wydawcy Retrovibe w sklepie GOG.
-
-**Link:** https://www.gog.com/games?publishers=retrovibe
-
----
-
-## Retrovibe – Steam publisher page
-
-🟢 **Confidence:** 0.90
-
-Strona wydawcy Retrovibe w sklepie Steam.
-
-**Link:** https://store.steampowered.com/publisher/Retrovibe
-
----
-
-## Retrovibe – TikTok profile
-
-🟢 **Confidence:** 0.90
-
-Profil wydawcy Retrovibe na TikToku.
-
-**Link:** https://tiktok.com/@retrovibegames
-
----
-
-## Retrovibe – X profile
-
-🟢 **Confidence:** 0.90
-
-Profil wydawcy Retrovibe na X (Twitter).
-
-**Link:** https://x.com/retrovibegames
-
----
-
-## Retrovibe – YouTube channel
-
-🟢 **Confidence:** 0.90
-
-Kanał YouTube wydawcy Retrovibe.
-
-**Link:** https://youtube.com/retrovibegames
-
----
-
 ## Rozbudowana wersja tabeli z promocjami (Google Sheets)
 
 🟢 **Confidence:** 0.90
@@ -1607,26 +977,6 @@ Kanał YouTube wydawcy Retrovibe.
 Rozbudowany arkusz kalkulacyjny zawierający dodatkowe zmienne, takie jak promocje, używany w dyskusji jako przykład bardziej szczegółowej analizy.
 
 **Link:** https://docs.google.com/spreadsheets/d/1tZiVzKcvEIhgsezpCpXiIoh7xzq9Nl0o02GWh_g7Upo/edit?usp=sharing
-
----
-
-## Star Trek Infection na Steam
-
-🟢 **Confidence:** 0.90
-
-Link do gry na Steam, udostępniony w kontekście poszukiwania partnera do bundlowania.
-
-**Link:** https://store.steampowered.com/app/3954580/Star_Trek_Infection/
-
----
-
-## Star Trek Infection na Steam
-
-🟢 **Confidence:** 0.90
-
-Propozycja współpracy przy bundlu gry VR – link do sklepu Steam z grą "Star Trek Infection".
-
-**Link:** https://store.steampowered.com/app/3954580/Star_Trek_Infection/
 
 ---
 
@@ -1650,66 +1000,6 @@ Link do sekcji partner events w grupie Steam Community, gdzie można publikować
 
 ---
 
-## Steam Publisher page – Retrovibe
-
-🟢 **Confidence:** 0.90
-
-Przykładowa strona wydawcy na Steamie, pokazująca nowe możliwości edycji i układu informacji.
-
-**Link:** https://store.steampowered.com/publisher/Retrovibe
-
----
-
-## Steam Publisher page – Retrovibe
-
-🟢 **Confidence:** 0.90
-
-Przykładowa strona wydawcy na Steam, używana w dyskusji o nowych możliwościach modyfikacji i braku sekcji announcementów.
-
-**Link:** https://store.steampowered.com/publisher/Retrovibe
-
----
-
-## Steam Publisher page – Retrovibe
-
-🟢 **Confidence:** 0.90
-
-Przykładowa strona wydawcy na Steamie, używana w dyskusji o nowych możliwościach modyfikacji.
-
-**Link:** https://store.steampowered.com/publisher/Retrovibe
-
----
-
-## Steam sale Anshar Publishing 2024
-
-🟢 **Confidence:** 0.90
-
-Ogłoszenie o wyprzedaży gier wydawcy Anshar Publishing na Steamie w 2024 roku.
-
-**Link:** https://store.steampowered.com/sale/AnsharPublishingPublisherSale2024
-
----
-
-## Steam sale Anshar Publishing 2024
-
-🟢 **Confidence:** 0.90
-
-Ogłoszenie o aktualnej wyprzedaży gier Anshar Publishing na Steamie.
-
-**Link:** https://store.steampowered.com/sale/AnsharPublishingPublisherSale2024
-
----
-
-## Symphonia na Steam
-
-🟢 **Confidence:** 0.90
-
-Przykładowa gra indie, której szacowane lifetime revenue to ok. 20k USD.
-
-**Link:** https://store.steampowered.com/app/1865960/Symphonia/
-
----
-
 ## Symphonia – przyklad przychodow indie gry
 
 🟢 **Confidence:** 0.90
@@ -1717,16 +1007,6 @@ Przykładowa gra indie, której szacowane lifetime revenue to ok. 20k USD.
 Gra Symphonia zarobiła około 20k USD w całym okresie życia, przytaczane jako punkt odniesienia do przychodów małych tytułów.
 
 **Link:** https://store.steampowered.com/app/1865960/Symphonia/
-
----
-
-## Thanksgaming 24 – unknown indie games (Steam wishlist)
-
-🟢 **Confidence:** 0.90
-
-Lista nieznanych indie gier na Steam, przydatna do researchu i inspiracji.
-
-**Link:** https://kotaku.com/thanksgaming-24-unknown-indie-games-steam-wishlist-1851710308/slides/16
 
 ---
 
@@ -1800,16 +1080,6 @@ Link do tweeta omawiającego aktualny trend w społeczności indie game marketin
 
 ---
 
-## Tweet RadicalFishGame
-
-🟢 **Confidence:** 0.90
-
-Przykład udanego trendu na X (Twitter) podany jako inspiracja do promocji indie gry.
-
-**Link:** https://x.com/RadicalFishGame/status/1983834885354897704
-
----
-
 ## Tweet o peakach graczy (PLW)
 
 🟢 **Confidence:** 0.90
@@ -1817,6 +1087,16 @@ Przykład udanego trendu na X (Twitter) podany jako inspiracja do promocji indie
 Link do tweeta, w którym wspomniano o zakupie peaków graczy przez PLW.
 
 **Link:** https://x.com/tipheret/status/1866781361865965645
+
+---
+
+## Tweet RadicalFishGame
+
+🟢 **Confidence:** 0.90
+
+Przykład udanego trendu na X (Twitter) podany jako inspiracja do promocji indie gry.
+
+**Link:** https://x.com/RadicalFishGame/status/1983834885354897704
 
 ---
 
@@ -1830,46 +1110,6 @@ YouTube channel for VGS
 
 ---
 
-## What Steam’s big demo update means for your marketing strategy
-
-🟢 **Confidence:** 0.90
-
-Artykuł omawia nową funkcję Steam dotyczącą dużych dem i jej wpływ na strategie marketingowe gier indie.
-
-**Link:** https://howtomarketagame.com/2024/07/31/what-steams-big-demo-update-means-for-your-marketing-strategy/
-
----
-
-## What Steam’s big demo update means for your marketing strategy
-
-🟢 **Confidence:** 0.90
-
-Artykuł omawia nową funkcję Steam dotyczącą dużych dem i jej implikacje dla strategii marketingowych indie deweloperów.
-
-**Link:** https://howtomarketagame.com/2024/07/31/what-steams-big-demo-update-means-for-your-marketing-strategy/
-
----
-
-## What Steam’s big demo update means for your marketing strategy
-
-🟢 **Confidence:** 0.90
-
-Artykuł omawia nową funkcję Steam dotyczącą dużych demo i jej wpływ na strategie marketingowe gier indie.
-
-**Link:** https://howtomarketagame.com/2024/07/31/what-steams-big-demo-update-means-for-your-marketing-strategy/
-
----
-
-## What Steam’s big demo update means for your marketing strategy
-
-🟢 **Confidence:** 0.90
-
-Artykuł omawia nowe funkcje Steam dotyczące demo i ich implikacje dla strategii marketingowej gier indie.
-
-**Link:** https://howtomarketagame.com/2024/07/31/what-steams-big-demo-update-means-for-your-marketing-strategy/
-
----
-
 ## YouTube wideo brodatego influencera
 
 🟢 **Confidence:** 0.90
@@ -1877,6 +1117,16 @@ Artykuł omawia nowe funkcje Steam dotyczące demo i ich implikacje dla strategi
 Przykład wideo influencera, które uczestnik uznał za wartościowe w kontekście promocji gry.
 
 **Link:** https://www.youtube.com/watch?v=kRfYG3DgtSI
+
+---
+
+## Nowa zakładka dla dem i prologów na Steam
+
+🟢 **Confidence:** 0.88 · **2× wzmianek**
+
+Tweet informujący o wprowadzeniu nowej zakładki na Steam dedykowanej demom i prologom gier.
+
+**Link:** https://x.com/simoncarless/status/1823565448656642433?s=46
 
 ---
 
@@ -1910,13 +1160,45 @@ Newsletter where the change is discussed in more detail.
 
 ---
 
-## Nowa zakładka dla dem i prologów na Steam
+## News o signupie do bety Riftbreakera (czerwiec 2019)
 
-🟢 **Confidence:** 0.88
+🟢 **Confidence:** 0.85 · **2× wzmianek**
 
-Tweet informujący o wprowadzeniu nowej zakładki na Steam dedykowanej demom i prologom gier.
+Przykład wczesnego ogłoszenia o zapisach do bety, publikowany na Steam przed premierą gry.
 
-**Link:** https://x.com/simoncarless/status/1823565448656642433?s=46
+**Link:** https://store.steampowered.com/news/app/780310/view/1621774363822297739
+
+---
+
+## Pierwszy news o signupie do dema (grudzień 2019)
+
+🟢 **Confidence:** 0.85 · **2× wzmianek**
+
+Wczesne ogłoszenie o możliwości zapisania się na dostęp do dema gry.
+
+**Link:** https://store.steampowered.com/news/app/780310/view/3791399441359642705
+
+---
+
+## Tweet o zmianach w algorytmie X (Twitter)
+
+🟢 **Confidence:** 0.85 · **2× wzmianek**
+
+Informacja o najnowszych zmianach w algorytmie platformy X, istotna dla planowania działań marketingowych i organicznego zasięgu.
+
+**Link:** https://x.com/LorranKangaroo/status/1997740365919531145?s=20
+
+**Kontekst:** Udostępniony przez użytkownika luki jako istotna informacja dla marketerów indie gier.
+
+---
+
+## Zamknięty dostęp do dema (marzec 2020)
+
+🟢 **Confidence:** 0.85 · **2× wzmianek**
+
+Przykład zamkniętego dostępu do dema, realizowanego po wcześniejszych zapisach na Discordzie.
+
+**Link:** https://store.steampowered.com/news/app/780310/old_view/1819957482641745183
 
 ---
 
@@ -1940,36 +1222,6 @@ Demonstracja użycia Discord‑only konkursu jako narzędzia budowania społeczn
 
 ---
 
-## News o signupie do bety Riftbreakera (czerwiec 2019)
-
-🟢 **Confidence:** 0.85
-
-Przykład wczesnego ogłoszenia o zapisach do bety, ponad 2 lata przed premierą gry.
-
-**Link:** https://store.steampowered.com/news/app/780310/view/1621774363822297739
-
----
-
-## News o signupie do bety Riftbreakera (czerwiec 2019)
-
-🟢 **Confidence:** 0.85
-
-Przykład wczesnego ogłoszenia o zapisach do bety, publikowany na Steam przed premierą gry.
-
-**Link:** https://store.steampowered.com/news/app/780310/view/1621774363822297739
-
----
-
-## Pierwszy news o signupie do dema (grudzień 2019)
-
-🟢 **Confidence:** 0.85
-
-Wczesne ogłoszenie o możliwości zapisania się na dostęp do dema gry.
-
-**Link:** https://store.steampowered.com/news/app/780310/view/3791399441359642705
-
----
-
 ## Steam Community – Partner Events (announcements)
 
 🟢 **Confidence:** 0.85
@@ -1990,28 +1242,6 @@ Wspomina, że średni współczynnik konwersji wishlist na sprzedaż wynosi oko�
 
 ---
 
-## Tweet o zmianach w algorytmie X (Twitter)
-
-🟢 **Confidence:** 0.85
-
-Wątek dotyczy najnowszych zmian w algorytmie platformy X, co może wpływać na zasięg i skuteczność postów promocyjnych.
-
-**Link:** https://x.com/LorranKangaroo/status/1997740365919531145?s=20
-
-**Kontekst:** Udostępniony przez użytkownika luki jako istotna informacja dla marketerów indie gier.
-
----
-
-## Tweet o zmianach w algorytmie X (Twitter)
-
-🟢 **Confidence:** 0.85
-
-Informacja o najnowszych zmianach w algorytmie platformy X, istotna dla planowania działań marketingowych i organicznego zasięgu.
-
-**Link:** https://x.com/LorranKangaroo/status/1997740365919531145?s=20
-
----
-
 ## Video showing before/after chart data
 
 🟢 **Confidence:** 0.85
@@ -2022,16 +1252,6 @@ Materiał wideo prezentujący różnice w rankingach przed i po zmianie algorytm
 
 ---
 
-## Zamknięty dostęp do dema (marzec 2020)
-
-🟢 **Confidence:** 0.85
-
-Przykład zamkniętego dostępu do dema, realizowanego po wcześniejszych zapisach na Discordzie.
-
-**Link:** https://store.steampowered.com/news/app/780310/old_view/1819957482641745183
-
----
-
 ## Konkurs dostępny tylko na Discordzie
 
 🟡 **Confidence:** 0.84
@@ -2039,26 +1259,6 @@ Przykład zamkniętego dostępu do dema, realizowanego po wcześniejszych zapisa
 News pokazujący, że konkurs był ekskluzywny dla członków Discorda.
 
 **Link:** https://store.steampowered.com/news/app/780310/view/1618398566694292121
-
----
-
-## Pierwszy news o signupie do dema (grudzień 2019)
-
-🟡 **Confidence:** 0.84
-
-Wczesne ogłoszenie o możliwości zapisania się na dostęp do dema.
-
-**Link:** https://store.steampowered.com/news/app/780310/view/3791399441359642705
-
----
-
-## Zamknięty dostęp do dema (marzec 2020)
-
-🟡 **Confidence:** 0.84
-
-News informujący o uruchomieniu zamkniętego dostępu do dema.
-
-**Link:** https://store.steampowered.com/news/app/780310/old_view/1819957482641745183
 
 ---
 
@@ -2092,13 +1292,23 @@ Wątek omawiający problemy z wydajnością i widocznością na Steam Next Fest.
 
 ---
 
-## How the Steam algorithm works
+## Partnerstwo Kinguin
+
+🟡 **Confidence:** 0.78 · **2× wzmianek**
+
+Post na LinkedIn informujący o partnerstwie Kinguin, udostępniony w kanale ogólnym.
+
+**Link:** https://www.linkedin.com/posts/kinguinofficial_partnership-kinguin-ahqabka-activity-7275075805498531840-sIRB?utm_source=share&utm_medium=member_ios
+
+---
+
+## ciekawy steam page
 
 🟡 **Confidence:** 0.78
 
-Artykuł opisujący działanie algorytmu Steam, w tym kwestie CTR i innych czynników wpływających na widoczność gry.
+Przykład strony gry na Steamie, prawie bez tekstu, wymieniony w dyskusji jako ciekawy case study.
 
-**Link:** https://devlandmarketing.com/how-the-steam-algorithm-works
+**Link:** https://x.com/olima/status/1818954966297399298?s=46&t=avF8dZalZDFlYxUSCdtyKQ
 
 ---
 
@@ -2122,26 +1332,6 @@ Artykuł prezentuje listę mniej znanych indie gier, które znajdują się na li
 
 ---
 
-## Nowa zakładka dla dem i prologów na Steam
-
-🟡 **Confidence:** 0.78
-
-Ogłoszenie o wprowadzeniu nowej zakładki na Steam dedykowanej demom i prologom, co wpływa na sposób prezentacji treści przez wydawców.
-
-**Link:** https://x.com/simoncarless/status/1823565448656642433?s=46
-
----
-
-## Partnerstwo Kinguin
-
-🟡 **Confidence:** 0.78
-
-Post na LinkedIn informujący o partnerstwie Kinguin, udostępniony w kanale ogólnym.
-
-**Link:** https://www.linkedin.com/posts/kinguinofficial_partnership-kinguin-ahqabka-activity-7275075805498531840-sIRB?utm_source=share&utm_medium=member_ios
-
----
-
 ## Reddit thread o marketingu indie gier
 
 🟡 **Confidence:** 0.78
@@ -2152,36 +1342,6 @@ Wątek na r/gamedev, w którym dyskutowano o skuteczności różnych działań m
 
 ---
 
-## Star Trek Infection na Steam
-
-🟡 **Confidence:** 0.78
-
-Link do gry, udostępniony w kontekście poszukiwania partnera do bundlingu.
-
-**Link:** https://store.steampowered.com/app/3954580/Star_Trek_Infection/
-
----
-
-## Symphonia na Steam
-
-🟡 **Confidence:** 0.78
-
-Przykładowa gra indie, której szacowane przychody wynoszą ok. 20 k USD w całym okresie życia, podawane jako punkt odniesienia w dyskusji o progach przychodów potrzebnych do kwalifikacji do daily deals na Steam.
-
-**Link:** https://store.steampowered.com/app/1865960/Symphonia/
-
----
-
-## Thanksgaming 24 – unknown indie games (Kotaku slides)
-
-🟡 **Confidence:** 0.78
-
-Prezentacja Kotaku z listą mniej znanych indie gier, przydatna do odkrywania inspiracji i potencjalnych partnerów.
-
-**Link:** https://kotaku.com/thanksgaming-24-unknown-indie-games-steam-wishlist-1851710308/slides/16
-
----
-
 ## Wskazówki dotyczące nieodpowiednich wydawców w branży gier
 
 🟡 **Confidence:** 0.78
@@ -2189,16 +1349,6 @@ Prezentacja Kotaku z listą mniej znanych indie gier, przydatna do odkrywania in
 Post na LinkedIn opisuje, jak rozpoznać wydawców, z którymi nie warto współpracować; przydatne dla indie devów przy wyborze partnera wydawniczego.
 
 **Link:** https://www.linkedin.com/posts/lukaszrosinski_a-real-industry-dilemma-not-a-hypothetical-activity-7403799348779659266-78mQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADRaCYBI204WTlhLoXGx1nYs3_uUzMACG8
-
----
-
-## ciekawy steam page
-
-🟡 **Confidence:** 0.78
-
-Przykład strony gry na Steamie, prawie bez tekstu, wymieniony w dyskusji jako ciekawy case study.
-
-**Link:** https://x.com/olima/status/1818954966297399298?s=46&t=avF8dZalZDFlYxUSCdtyKQ
 
 ---
 
@@ -2219,6 +1369,16 @@ Tweet omawia najnowsze zmiany w algorytmie X, które mogą wpływać na widoczno
 Wspomniany w dyskusji pomysł, bez dalszej dyskusji.
 
 **Link:** https://x.com/tipheret/status/1942658494936543676
+
+---
+
+## tipheret status
+
+🟡 **Confidence:** 0.70
+
+Udostępniony link do tweeta, brak dodatkowego kontekstu.
+
+**Link:** https://x.com/tipheret/status/1900212007581712833?s=46&t=avF8dZalZDFlYxUSCdtyKQ
 
 ---
 
@@ -2269,26 +1429,6 @@ Link udostępniony w kanale bazowej wiedzy.
 praktyk z portfolio Movie Games/GOG udostępnił link do tweetu prezentującego grafikę projektu.
 
 **Link:** https://x.com/tipheret/status/1900212007581712833?s=46&t=avF8dZalZDFlYxUSCdtyKQ
-
----
-
-## tipheret status
-
-🟡 **Confidence:** 0.70
-
-Udostępniony link do tweeta, brak dodatkowego kontekstu.
-
-**Link:** https://x.com/tipheret/status/1900212007581712833?s=46&t=avF8dZalZDFlYxUSCdtyKQ
-
----
-
-## Partnerstwo Kinguin
-
-🟠 **Confidence:** 0.60
-
-Post na LinkedIn informujący o nowym partnerstwie Kinguin, potencjalnie interesujący dla indie developerów szukających dystrybutorów.
-
-**Link:** https://www.linkedin.com/posts/kinguinofficial_partnership-kinguin-ahqabka-activity-7275075805498531840-sIRB?utm_source=share&utm_medium=member_ios
 
 ---
 

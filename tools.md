@@ -2,7 +2,7 @@
 
 > Serwisy, narzędzia i platformy polecane przez członków społeczności. Każde z kontekstem użycia i autora polecenia.
 
-**71 items**, sortowane malejąco po confidence.
+**70 items**, sortowane malejąco po confidence.
 
 [← powrót do głównej](README.md)
 
@@ -72,6 +72,20 @@ Kanał Better Publishing na chińskiej platformie wideo Bilibili.
 
 ---
 
+## Robostreamer
+
+🟢 **Confidence:** 0.95 · **8× wzmianek**
+
+Usługa do streamowania i monitorowania obecności użytkowników w czasie rzeczywistym, przydatna do oceny skuteczności eventów i kampanii marketingowych.
+
+*Inne sformułowania w społeczności:* RobotStreamer
+
+**Link:** None
+
+**Kontekst:** Polecany przez dewelopera z community oraz Yellowcrusher (indie dev) jako łatwy w obsłudze i z atrakcyjnym cennikiem, przydatny do monitorowania obecności graczy na karcie w danym momencie. ¦ Polecane przez Bit Golem team i Yellowcrusher (indie dev) jako rozwiązanie używane przez wielu deweloperów (np. na HTMAG) do monitorowania aktywności graczy podczas eventów. ¦ Polecany przez Bit Golem team i Yellowcrusher (indie dev) jako rozwiązanie do streamów oraz monitorowania aktywności graczy. ¦ Wspomniany jako jedna z opcji 3rd‑party do streamowania zapętlonych filmików na Steam Broadcast, szczególnie przydatna dla solo deweloperów. ¦ Wulo (indie dev) opisuje jako jedną z dostępnych opcji do streamowania zapętlonego filmiku na Steam Broadcast. ¦ Wulo (indie dev) opisuje jako jedną z dwóch opcji do uruchamiania zapętlonego streamu na Steam Broadcast – łatwa w użyciu, wymaga jedynie uploadu filmu i podpięcia konta.
+
+---
+
 ## HappyPins
 
 🟢 **Confidence:** 0.95 · **4× wzmianek**
@@ -133,18 +147,6 @@ Serwis oferujący wysokiej jakości przypinki (pinów) na zamówienie.
 **Link:** https://pinswear.com
 
 **Kontekst:** Polecony przez praktyk z portfolio Movie Games/GOG w odpowiedzi na pytanie o dobre jakościowo przypinki. ¦ Polecony przez praktyk z portfolio Movie Games/GOG jako miejsce, gdzie robi się ładne przypinki.
-
----
-
-## Robostreamer
-
-🟢 **Confidence:** 0.95 · **4× wzmianek**
-
-Usługa do streamowania i monitorowania obecności użytkowników w czasie rzeczywistym, przydatna do oceny skuteczności eventów i kampanii marketingowych.
-
-**Link:** None
-
-**Kontekst:** Polecany przez dewelopera z community oraz Yellowcrusher (indie dev) jako łatwy w obsłudze i z atrakcyjnym cennikiem, przydatny do monitorowania obecności graczy na karcie w danym momencie. ¦ Polecane przez Bit Golem team i Yellowcrusher (indie dev) jako rozwiązanie używane przez wielu deweloperów (np. na HTMAG) do monitorowania aktywności graczy podczas eventów. ¦ Polecany przez Bit Golem team i Yellowcrusher (indie dev) jako rozwiązanie do streamów oraz monitorowania aktywności graczy.
 
 ---
 
@@ -363,18 +365,6 @@ Subreddity przydatne do promocji indie: r/Games i flara Indie Sunday w niedziele
 **Link:** https://www.reddit.com
 
 **Kontekst:** Polecenie od użytkownika Kuba Wójcik w kanale #baza-wiedzy, jako źródło do pozyskiwania ruchu i promocji. ¦ Użytkownik Kuba Wójcik polecił korzystanie z Reddita jako źródła informacji o promocjach Steam, wymieniając konkretne subreddity przydatne dla indie deweloperów.
-
----
-
-## RobotStreamer
-
-🟢 **Confidence:** 0.92 · **4× wzmianek**
-
-Płatny serwis umożliwiający upload i odtwarzanie zapętlonych filmików na Steam Broadcast, z opcją zintegrowanego czatu i możliwości wysyłania wiadomości do wszystkich lub wybranych platform.
-
-**Link:** https://robotstreamer.com
-
-**Kontekst:** Wspomniany jako jedna z opcji 3rd‑party do streamowania zapętlonych filmików na Steam Broadcast, szczególnie przydatna dla solo deweloperów. ¦ Wulo (indie dev) opisuje jako jedną z dostępnych opcji do streamowania zapętlonego filmiku na Steam Broadcast. ¦ Wulo (indie dev) opisuje jako jedną z dwóch opcji do uruchamiania zapętlonego streamu na Steam Broadcast – łatwa w użyciu, wymaga jedynie uploadu filmu i podpięcia konta.
 
 ---
 

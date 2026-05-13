@@ -4,14 +4,14 @@
 > Wszystkie wypowiedzi są zanonimizowane, cytowani są tylko publicznie rozpoznawalni deweloperzy z kontekstem ich studio/produktu.
 
 **Aktualizowane:** 2026-05-13
-**Items:** 317 (71 narzędzi, 107 praktyk, 32 Q&A, 107 linków)
+**Items:** 294 (70 narzędzi, 98 praktyk, 30 Q&A, 96 linków)
 
 ## Spis treści
 
-- [🛠️ Narzędzia polecone](tools.md) (71)
-- [📘 Dobre praktyki](practices.md) (107)
-- [❓ Pytania i odpowiedzi](qa.md) (32)
-- [🔗 Linki i zasoby](links.md) (107)
+- [🛠️ Narzędzia polecone](tools.md) (70)
+- [📘 Dobre praktyki](practices.md) (98)
+- [❓ Pytania i odpowiedzi](qa.md) (30)
+- [🔗 Linki i zasoby](links.md) (96)
 
 ## Co to jest?
 
@@ -28,7 +28,7 @@ narzędzia polecane przez wielu, dobre praktyki z argumentacją, pytania z odpow
 
 ## Opt-out
 
-Jeśli jesteś członkiem Masonerii i nie chcesz, żeby Twoje wypowiedzi (nawet zanonimizowane) były tu uwzględniane — napisz do Piotra na Discord lub toread@discordia.pl.
+Jeśli jesteś członkiem Masonerii i nie chcesz, żeby Twoje wypowiedzi (nawet zanonimizowane) były tu uwzględniane — napisz do Piotra na Discord (`@toread` na serwerze Masonerii) lub mailowo: **toread &#91;at&#93; discordia &#91;dot&#93; pl**.
 
 ---
 

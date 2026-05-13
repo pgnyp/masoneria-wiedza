@@ -2,7 +2,7 @@
 
 > Workflow, metody i taktyki działania indie game marketingu, potwierdzone doświadczeniem społeczności.
 
-**107 items**, sortowane malejąco po confidence.
+**98 items**, sortowane malejąco po confidence.
 
 [← powrót do głównej](README.md)
 
@@ -122,6 +122,18 @@ Dziennikarze preferują otrzymywać materiały prasowe bezpośrednio od dewelope
 
 ---
 
+## Strategia wysyłki kluczy do influencerów
+
+🟢 **Confidence:** 0.92 · **4× wzmianek**
+
+Najpierw wyślij zajawkę z trailerem i zapytaj o możliwość streamowania przed premierą, w razie braku odpowiedzi follow‑up w tym samym wątku. Przed datą premiery wyślij krótką przypominajkę z kluczem. Dla większych twórców od razu dołącz klucz w tytule maila (np. [STEAM KEY]) i zadbaj o atrakcyjną treść, by zwiększyć szansę otwarcia i zredeemowania klucza. Nie martw się o wyciek na G2A – znane kanały (Blitz, Raptor, Splat, Wanderbots) nie handlują kluczami, a ewentualny problem można rozwiązać revokem po premierze.
+
+*Inne sformułowania w społeczności:* Strategia wysyłania kluczy do content creatorów; Wysyłanie kluczy do twórców; Wysyłka zajawki i klucza do influencerów
+
+**Kontekst:** Dyskusja o tym, jak efektywnie kontaktować się z influencerami przed premierą gry, podkreślając znaczenie personalizacji maili, szybkiego dostarczania kluczy oraz minimalizacji ryzyka wycieku na rynki wtórne. ¦ Dyskusja o tym, jak podchodzić do bezpośredniego kontaktu z content creatorami przed premierą gry wielogatunkowej. ¦ TomekTomasz (indie dev) opisuje swój schemat kontaktu z influencerami przed premierą gry.
+
+---
+
 ## Stworzenie kanału do wymiany profili społecznościowych
 
 🟢 **Confidence:** 0.92 · **4× wzmianek**
@@ -155,6 +167,18 @@ Nawiązuj kontakt z kuratorami, którzy mają pokrywający się z Twoją publicz
 *Inne sformułowania w społeczności:* Współpraca z kuratorami o pokrywającym się audiencie; Wykorzystanie rekomendacji od kuratorów (np. Wholesome Games, Rock Paper Shotgun) jako widget na stronie gry
 
 **Kontekst:** Użytkownik Michał z MythicOwl Games opisuje doświadczenie z kuratorami, podkreślając, że ich rekomendacje wyświetlają się jako widget na stronie gry, co jest miłym dodatkiem przy wizycie na karcie gry. ¦ Użytkownik Michał z MythicOwl Games opisuje, że po nawiązaniu kontaktu z kilkoma kuratorami udało mu się dodać widget z ich rekomendacją na stronie gry, co było pozytywnie odbierane przez obserwujących. ¦ Deweloper z community opisuje, że po uzyskaniu polecenia od znanych kuratorów ich rekomendacja pojawia się w widgetcie na karcie gry, co jest miłym dodatkiem i buduje zaufanie, choć duże sukcesy nie zawsze wynikają z takiej współpracy. ¦ Użytkownik Michał z MythicOwl Games opisuje własne doświadczenia z kuratorami, podkreślając znaczenie wspólnego followingu i efektu widocznego widgetu rekomendacji na stronie gry.
+
+---
+
+## Bundle z partnerem zwiększa widoczność
+
+🟢 **Confidence:** 0.92 · **3× wzmianek**
+
+Tworzenie wspólnego bundle z inną grą (np. rogue‑like, city‑builder, strategia) może dać duży boost sprzedaży obu tytułów, szczególnie przy promocji typu max‑discount.
+
+*Inne sformułowania w społeczności:* Bundle z innymi indie grami zwiększa sprzedaż; Tworzenie bundle z innymi indie grami jako sposób na szybki wzrost sprzedaży
+
+**Kontekst:** Kuba Wójcik opisuje własne doświadczenie z bundle Lumencraft + Riftbreaker, które przyniosło znaczący wzrost sprzedaży. ¦ Kuba Wójcik opisuje własne doświadczenie z bundle, podkreślając duży boost dla obu gier. ¦ Kuba Wójcik przywołuje przykład udanego bundle Lumencraft + Riftbreaker, który dał duży boost obu gier.
 
 ---
 
@@ -194,18 +218,6 @@ Po zmianach na Steam bannery w opisach gry są całkowicie wyłączone. Zaleca s
 
 ---
 
-## Bundle z partnerem zwiększa widoczność
-
-🟢 **Confidence:** 0.92 · **2× wzmianek**
-
-Tworzenie wspólnego bundle z inną grą (np. rogue‑like, city‑builder, strategia) może dać duży boost sprzedaży obu tytułów, szczególnie przy promocji typu max‑discount.
-
-*Inne sformułowania w społeczności:* Tworzenie bundle z innymi indie grami jako sposób na szybki wzrost sprzedaży
-
-**Kontekst:** Kuba Wójcik opisuje własne doświadczenie z bundle Lumencraft + Riftbreaker, które przyniosło znaczący wzrost sprzedaży. ¦ Kuba Wójcik przywołuje przykład udanego bundle Lumencraft + Riftbreaker, który dał duży boost obu gier.
-
----
-
 ## Dystrybucja trailerów na Gametrailers może przynieść większy zasięg niż na IGN
 
 🟢 **Confidence:** 0.92 · **2× wzmianek**
@@ -230,27 +242,15 @@ Warto uruchomić pre‑sale oraz wyświetlać banery promocyjne już w dniu prem
 
 ---
 
-## Strategia wysyłki kluczy do influencerów
+## Używanie widoku tygodniowego (pseudo‑gantt) do planowania obłożenia zespołu
 
 🟢 **Confidence:** 0.92 · **2× wzmianek**
 
-Najpierw wyślij zajawkę z trailerem i zapytaj o możliwość streamowania przed premierą, w razie braku odpowiedzi follow‑up w tym samym wątku. Przed datą premiery wyślij krótką przypominajkę z kluczem. Dla większych twórców od razu dołącz klucz w tytule maila (np. [STEAM KEY]) i zadbaj o atrakcyjną treść, by zwiększyć szansę otwarcia i zredeemowania klucza. Nie martw się o wyciek na G2A – znane kanały (Blitz, Raptor, Splat, Wanderbots) nie handlują kluczami, a ewentualny problem można rozwiązać revokem po premierze.
+Tworzyć tygodniowy rzut planu w arkuszu lub narzędziu, aby ocenić obciążenie zadaniami, a następnie rozbijać go na konkretne taski w systemie (np. Trello, Jira).
 
-*Inne sformułowania w społeczności:* Wysyłka zajawki i klucza do influencerów
+*Inne sformułowania w społeczności:* Używanie widoku tygodniowego do planowania obłożenia
 
-**Kontekst:** Dyskusja o tym, jak efektywnie kontaktować się z influencerami przed premierą gry, podkreślając znaczenie personalizacji maili, szybkiego dostarczania kluczy oraz minimalizacji ryzyka wycieku na rynki wtórne. ¦ TomekTomasz (indie dev) opisuje swój schemat kontaktu z influencerami przed premierą gry.
-
----
-
-## Wysyłanie kluczy do twórców
-
-🟢 **Confidence:** 0.92 · **2× wzmianek**
-
-W przypadku gier PC‑only od razu wysyła się klucz Steam. Dla wersji konsolowych używa się systemu, w którym każdy odbiorca dostaje unikalny link z tokenem, umożliwiający pobranie jednego klucza na wybraną platformę z własnego backendu.
-
-*Inne sformułowania w społeczności:* Strategia wysyłania kluczy do content creatorów
-
-**Kontekst:** Dyskusja o tym, jak podchodzić do bezpośredniego kontaktu z content creatorami przed premierą gry wielogatunkowej. ¦ Deweloper pyta o najlepsze podejście do reachoutu – czy od razu dawać klucz dużym twórcom, czy najpierw wstępny kontakt. Inny deweloper opisuje własny proces, rozróżniając PC‑only (klucz od razu) i konsole (link z tokenem).
+**Kontekst:** Jakub opisuje potrzebę tygodniowego podglądu obłożenia i konwersji planu na zadania w Trello; dyskusja sugeruje alternatywy (TaskWorld, Jira, Notion). ¦ Jakub poszukuje rozwiązania umożliwiającego analizę obłożenia w tygodniach; rekomendacje narzędzi podkreślają potrzebę takiego widoku.
 
 ---
 
@@ -266,16 +266,6 @@ Algorytm Steam promuje gry z dużym coverage medialnym i wysoką pozycją w rank
 
 ---
 
-## Bundle z innymi indie grami zwiększa sprzedaż
-
-🟢 **Confidence:** 0.92
-
-Tworzenie bundle z inną grą (np. Lumencraft + Riftbreaker) przyniosło znaczący wzrost przychodów obu tytułów, więc warto szukać partnerów do wspólnych pakietów.
-
-**Kontekst:** Kuba Wójcik opisuje własne doświadczenie z bundle, podkreślając duży boost dla obu gier.
-
----
-
 ## Używanie krótkich linków i UTM do pomiaru efektywności PR w magazynach
 
 🟢 **Confidence:** 0.92
@@ -283,16 +273,6 @@ Tworzenie bundle z inną grą (np. Lumencraft + Riftbreaker) przyniosło znaczą
 Tworzenie dedykowanej domeny lub skracacza (np. bit.ly) z parametrami UTM pozwala śledzić liczbę kliknięć i źródło ruchu z artykułów w magazynach (PC Gamer, Edge itp.). Dzięki temu można ocenić realny zasięg i konwersję, a nie tylko prestiżowy efekt publikacji.
 
 **Kontekst:** Dyskusja o publikacji gry w Edge Magazine; deweloperzy rozważają, jak mierzyć efektywność takiego PR-u, proponując użycie własnej domeny lub skracacza linków oraz UTM.
-
----
-
-## Używanie widoku tygodniowego (pseudo‑gantt) do planowania obłożenia zespołu
-
-🟢 **Confidence:** 0.92
-
-Tworzyć tygodniowy rzut planu w arkuszu lub narzędziu, aby ocenić obciążenie zadaniami, a następnie rozbijać go na konkretne taski w systemie (np. Trello, Jira).
-
-**Kontekst:** Jakub opisuje potrzebę tygodniowego podglądu obłożenia i konwersji planu na zadania w Trello; dyskusja sugeruje alternatywy (TaskWorld, Jira, Notion).
 
 ---
 
@@ -337,6 +317,18 @@ Wysyłka maila do użytkowników, którzy dodali grę do wishlisty, przed premie
 *Inne sformułowania w społeczności:* Mail blast do osób z Wishlistem przy launchu demka; Mailing do osób z Wishlistem przed premierą demo; Mailing do osób z wishlistą przed launch demka
 
 **Kontekst:** Jakub Kwinta (indie dev) opisuje własne doświadczenie: po blast mailowym do wishlistujących gra odnotowała lepsze wyniki przy launchu demka. ¦ Jakub Kwinta (indie dev) opisuje, że w ich przypadku Wishlist nie miał wpływu na wyniki, ale mail blast do wishlisterów przy launchu demka przyniósł wymierne efekty. ¦ Użytkownik Jakub Kwinta (indie dev) opisuje, że wishlisty nie przekładały się bezpośrednio na wyniki, ale mailowanie do wishlisterów przed demkiem przyniosło wymierny efekt.
+
+---
+
+## Negocjowanie i ocena influencerów w kampaniach płatnych
+
+🟢 **Confidence:** 0.90 · **4× wzmianek**
+
+W płatnych kampaniach warto rozmawiać bezpośrednio z influencerami, korzystać z systemu oceny twórców oraz negocjować warunki, co zwiększa skuteczność promocji.
+
+*Inne sformułowania w społeczności:* Negocjowanie i bezpośredni kontakt z influencerami; Negocjowanie i płatne kampanie z influencerami; Negocjowanie warunków z influencerami
+
+**Kontekst:** Użytkownik podkreśla, że płatne kampanie w Lurkit pozwalają na dobrą komunikację i ocenę, w przeciwieństwie do kampanii bezpłatnych. ¦ Użytkownicy podkreślają, że płatne kampanie w Lurkit przynoszą lepsze wyniki i lepszy kontakt z twórcami. ¦ Uczestnicy podkreślają, że skuteczność zależy od jakości gry i indywidualnego podejścia do influencerów.
 
 ---
 
@@ -424,28 +416,6 @@ Tworzenie makra w Excelu generującego listę kluczy, a następnie importowanie 
 
 ---
 
-## Negocjowanie i ocena influencerów w kampaniach płatnych
-
-🟢 **Confidence:** 0.90 · **2× wzmianek**
-
-W płatnych kampaniach warto rozmawiać bezpośrednio z influencerami, korzystać z systemu oceny twórców oraz negocjować warunki, co zwiększa skuteczność promocji.
-
-*Inne sformułowania w społeczności:* Negocjowanie warunków z influencerami
-
-**Kontekst:** Użytkownik podkreśla, że płatne kampanie w Lurkit pozwalają na dobrą komunikację i ocenę, w przeciwieństwie do kampanii bezpłatnych. ¦ Użytkownicy podkreślają, że w Lurkit można dobrze rozmawiać i oceniać twórców, co zwiększa skuteczność kampanii.
-
----
-
-## Używanie widoku tygodniowego do planowania obłożenia
-
-🟢 **Confidence:** 0.90
-
-Stosowanie widoku tygodniowego (np. w TaskWorld, Jira) pozwala ocenić obciążenie zespołu w konkretnych tygodniach i lepiej rozdzielać zadania.
-
-**Kontekst:** Jakub poszukuje rozwiązania umożliwiającego analizę obłożenia w tygodniach; rekomendacje narzędzi podkreślają potrzebę takiego widoku.
-
----
-
 ## Współpraca z chińskim co‑publisherem na bazie agresywnej umowy
 
 🟢 **Confidence:** 0.90
@@ -478,6 +448,18 @@ Ustalanie minimalnej liczby wishliste'ów lub innych wskaźników (np. konwersja
 
 ---
 
+## Optymalny czas publikacji postów na X
+
+🟢 **Confidence:** 0.88 · **4× wzmianek**
+
+Posty publikowane po 22:00 czasu polskiego (czyli późnym wieczorem) generują większą początkową trakcję, zwłaszcza gdy celem jest publiczność w USA. Rano lub w południe posty rozprzestrzeniają się wolniej, natomiast publikacje około 17:00‑22:00 lokalnego czasu są najskuteczniejsze w Europie.
+
+*Inne sformułowania w społeczności:* Optymalny czas publikacji postów na X dla indie devów; Publikowanie postów na X po 22:00 (czasu polskiego) zwiększa początkową trakcję
+
+**Kontekst:** W dyskusji deweloperzy wymieniali obserwacje dotyczące godzin publikacji na X, podkreślając lepsze wyniki przy późnych wieczornych postach oraz różnice regionalne (USA vs Europa). ¦ Użytkownicy dyskutowali o obserwacjach dotyczących zasięgu postów na X w zależności od godziny publikacji. Wskazano, że późne wieczorne publikacje (po 22:00 CET) lepiej trafiają do amerykańskiej publiczności, ale nie należy całkowicie wykluczać porannych postów dla Europy. ¦ W dyskusji deweloperzy dzielą się obserwacjami, że wieczorne publikacje (po 22:00) oraz publikacje około 17:00 przynoszą lepsze wyniki niż poranne. Jeden uczestnik zauważył wyjątkowy sukces posta rano, co sugeruje potrzebę testowania. ¦ W dyskusji deweloperzy dzielą się własnymi doświadczeniami dotyczącymi godzin publikacji na X. Jeden z nich zauważył wyraźny wzrost wyświetleń przy postach po 22:00, inni potwierdzili, że wieczorne godziny (ok. 17:00) są lepsze niż poranne.
+
+---
+
 ## Premiera gry w początek własnej wyprzedaży
 
 🟢 **Confidence:** 0.88 · **4× wzmianek**
@@ -499,18 +481,6 @@ Wybór eventu typu Co‑op fest zapewnia największą widoczność gry, zwłaszc
 *Inne sformułowania w społeczności:* Wybór eventu Co-op dla maksymalnej widoczności; Wybór eventu Co‑op dla maksymalnej widoczności
 
 **Kontekst:** Deweloper z community rozważał udział w kilku eventach organizowanych przez platformy (Harmony, Weplay, Maximum Ent, Wings). Po analizie uznał, że Co‑op fest daje największą szansę na widoczność, mimo ryzyka przeludnienia. ¦ Deweloper z community rozważał trzy eventy (Co‑op fest, Lunar New Year, Wings). Inny deweloper zasugerował, że Co‑op ma największy sens pod względem widoczności. ¦ Michal planuje kilka eventów (Co‑op fest, Lunar New Year, Maximum Ent, Wings) i po konsultacji z Kubą decyduje się na Co‑op, licząc na lepszą widoczność, choć obawia się tłoku. ¦ Dyskusja na kanale #baza-wiedzy o planowanych eventach (Harmony, Lunar New Year, Maximum Ent, Wings). Kuba Wójcik rekomenduje Co-op jako najbardziej sensowny ze względu na widoczność.
-
----
-
-## Optymalny czas publikacji postów na X
-
-🟢 **Confidence:** 0.88 · **3× wzmianek**
-
-Posty publikowane po 22:00 czasu polskiego (czyli późnym wieczorem) generują większą początkową trakcję, zwłaszcza gdy celem jest publiczność w USA. Rano lub w południe posty rozprzestrzeniają się wolniej, natomiast publikacje około 17:00‑22:00 lokalnego czasu są najskuteczniejsze w Europie.
-
-*Inne sformułowania w społeczności:* Publikowanie postów na X po 22:00 (czasu polskiego) zwiększa początkową trakcję
-
-**Kontekst:** W dyskusji deweloperzy wymieniali obserwacje dotyczące godzin publikacji na X, podkreślając lepsze wyniki przy późnych wieczornych postach oraz różnice regionalne (USA vs Europa). ¦ Użytkownicy dyskutowali o obserwacjach dotyczących zasięgu postów na X w zależności od godziny publikacji. Wskazano, że późne wieczorne publikacje (po 22:00 CET) lepiej trafiają do amerykańskiej publiczności, ale nie należy całkowicie wykluczać porannych postów dla Europy. ¦ W dyskusji deweloperzy dzielą się własnymi doświadczeniami dotyczącymi godzin publikacji na X. Jeden z nich zauważył wyraźny wzrost wyświetleń przy postach po 22:00, inni potwierdzili, że wieczorne godziny (ok. 17:00) są lepsze niż poranne.
 
 ---
 
@@ -559,6 +529,18 @@ Zaleca się utrzymywanie darmowego listingu na Keymailerze, Lurkit i PressEngine
 *Inne sformułowania w społeczności:* Strategia darmowego listingu i negocjacji stawek
 
 **Kontekst:** Uczestnicy podkreślili, że darmowy listing jest efektywny i że w Lurkit można wynegocjować korzystne warunki przy większych influencerach. ¦ Zalecane przez uczestnika Michał z MythicOwl Games jako efektywny sposób na zwiększenie widoczności gry przy minimalnych kosztach początkowych.
+
+---
+
+## Utrzymywanie jasnej komunikacji i raportowania z partnerem wydawniczym
+
+🟢 **Confidence:** 0.88 · **2× wzmianek**
+
+Regularne raporty sprzedaży kluczy i szybkie rozliczenia pomagają monitorować efektywność współpracy i utrzymać partnera odpowiedzialnego za wyniki.
+
+*Inne sformułowania w społeczności:* Utrzymywanie transparentnej komunikacji i raportowania z co‑publisherem
+
+**Kontekst:** Przykład SureFire: codzienne odpowiedzi, raporty zgodne ze sprzedażą, rozliczenia „od ręki”. ¦ Doświadczenia Pawła Lekkiego z SureFire, podkreślające potrzebę jasnych umów i kontroli jakości współpracy.
 
 ---
 
@@ -632,16 +614,6 @@ Kolejne bramki (np. zapis na newsletter, udział w konkursie, wypełnienie formu
 
 ---
 
-## Negocjowanie i płatne kampanie z influencerami
-
-🟢 **Confidence:** 0.88
-
-Płatne kampanie (np. 400 USD co 3 miesiące) pozwalają na bezpośrednią rozmowę i ocenę influencerów, co zwiększa skuteczność promocji w porównaniu do darmowych kampanii.
-
-**Kontekst:** Użytkownicy podkreślają, że płatne kampanie w Lurkit przynoszą lepsze wyniki i lepszy kontakt z twórcami.
-
----
-
 ## Negocjowanie zakresu i kosztu z agencją Evolve
 
 🟢 **Confidence:** 0.88
@@ -659,16 +631,6 @@ Można wynegocjować niższy budżet (np. $4k zamiast $7‑15k) kosztem mniejsze
 W tytule maila do dużych twórców umieść wyraźny znacznik, np. [STEAM KEY], a w treści zamieść klucz od razu. Dzięki temu zwiększasz szansę, że mail zostanie otwarty i klucz od razu zostanie zaredeemowany, co ułatwia późniejsze śledzenie gry w bibliotece Steam.
 
 **Kontekst:** Michał z MythicOwl Games radzi, aby od razu dołączać klucz w tytule i treści maila, aby przyciągnąć uwagę zapracowanych influencerów.
-
----
-
-## Utrzymywanie jasnej komunikacji i raportowania z partnerem wydawniczym
-
-🟢 **Confidence:** 0.88
-
-Regularne raporty sprzedaży kluczy i szybkie rozliczenia pomagają monitorować efektywność współpracy i utrzymać partnera odpowiedzialnego za wyniki.
-
-**Kontekst:** Przykład SureFire: codzienne odpowiedzi, raporty zgodne ze sprzedażą, rozliczenia „od ręki”.
 
 ---
 
@@ -742,6 +704,18 @@ Przygotuj jeden dopracowany trailer oraz zestaw screenshotów (ok. 15), z który
 
 ---
 
+## Dodawanie nowego SKU w Steam jako slot na demo/Next Fest
+
+🟢 **Confidence:** 0.85 · **5× wzmianek**
+
+Aby uzyskać slot na demo i na Next Fest, wystarczy dodać nowe SKU (App ID) w panelu Steam, co automatycznie przydziela miejsce na te wydarzenia.
+
+*Inne sformułowania w społeczności:* Strategia uruchomienia nowego SKU z demo na Steam Next Fest; Strategia wprowadzania nowego SKU z demo na Steam Next Fest
+
+**Kontekst:** Deweloper z community omawia potrzebę dodania nowego SKU w Steam, aby zapewnić sloty na demo i Next Fest, wskazując, że proces wymaga jedynie dodania App ID. ¦ Deweloper z community rozważał ryzyko związane z podobieństwem nowego SKU do starego oraz wpływ na konwersję, szukając alternatywy dla usunięcia starego SKU. ¦ Deweloper obawia się, że gra jest zbyt podobna do starego SKU i chce zwiększyć konwersję przy pomocy nowego demo na Next Fest. Dyskusja dotyczyła podziału na dwa warianty (prolog vs Definitive Edition) i ich wpływu na wskaźniki konwersji. ¦ Deweloper obawia się, że gra jest zbyt podobna do starego SKU i chce zwiększyć konwersję przy pomocy nowego demo na Next Fest. ¦ Deweloper z community rozważał, jak uniknąć problemu zbyt dużej podobieństwa nowego SKU do starego przy jednoczesnym wykorzystaniu Steam Next Fest do promocji.
+
+---
+
 ## Zmiana targetowania reklamy poprzez VPN lub side-loading aplikacji
 
 🟢 **Confidence:** 0.85 · **4× wzmianek**
@@ -786,16 +760,6 @@ Przykład 30‑dniowej kampanii, która wygenerowała 280 k zapisów na listę
 
 ---
 
-## Dodawanie nowego SKU w Steam jako slot na demo/Next Fest
-
-🟢 **Confidence:** 0.85
-
-Aby uzyskać slot na demo i na Next Fest, wystarczy dodać nowe SKU (App ID) w panelu Steam, co automatycznie przydziela miejsce na te wydarzenia.
-
-**Kontekst:** Deweloper z community omawia potrzebę dodania nowego SKU w Steam, aby zapewnić sloty na demo i Next Fest, wskazując, że proces wymaga jedynie dodania App ID.
-
----
-
 ## Kampania zbierania petycji i zgłoszeń gier z mechaniką dice‑rolling
 
 🟢 **Confidence:** 0.85
@@ -826,16 +790,6 @@ Wykorzystanie systemu monitorowania obecności na karcie w danym momencie pozwal
 
 ---
 
-## Negocjowanie i bezpośredni kontakt z influencerami
-
-🟢 **Confidence:** 0.85
-
-Osobiste pisanie do influencerów (np. lista 100 kontaktów) oraz negocjowanie warunków współpracy, zamiast korzystania wyłącznie z agencji.
-
-**Kontekst:** Uczestnicy podkreślają, że skuteczność zależy od jakości gry i indywidualnego podejścia do influencerów.
-
----
-
 ## Preferowanie otwartego demo zamiast zamkniętego
 
 🟢 **Confidence:** 0.85
@@ -863,16 +817,6 @@ Zaleca się przetestować kilku podwykonawców tłumaczeń (np. Roboto, Nitro, Q
 Jeśli gra nie generuje wystarczającej sprzedaży w Early Access, lepiej zrezygnować z dalszego EA i przejść do pełnej wersji.
 
 **Kontekst:** praktyk z portfolio Movie Games/GOG wspomniał o doświadczeniach z Beyond, gdzie po słabej sprzedaży w EA zdecydowano się zakończyć EA.
-
----
-
-## Utrzymywanie transparentnej komunikacji i raportowania z co‑publisherem
-
-🟢 **Confidence:** 0.85
-
-Regularne raporty sprzedaży, szybka odpowiedź na zapytania (najpóźniej następny dzień) oraz monitorowanie realizacji zadań, aby uniknąć niejasności co do wkładu partnera.
-
-**Kontekst:** Doświadczenia Pawła Lekkiego z SureFire, podkreślające potrzebę jasnych umów i kontroli jakości współpracy.
 
 ---
 
@@ -918,13 +862,13 @@ Warto przesłać swoją grę do sekcji "Coming Soon" (jeśli jest gotowa) oraz d
 
 ## Własny scraper do zbierania kontaktów influencerów
 
-🟡 **Confidence:** 0.84 · **2× wzmianek**
+🟡 **Confidence:** 0.84 · **3× wzmianek**
 
 Stworzenie własnego narzędzia (scraper) pozwala na zebranie dużej bazy e‑maili (np. 6 k) na podstawie gier, które już mają coverage, co ułatwia outreach bez pośredników.
 
-*Inne sformułowania w społeczności:* Budowanie własnego narzędzia do outreachu i scrapowania kontaktów
+*Inne sformułowania w społeczności:* Budowanie własnego narzędzia do outreachu i scrapowania kontaktów; Budowanie własnego narzędzia do scrapowania kontaktów
 
-**Kontekst:** Uczestnik dyskusji opisuje użycie scraper’a napisanego przez niemieckiego dewelopera do generowania listy kontaktów. ¦ Jedna z osób wspomina o użyciu scraper’a napisanego przez niemieckiego dewelopera do generowania listy mailingowej.
+**Kontekst:** Uczestnik dyskusji opisuje użycie scraper’a napisanego przez niemieckiego dewelopera do generowania listy kontaktów. ¦ Jedna z osób wspomina o użyciu scraper’a napisanego przez niemieckiego dewelopera do generowania listy mailingowej. ¦ Propozycja stworzenia własnego toola do dystrybucji kluczy i outreachu, aby ograniczyć koszty zewnętrznych platform.
 
 ---
 
@@ -992,16 +936,6 @@ Tworzenie własnej listy (~100 influencerów) i indywidualne pisanie wiadomości
 
 ---
 
-## Budowanie własnego narzędzia do scrapowania kontaktów
-
-🟡 **Confidence:** 0.80
-
-Użycie scraper’a stworzonego przez niemieckiego dewelopera do zbierania adresów e‑mailowych (np. 6 k maili) na podstawie gier z coverage.
-
-**Kontekst:** Propozycja stworzenia własnego toola do dystrybucji kluczy i outreachu, aby ograniczyć koszty zewnętrznych platform.
-
----
-
 ## Budowanie własnej listy mediów i monitorowanie wyników
 
 🟡 **Confidence:** 0.80
@@ -1054,18 +988,6 @@ Aby gra mogła trafić do codziennych promocji Steam, wymagana jest sprzedaż rz
 
 ---
 
-## Strategia wprowadzania nowego SKU z demo na Steam Next Fest
-
-🟡 **Confidence:** 0.78 · **4× wzmianek**
-
-Zamiast usuwać stare SKU, uruchomić nowy produkt (z świeżym demo) i wypromować go na Steam Next Fest. Można przyjąć dwie opcje: (a) stworzyć prolog – umieścić demo i wypromować je jako prolog, (b) stworzyć Definitive Edition – umieścić demo i wypromować jako pełną edycję. W zależności od przyrostu wishliste i zainteresowania, operować równolegle na starym i nowym SKU, konwertując graczy in‑game.
-
-*Inne sformułowania w społeczności:* Strategia uruchomienia nowego SKU z demo na Steam Next Fest
-
-**Kontekst:** Deweloper z community rozważał ryzyko związane z podobieństwem nowego SKU do starego oraz wpływ na konwersję, szukając alternatywy dla usunięcia starego SKU. ¦ Deweloper obawia się, że gra jest zbyt podobna do starego SKU i chce zwiększyć konwersję przy pomocy nowego demo na Next Fest. Dyskusja dotyczyła podziału na dwa warianty (prolog vs Definitive Edition) i ich wpływu na wskaźniki konwersji. ¦ Deweloper obawia się, że gra jest zbyt podobna do starego SKU i chce zwiększyć konwersję przy pomocy nowego demo na Next Fest. ¦ Deweloper z community rozważał, jak uniknąć problemu zbyt dużej podobieństwa nowego SKU do starego przy jednoczesnym wykorzystaniu Steam Next Fest do promocji.
-
----
-
 ## GOG Weekend Deal jako forma promocji
 
 🟡 **Confidence:** 0.78 · **3× wzmianek**
@@ -1097,16 +1019,6 @@ Steam wykorzystuje słowa kluczowe zawarte w opisach gry oraz tagi do sugerowani
 Po zakończeniu tłumaczenia gry (np. na tradycyjny chiński) warto od razu zaktualizować opis i materiały na stronie sklepowej Steam, aby wersja językowa była dostępna przed premierą gry.
 
 **Kontekst:** Deweloperzy dyskutują o tłumaczeniu gier na tradycyjny chiński i potwierdzają, że publikują poprawki na stronie Steam jeszcze przed wydaniem gry (przykład: Truckful).
-
----
-
-## Optymalny czas publikacji postów na X dla indie devów
-
-🟡 **Confidence:** 0.78
-
-Zaleca się publikowanie postów po 22:00 czasu polskiego (wieczorem) lub około 17:00, ponieważ takie godziny generują większą początkową trakcję niż publikacje rano lub w południe. Warto jednak eksperymentować, gdyż niektóre posty rano mogą uzyskać duży zasięg.
-
-**Kontekst:** W dyskusji deweloperzy dzielą się obserwacjami, że wieczorne publikacje (po 22:00) oraz publikacje około 17:00 przynoszą lepsze wyniki niż poranne. Jeden uczestnik zauważył wyjątkowy sukces posta rano, co sugeruje potrzebę testowania.
 
 ---
 

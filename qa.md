@@ -2,7 +2,7 @@
 
 > Realne pytania z community z odpowiedziami skondensowanymi z dyskusji.
 
-**32 items**, sortowane malejąco po confidence.
+**30 items**, sortowane malejąco po confidence.
 
 [← powrót do głównej](README.md)
 
@@ -44,6 +44,18 @@ Z dokumentacji Steam wynika, że przy spełnieniu warunków oferta powinna być 
 
 ---
 
+## Czy Steam Curatorzy przynoszą wymierne korzyści w postaci zwiększonej liczby wishlist?
+
+🟢 **Confidence:** 0.92 · **4× wzmianek**
+
+Tak, pozytywne doświadczenia wskazują, że duży kurator (np. 400 k obserwujących) może generować dodatkowe 80‑90 wishlist dziennie. Działa to poprzez narzędzie Steam Curator Tool – warto kontaktować się z dużymi kuratorami, rozsyłać im klucze, a jeśli po tygodniu nie otrzymamy reakcji, przestać i skierować się do kolejnych.
+
+*Inne sformułowania w społeczności:* Czy Steam Curatorzy naprawdę zwiększają liczbę wishlistek?; Czy Steam Curatorzy naprawdę zwiększają liczbę wishlistów?
+
+**Kontekst:** Pytanie zadane przez dewelopera w kanale #baza-wiedzy, odpowiedź udzielona przez innego członka community, opisująca praktykę kontaktowania się z dużymi kuratorami i monitorowanie reakcji. ¦ Dyskusja w kanale #baza-wiedzy, 2024-09-17. Użytkownik zapytał o pozytywne doświadczenia z curatorami, inny podał praktyczną metodę kontaktu i follow‑up. ¦ Pytanie zadane przez dewelopera o skuteczność curatorów; odpowiedź od innego dewelopera opisująca praktykę wysyłania kluczy dużym curatorom, monitorowanie reakcji i rotację w razie braku odpowiedzi. ¦ Dyskusja w kanale #baza-wiedzy, 2024-09-17. Użytkownik zapytał o pozytywne doświadczenia z curatorami, a inny użytkownik opisał swój proces.
+
+---
+
 ## Jaki discount wybrać przy premierze gry (10 % vs 15 % vs 20 %)?
 
 🟢 **Confidence:** 0.92 · **4× wzmianek**
@@ -76,18 +88,6 @@ Tak, niektórzy deweloperzy (np. Michał z MythicOwl Games) tłumaczą gry na tr
 
 ---
 
-## Czy Steam Curatorzy naprawdę zwiększają liczbę wishlistów?
-
-🟢 **Confidence:** 0.92 · **3× wzmianek**
-
-Tak, działają – warto używać Steam Curator Tool, wysyłać klucze do dużych curatorów, po tygodniu sprawdzić reakcję i w razie braku odpowiedzi odwołać dostęp i skierować klucze do kolejnych curatorów.
-
-*Inne sformułowania w społeczności:* Czy Steam Curatorzy naprawdę zwiększają liczbę wishlistek?
-
-**Kontekst:** Dyskusja w kanale #baza-wiedzy, 2024-09-17. Użytkownik zapytał o pozytywne doświadczenia z curatorami, inny podał praktyczną metodę kontaktu i follow‑up. ¦ Pytanie zadane przez dewelopera o skuteczność curatorów; odpowiedź od innego dewelopera opisująca praktykę wysyłania kluczy dużym curatorom, monitorowanie reakcji i rotację w razie braku odpowiedzi. ¦ Dyskusja w kanale #baza-wiedzy, 2024-09-17. Użytkownik zapytał o pozytywne doświadczenia z curatorami, a inny użytkownik opisał swój proces.
-
----
-
 ## Jak zarządzać kluczami Steamowymi i wysyłką do influencerów?
 
 🟢 **Confidence:** 0.92 · **3× wzmianek**
@@ -105,16 +105,6 @@ Zaleca się używać osobnego, regularnie aktualizowanego brancha z demem przezn
 Wysyłka klucza od razu zwiększa szansę na szybki coverage i skraca proces, ale niesie ryzyko wycieku na czarny rynek. Alternatywa – najpierw luźny mail z zapytaniem o zainteresowanie, co pozwala zweryfikować chęć, ale może wywołać pytania o wynagrodzenie. Praktyka: w przypadku gier PC‑only niektórzy wysyłają od razu klucz Steam; przy grach na konsole stosują system linków z unikalnym tokenem, który pozwala odbiorcy pobrać jeden klucz na wybraną platformę.
 
 **Kontekst:** Faenen (indie dev) pyta o strategię reachout'u do dużych twórców przy premierze wielogatunkowej gry. Madras (indie dev) opisuje własne rozwiązanie – klucz Steam od razu dla PC, a dla konsol link z tokenem umożliwiający pobranie jednego klucza. ¦ Pytanie zadane przez dewelopera przygotowującego premierę wielogatunkowej gry; odpowiedź udzielona przez innego dewelopera opisującego ich praktyki.
-
----
-
-## Czy Steam Curatorzy przynoszą wymierne korzyści w postaci zwiększonej liczby wishlist?
-
-🟢 **Confidence:** 0.92
-
-Tak, pozytywne doświadczenia wskazują, że duży kurator (np. 400 k obserwujących) może generować dodatkowe 80‑90 wishlist dziennie. Działa to poprzez narzędzie Steam Curator Tool – warto kontaktować się z dużymi kuratorami, rozsyłać im klucze, a jeśli po tygodniu nie otrzymamy reakcji, przestać i skierować się do kolejnych.
-
-**Kontekst:** Pytanie zadane przez dewelopera w kanale #baza-wiedzy, odpowiedź udzielona przez innego członka community, opisująca praktykę kontaktowania się z dużymi kuratorami i monitorowanie reakcji.
 
 ---
 
@@ -320,11 +310,13 @@ Koszt zależy od ceny gry, budżetu na produkcję i marketing oraz od oczekiwane
 
 ## Czy nadchodzący MIX zapewnia większą widoczność niż poprzednie edycje?
 
-🟡 **Confidence:** 0.78
+🟡 **Confidence:** 0.78 · **2× wzmianek**
 
 Nie, według uczestników (Kuba Wójcik) ostatnie edycje MIX mają małą widoczność i nie przynoszą znaczącego zasięgu, mimo że organizatorzy starają się promować komunikaty.
 
-**Kontekst:** Pytanie Jakuba Kwinty o widoczność MIX, odpowiedź Kuby wskazująca na niską widoczność wydarzeń.
+*Inne sformułowania w społeczności:* Czy nadchodzący MIX ma większą widoczność?
+
+**Kontekst:** Pytanie Jakuba Kwinty o widoczność MIX, odpowiedź Kuby wskazująca na niską widoczność wydarzeń. ¦ Jakub Kwinta (indie dev) pyta o to, czy nadchodzący MIX będzie bardziej widoczny po rozczarowujących poprzednich edycjach; Kuba Wójcik odpowiada, że aktualnie widoczność jest niska.
 
 ---
 
@@ -335,15 +327,5 @@ Nie, według uczestników (Kuba Wójcik) ostatnie edycje MIX mają małą widocz
 Tak, wprowadzenie systemu kart (trading cards) może działać jako dodatkowy impuls marketingowy, przyciągając uwagę i podnosząc retencję, zwłaszcza gdy karty są powiązane z tanimi grami w bundle.
 
 **Kontekst:** Użytkownik VVirus/Jakub pyta o skuteczność wprowadzenia kart jako boostu; odpowiedź implikuje pozytywny efekt.
-
----
-
-## Czy nadchodzący MIX ma większą widoczność?
-
-🟡 **Confidence:** 0.70
-
-Według Kuby, ostatnio wszystkie tego typu eventy mają małą widoczność.
-
-**Kontekst:** Jakub Kwinta (indie dev) pyta o to, czy nadchodzący MIX będzie bardziej widoczny po rozczarowujących poprzednich edycjach; Kuba Wójcik odpowiada, że aktualnie widoczność jest niska.
 
 ---

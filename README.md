@@ -3,15 +3,15 @@
 > Wyciąg wiedzy z Discord Masonerii Marketingu — polskiej społeczności indie game marketingowców.
 > Wszystkie wypowiedzi są zanonimizowane, cytowani są tylko publicznie rozpoznawalni deweloperzy z kontekstem ich studio/produktu.
 
-**Aktualizowane:** 2026-05-03
-**Items:** 50 (16 narzędzi, 17 praktyk, 9 Q&A, 8 linków)
+**Aktualizowane:** 2026-05-13
+**Items:** 734 (225 narzędzi, 210 praktyk, 68 Q&A, 231 linków)
 
 ## Spis treści
 
-- [🛠️ Narzędzia polecone](tools.md) (16)
-- [📘 Dobre praktyki](practices.md) (17)
-- [❓ Pytania i odpowiedzi](qa.md) (9)
-- [🔗 Linki i zasoby](links.md) (8)
+- [🛠️ Narzędzia polecone](tools.md) (225)
+- [📘 Dobre praktyki](practices.md) (210)
+- [❓ Pytania i odpowiedzi](qa.md) (68)
+- [🔗 Linki i zasoby](links.md) (231)
 
 ## Co to jest?
 

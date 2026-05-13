@@ -2,100 +2,688 @@
 
 > Realne pytania z community z odpowiedziami skondensowanymi z dyskusji.
 
-**9 items**, sortowane malejąco po confidence.
+**68 items**, sortowane malejąco po confidence.
 
 [← powrót do głównej](README.md)
 
 ---
 
-## Czy Steam Daily Deal można mieć więcej niż raz w roku?
+## Jakie są kryteria gry do rozdawki?
+
+🟢 **Confidence:** 0.93
+
+Gra może być starsza, nie może być niskiej jakości („chujowa”) oraz musi być dostępna na GOG. Nie może wcześniej występować w rozdawce na CDA.
+
+**Kontekst:** Wątek dotyczy organizacji rozdawki gier na GOG. Użytkownik VVirus zapytał o kryteria, a praktyk z portfolio Movie Games/GOG odpowiedział, wymieniając warunki dotyczące wieku, jakości i platformy gry.
+
+---
+
+## Czy Steam Curatorzy naprawdę zwiększają liczbę wishlistek?
+
+🟢 **Confidence:** 0.92
+
+Tak, działają – warto używać narzędzia Steam Curator, wysyłać klucze do dużych curatorów, a jeśli nie przyjmą w ciągu tygodnia, odebrać klucz i przekazać go innym.
+
+**Kontekst:** Dyskusja w kanale #baza-wiedzy, 2024-09-17. Użytkownik zapytał o pozytywne doświadczenia z curatorami, a inny użytkownik opisał swój proces.
+
+---
+
+## Czy Steam Curatorzy naprawdę zwiększają liczbę wishlistów?
+
+🟢 **Confidence:** 0.92
+
+Tak, działają – warto używać Steam Curator Tool, wysyłać klucze do dużych curatorów, po tygodniu sprawdzić reakcję i w razie braku odpowiedzi odwołać dostęp i skierować klucze do kolejnych curatorów.
+
+**Kontekst:** Dyskusja w kanale #baza-wiedzy, 2024-09-17. Użytkownik zapytał o pozytywne doświadczenia z curatorami, inny podał praktyczną metodę kontaktu i follow‑up.
+
+---
+
+## Czy Steam Curatorzy przynoszą wymierne korzyści w postaci zwiększonej liczby wishlist?
+
+🟢 **Confidence:** 0.92
+
+Tak, pozytywne doświadczenia wskazują, że duży kurator (np. 400 k obserwujących) może generować dodatkowe 80‑90 wishlist dziennie. Działa to poprzez narzędzie Steam Curator Tool – warto kontaktować się z dużymi kuratorami, rozsyłać im klucze, a jeśli po tygodniu nie otrzymamy reakcji, przestać i skierować się do kolejnych.
+
+**Kontekst:** Pytanie zadane przez dewelopera w kanale #baza-wiedzy, odpowiedź udzielona przez innego członka community, opisująca praktykę kontaktowania się z dużymi kuratorami i monitorowanie reakcji.
+
+---
+
+## Czy ktoś tłumaczy gry na tradycyjny chiński?
+
+🟢 **Confidence:** 0.92
+
+Tak, deweloper z community (Michał z MythicOwl Games) tłumaczy gry na tradycyjny chiński, w tym store page i samą grę, publikując je na Steam przed premierą (przykład: gra Truckful).
+
+**Kontekst:** Zapytanie pojawiło się w kanale ogólnym, odpowiedź udzielona przez Michał z MythicOwl Games, który potwierdził, że tłumaczenia są robione zarówno w grze, jak i na stronie sklepowej, i że publikują je na Steam przed wydaniem.
+
+---
+
+## Czy ktoś tłumaczy gry na tradycyjny chiński?
+
+🟢 **Confidence:** 0.92
+
+Tak, deweloperzy z community tłumaczą gry na tradycyjny chiński i publikują je m.in. na Steamie (przykład: gra Truckful).
+
+**Kontekst:** Wątek na kanale ogólnym, pytanie o tłumaczenia na tradycyjny chiński oraz o publikację gier premium na Steamie. Odpowiedzi od kilku członków, w tym Michał z MythicOwl Games, potwierdzające, że tłumaczą i już wypuścili poprawki na stronie sklepu.
+
+---
+
+## Czy ktoś tłumaczy gry na tradycyjny chiński?
+
+🟢 **Confidence:** 0.92
+
+Tak, niektórzy deweloperzy (np. Michał z MythicOwl Games) tłumaczą gry na tradycyjny chiński i publikują je na Steam, w tym aktualizują stronę sklepu przed premierą (przykład: gra Truckful).
+
+**Kontekst:** Pytanie zadane w kanale ogólnym, odpowiedź od dewelopera znanego w polskim gamedevie (Michał z MythicOwl Games) opisująca ich praktykę tłumaczenia i publikacji na Steam.
+
+---
+
+## Czy można wycofać lub zmienić SKU gry na Steamie?
+
+🟢 **Confidence:** 0.92
+
+Steam nie pozwala na zmianę SKU istniejącej gry w przypadku, gdy gra była już w Early Access i została wyłączona z sprzedaży – nie można utworzyć nowego SKU i przenieść graczy z wcześniejszego etapu. Można jednak utworzyć nowy produkt (nowe SKU) pod warunkiem, że różni się on znacząco od pierwotnego (np. nowa wersja, inny tytuł, duża zmiana zawartości).
+
+**Kontekst:** Pytanie zadane przez Jakuba Kwintę o możliwość wycofania SKU ze Steama. Odpowiedzi od TomkaTomasza i Kuby opisują własne doświadczenia: w 2020 roku nie pozwolono na nowy SKU po wyłączeniu Early Access, a nowy produkt wymaga istotnej różnicy.
+
+---
+
+## Czy można wycofać lub zmienić SKU gry na Steamie?
+
+🟢 **Confidence:** 0.92
+
+Steam generalnie nie pozwala na zmianę SKU (np. zamianę istniejącego produktu na nowy) bez znaczącej różnicy w zawartości. W przeszłości (2020) deweloperzy nie mogli wyłączyć Early Access i jednocześnie utworzyć nowego SKU, a jedynie musieli stworzyć zupełnie nowy produkt, który musi się znacząco różnić od poprzedniego.
+
+**Kontekst:** Dyskusja w kanale ogólnym masoneria, 2024-09-17. Użytkownik Jakub Kwinta (indie dev) pyta o możliwość wycofania SKU ze Steama. TomekTomasz (indie dev) i Kuba Wójcik podają własne doświadczenia: w 2020 roku nie pozwolono na nowy SKU po wyłączeniu Early Access, a jedynie na nowy produkt, który musi się znacząco różnić.
+
+---
+
+## Czy przy organizacji Daily Deal na Steam oferta pojawia się automatycznie w panelu "Zarządzanie ofertami dnia", czy trzeba najpierw otworzyć ticket?
+
+🟢 **Confidence:** 0.92
+
+Z dokumentacji Steam wynika, że przy spełnieniu warunków oferta powinna być widoczna automatycznie, ale w praktyce trzeba najpierw otworzyć ticket, a osoba przyjmująca ticket musi ręcznie przyznać Daily Deal.
+
+**Kontekst:** Dyskusja w kanale #baza-wiedzy 2025-03-11, użytkownik Michał z MythicOwl Games pyta o proces, a inny użytkownik potwierdza konieczność ticketu i ręcznego przyznania.
+
+---
+
+## Czy przy organizacji Daily Deal na Steam oferta pojawia się automatycznie w panelu „Zarządzanie ofertami dnia”, czy trzeba najpierw otworzyć ticket?
+
+🟢 **Confidence:** 0.92
+
+Z dokumentacji Steam wynika, że przy spełnieniu warunków oferta powinna być widoczna automatycznie, ale w praktyce trzeba najpierw otworzyć ticket, a osoba przyjmująca ticket musi ręcznie przyznać Daily Deal. Dodatkowo istnieje ograniczenie jednego DD na rok i nie można mieć dwóch jednocześnie.
+
+**Kontekst:** Dyskusja w kanale #baza-wiedzy, 2025-03-11. Użytkownik Michał z MythicOwl Games pyta o proces, a odpowiedź podaje praktyczne doświadczenie i wskazuje na konieczność ticketu oraz ręcznego przyznania.
+
+---
+
+## Czy przy organizacji Daily Deal na Steam trzeba najpierw otworzyć ticket, czy oferta pojawia się automatycznie w panelu „Zarządzanie ofertami dnia”?
+
+🟢 **Confidence:** 0.92
+
+Zgodnie z doświadczeniem dewelopera, mimo że dokumentacja Steam sugeruje automatyczne wyświetlanie oferty po spełnieniu warunków, w praktyce trzeba najpierw otworzyć ticket, a Steam ręcznie przyznaje Daily Deal.
+
+**Kontekst:** Dyskusja w kanale #baza-wiedzy, 2025-03-11. Użytkownik Michał z MythicOwl Games pyta o proces, a inny użytkownik potwierdza konieczność ticketu i ręcznego przyznania.
+
+---
+
+## Jak efektywnie promować grę na Redditzie?
+
+🟢 **Confidence:** 0.92
+
+Najlepiej zaczynać od r/IndieGaming, unikać jednoczesnego postowania na r/indiegames ze względu na duży overlap. Odpowiadać na każdy komentarz, nawet krótko, co podbija post. Dodatkowo publikować na r/macgaming, r/linuxgaming, r/CozyGamers oraz subreddity o dużej widowni (+100k). Unikać nadmiernej auto‑promocji przy słabym materiale, bo admini mogą usuwać posty.
+
+**Kontekst:** Użytkownik Michał z MythicOwl Games opisuje swoją strategię promocji gry na różnych subredditach, podkreślając znaczenie jakości treści i interakcji w komentarzach.
+
+---
+
+## Jak podchodzić do bezpośredniego reachout'u do content creatorów – od razu klucz czy najpierw luźny mail?
+
+🟢 **Confidence:** 0.92
+
+Wysyłaj od razu klucz (np. Steam) przy releasach PC‑only. Dla wersji konsolowych używaj systemu z unikalnym tokenem, który pozwala odbiorcy pobrać klucz do wybranej platformy z backendu.
+
+**Kontekst:** Pytanie zadane przez dewelopera przygotowującego premierę wielogatunkowej gry; odpowiedź udzielona przez innego dewelopera opisującego ich praktyki.
+
+---
+
+## Jak podchodzić do bezpośredniego reachout'u do content creatorów – od razu wysyłać klucz czy najpierw zapytać o zainteresowanie?
+
+🟢 **Confidence:** 0.92
+
+Wysyłka klucza od razu zwiększa szansę na szybki coverage i skraca proces, ale niesie ryzyko wycieku na czarny rynek. Alternatywa – najpierw luźny mail z zapytaniem o zainteresowanie, co pozwala zweryfikować chęć, ale może wywołać pytania o wynagrodzenie. Praktyka: w przypadku gier PC‑only niektórzy wysyłają od razu klucz Steam; przy grach na konsole stosują system linków z unikalnym tokenem, który pozwala odbiorcy pobrać jeden klucz na wybraną platformę.
+
+**Kontekst:** Faenen (indie dev) pyta o strategię reachout'u do dużych twórców przy premierze wielogatunkowej gry. Madras (indie dev) opisuje własne rozwiązanie – klucz Steam od razu dla PC, a dla konsol link z tokenem umożliwiający pobranie jednego klucza.
+
+---
+
+## Jak zarządzać kluczami Steamowymi i wysyłką do influencerów?
+
+🟢 **Confidence:** 0.92
+
+Zaleca się używać osobnego, regularnie aktualizowanego brancha z demem przeznaczonym dla influencerów. Publiczne demo jest najprostsze, ale przy zamkniętym demo warto mieć dedykowany branch, aby po zredeemowaniu klucza influencer widział aktualizację w karcie gry na Steamie i mógł wrócić do gry później.
+
+**Kontekst:** Jakub Kwinta (indie dev) pyta o sposoby usprawnienia wysyłki kluczy i zmniejszenia bounce rate; Michał z MythicOwl Games opisuje praktykę używania osobnego brancha i zalety publicznego vs zamkniętego demo.
+
+---
+
+## Jaki discount wybrać przy premierze gry (10%, 15% czy 20%)?
+
+🟢 **Confidence:** 0.92
+
+W dyskusji sugerowano, że 10% jest zbyt małe i może rozczarować klientów, 20% może zbyt mocno obniżyć późniejsze wyprzedaże, a 15% jest kompromisem – wystarczającą zachętą przy jednoczesnym zachowaniem marginesu na późniejsze promocje.
+
+**Kontekst:** TomekTomasz (indie dev) pyta o optymalny launch discount przy cenie 17.99 USD/EUR i planowanej premierze 30 stycznia. Użytkownicy (Michał z MythicOwl Games, Kuba Wójcik) podają swoje opinie.
+
+---
+
+## Jaki discount wybrać przy premierze gry (10 % vs 15 % vs 20 %)?
+
+🟢 **Confidence:** 0.92
+
+Społeczność sugeruje, że 10 % to zbyt mało i nie przyciąga uwagi, 20 % może zbytnio „spalić” późniejsze wyprzedaże, a optymalnym kompromisem jest 15 % na start. Alternatywnie można obniżyć cenę do jednego z popularnych progów (np. 14,99 $ zamiast 17,99 $).
+
+**Kontekst:** TomekTomasz (indie dev) pyta o wielkość launch discountu przy 15 k wishliście i cenie 17,99 USD/EUR. Odpowiedzi od Michała (Michał z MythicOwl Games) i Kuby podpowiadają 15 % lub zmianę ceny na 14,99 $.
+
+---
+
+## Jaki discount wybrać przy premierze gry na Steamie?
+
+🟢 **Confidence:** 0.92
+
+Zaleca się raczej 15% lub obniżenie ceny do jednego z popularnych progów (np. 14,99 $) zamiast 20%, aby nie spalić powiadomienia o pierwszej zniżce i nie zniechęcić kolejnych wyprzedaży.
+
+**Kontekst:** TomekTomasz (indie dev) pyta o optymalny launch discount (20% vs 10%). Michal (Michał z MythicOwl Games) sugeruje 15%, Kuba Wójcik podpowiada obniżenie ceny do 14,99 $, co jest jednym z najczęściej sprzedających się progów cenowych.
+
+---
+
+## Jakie są doświadczenia z wrzucaniem dema na keymailera?
+
+🟢 **Confidence:** 0.92
+
+Wyniki są mieszane: niektórzy twierdzą, że udało się uzyskać dodatkowe wideo promocyjne, ale ogólnie doświadczenia są słabe, a wiele osób sprzedaje klucze na G2A/Kinguin, więc nie poleca się tego rozwiązania dla wersji demo, zwłaszcza gdy demo jest już publicznie dostępne na Steam.
+
+**Kontekst:** Kuba Wójcik pyta o doświadczenia z keymailerem; Piotr wspomina o wideo, a Michał z MythicOwl Games podkreśla słabe wyniki i ryzyko sprzedaży kluczy na platformach trzecich.
+
+---
+
+## Jakie są doświadczenia z wrzucaniem dema na keymailera?
+
+🟢 **Confidence:** 0.92
+
+Wyniki są mieszane – niektórzy zauważyli jedynie niewielki wzrost zainteresowania (np. pojawienie się wideo), ale ogólnie nie przynosi to znaczących efektów. Dodatkowo istnieje ryzyko, że klucze demo zostaną sprzedane na rynkach wtórnych (G2A, Kinguin), więc nie polecane, zwłaszcza gdy demo jest już publicznie dostępne na Steam.
+
+**Kontekst:** Dyskusja w kanale ogólnym serwera masoneria, 2026-03-06, użytkownicy Kuba Wójcik, praktyk z portfolio Movie Games/GOG i Michal (Michał z MythicOwl Games) wymieniają się opiniami na temat publikacji dema na platformach typu keymailer.
+
+---
+
+## Jakie są doświadczenia z wrzucaniem dema na keymailera?
+
+🟢 **Confidence:** 0.92
+
+Wyniki są mieszane – niektórzy twierdzą, że udało się uzyskać dodatkowe wideo promocyjne, ale ogólnie doświadczenia są słabe; wiele osób sprzedaje klucze na G2A/Kinguin, co nie jest polecane, zwłaszcza gdy demo jest już publicznie dostępne na Steam.
+
+**Kontekst:** Kuba Wójcik pyta o doświadczenia z publikacją dema na platformach typu keymailer. Piotr wspomina o uzyskaniu wideo, a Michał z MythicOwl Games podkreśla, że efekty są zazwyczaj niewielkie i nie poleca takiego podejścia, szczególnie przy dostępności demo na Steam.
+
+---
+
+## Jakie są doświadczenia z wrzucaniem dema na keymailera?
+
+🟢 **Confidence:** 0.92
+
+Wyniki są mieszane – niektórzy zauważyli jedynie niewielki wzrost zainteresowania (np. wideo), ale generalnie nie przynosi to znaczących korzyści, a klucze z demami często trafiają na serwisy takie jak G2A/Kinguin. Nie polecane, zwłaszcza gdy demo jest już dostępne publicznie na Steam.
+
+**Kontekst:** Dyskusja w kanale ogólnym serwera masoneria, 2026-03-06. Użytkownik Kuba Wójcik pyta o doświadczenia, Piotr wspomina o wideo, Michał z MythicOwl Games podkreśla brak wymiernych korzyści i ryzyko sprzedaży kluczy na rynku wtórnym.
+
+---
+
+## Jakie są kryteria wyboru gier do rozdawki?
+
+🟢 **Confidence:** 0.92
+
+Gra może być starsza, musi być dostępna na GOG, nie może być niskiej jakości oraz nie może wcześniej występować w rozdawce na CDA.
+
+**Kontekst:** Użytkownik zapytał o kryteria dotyczące daty wydania i pochodzenia gry; odpowiedź udzielona przez praktyk z portfolio Movie Games/GOG w dyskusji o rozdawce gier na GOG.
+
+---
+
+## Czy Steam Curatorzy naprawdę zwiększają liczbę wishlistów?
+
+🟢 **Confidence:** 0.90
+
+Pozytywne doświadczenia wskazują, że duży curator (np. 400 k followersów) może przynieść dodatkowe 80‑90 wishlistów dziennie. Działa to szczególnie przy kontaktowaniu się z curatorami o dużej liczbie obserwujących i oferowaniu im kluczy; jeśli nie reagują, warto odwołać im dostęp i spróbować z innymi.
+
+**Kontekst:** Pytanie zadane przez dewelopera o skuteczność curatorów; odpowiedź od innego dewelopera opisująca praktykę wysyłania kluczy dużym curatorom, monitorowanie reakcji i rotację w razie braku odpowiedzi.
+
+---
+
+## Czy TikTok ma sensowne targetowanie?
+
+🟢 **Confidence:** 0.90
+
+TikTok umożliwia targetowanie jedynie po kraju, w którym znajduje się użytkownik, więc możliwości precyzyjnego targetowania są ograniczone.
+
+**Kontekst:** Użytkownik zapytał o możliwości targetowania reklam na TikTok, a inny użytkownik odpowiedział, że platforma pozwala jedynie na targetowanie geograficzne po kraju.
+
+---
+
+## Czy można wycofać istniejący SKU i dodać nowy produkt na Steamie?
+
+🟢 **Confidence:** 0.90
+
+Steam generalnie nie pozwala na usunięcie istniejącego SKU i zastąpienie go nowym, zwłaszcza w przypadku gier w Early Access. Można jednak utworzyć nowy SKU, pod warunkiem że różni się znacząco od poprzedniego (np. nowa wersja, duża zmiana zawartości).
+
+**Kontekst:** Deweloperzy opisują własne doświadczenia: w 2020 roku nie pozwolono na zmianę SKU w grze w Early Access, a inny deweloper został poinformowany, że nowy SKU musi się znacząco różnić od starego.
+
+---
+
+## Czy przy organizacji Daily Deal na Steam trzeba najpierw otworzyć ticket, czy oferta pojawia się automatycznie w panelu „Zarządzanie ofertami dnia”?
+
+🟢 **Confidence:** 0.90
+
+Z dokumentacji Steam wynika, że przy spełnieniu warunków oferta powinna być widoczna automatycznie, ale w praktyce najczęściej trzeba najpierw otworzyć ticket i poprosić o ręczne przyznanie Daily Deal. Po otwarciu ticketu oferta pojawia się w panelu.
+
+**Kontekst:** Użytkownik Michał z MythicOwl Games pyta o proces przydzielania Daily Deal; inny użytkownik potwierdza, że wymaga to ticketu, mimo że dokumentacja sugeruje automatyczne wyświetlanie.
+
+---
+
+## Czy simlaunch na Steam i Google Play (premium model) może kanibalizować sprzedaż na Steam?
+
+🟢 **Confidence:** 0.90
+
+Z doświadczenia jednego z uczestników wynika, że gracze Steam i mobile to dwie odrębne grupy, więc kanibalizacja sprzedaży jest mało prawdopodobna.
+
+**Kontekst:** Pytanie zadane przez Michała (Michał z MythicOwl Games) o case studies simlaunchu na Steam i Google Play. Odpowiedź od Forrestala wskazuje na różnice demograficzne między platformami.
+
+---
+
+## Czy simlaunch na Steam i Google Play (premium model) może kanibalizować sprzedaż na Steam?
+
+🟢 **Confidence:** 0.90
+
+Z doświadczenia jednego z uczestników wynika, że gracze Steam i mobile to dwie odrębne grupy, więc kanibalizacja sprzedaży jest mało prawdopodobna.
+
+**Kontekst:** Pytanie zadane przez Michała (Michał z MythicOwl Games) o case studies simlaunchu na Steam i Google Play oraz ryzyko kanibalizacji. Odpowiedź od Forrestala wskazuje na różnice demograficzne między platformami.
+
+---
+
+## Ile wishlist potrzebnych jest do sprzedaży 1000 kopii w pierwszym tygodniu?
+
+🟢 **Confidence:** 0.90
+
+Zalecane minimum to około 10 000 wishlist; przy aktualnym współczynniku konwersji 0,14–0,2 (14‑20 %) daje to szacowaną sprzedaż 1400‑2000 sztuk, więc 1000 kopii jest realistyczne.
+
+**Kontekst:** Pytanie zadane przez TomekTomasz (indie dev), odpowiedź udzielona przez praktyk z portfolio Movie Games/GOG, odwołująca się do kalkulatora i własnych danych.
+
+---
+
+## Ile wishlist potrzebnych jest do sprzedaży 1000 kopii w pierwszym tygodniu?
+
+🟢 **Confidence:** 0.90
+
+Zalecane minimum to około 10 000 wishlist; przy konwersji 10 % (lub niższej, aktualnie ~0,14) daje to realistyczne szanse na 1000 sprzedaży.
+
+**Kontekst:** Pytanie zadane przez Tomka, odpowiedź od praktyk z portfolio Movie Games/GOG i Kuby, odwołująca się do kalkulatora i własnych danych.
+
+---
+
+## Ile wishlists potrzebnych do sprzedaży 1000 kopii w pierwszym tygodniu?
+
+🟢 **Confidence:** 0.90
+
+Przy konwersji około 10 % (0,1) z wishlists na sprzedaż, potrzebne jest około 10 000 wishlists, aby osiągnąć 1000 sprzedanych egzemplarzy w pierwszym tygodniu.
+
+**Kontekst:** TomekTomasz (indie dev) zapytał o wymaganą liczbę wishlists; praktyk z portfolio Movie Games/GOG odpowiedział, że nie startuje się poniżej 10 k, co implikuje potrzebę takiej liczby.
+
+---
+
+## Jaki discount wybrać przy premierze gry 17.99 USD/EUR?
+
+🟢 **Confidence:** 0.90
+
+Zaleca się raczej 15% startowy discount; 10% jest zbyt mały, 20% może zbytnio obniżyć kolejne promocje. Alternatywnie można obniżyć cenę do 14.99 zamiast 17.99.
+
+**Kontekst:** TomekTomasz (indie dev) pyta o optymalny launch discount przy 15k wishlist i planowanej premierze 30 stycznia. Odpowiedzi od Michała (Michał z MythicOwl Games) i Kuby sugerują 15% lub zmianę ceny do 14.99.
+
+---
+
+## Co musiałoby zrobić GOG, żeby warto było wydać tam grę?
 
 🟢 **Confidence:** 0.88
 
-Obowiązuje limit jednego curated Daily Deala na rok. Można spróbować zgłosić ticket, ale Steam czasem daje DD z łapki (bez ticketu) — jednak drugie DD obok siebie nie jest możliwe. Limit potwierdził Steam support.
+GOG powinien aktywnie uczestniczyć w promocji gry – np. dostarczać ruch, umieszczać banery, organizować eventy i ogłaszać premiery, a nie tylko czekać na organiczny popyt. Deweloperzy są skłonni rozważyć wydanie na GOG, gdy widzą wyraźne wsparcie marketingowe i przynajmniej kilkadziesiąt tysięcy wishlists na Steam.
 
-**Kontekst:** praktyk z portfolio Movie Games/GOG (doświadczenie z GOG/MG), Michał z MythicOwl Games. Temat przewijał się przy planowaniu Daily Deala przez Michał z MythicOwl Games.
+**Kontekst:** Dyskusja pomiędzy deweloperem z community a Michałem (Michał z MythicOwl Games) na temat warunków wydania gry na GOG. Michał podkreśla, że GOG musi aktywnie promować grę, aby 10 % przychodu było opłacalne, zwłaszcza przy niższych liczbach wishlists.
 
 ---
 
-## Jak sprawdzić rozkład recenzji Steam Purchasers vs inne źródła?
+## Czy Future Games Show oferuje sloty dla indie?
 
 🟢 **Confidence:** 0.88
 
-Sam Steam nie pokazuje tego podziału bezpośrednio. Narzędzie: Steam Review Explorer (joshhills.dev) — pozwala filtrować recenzje m.in. po typie zakupu i eksportować dane. Nie jest to oficjalny Steam tool.
+Tak, FGS przyjmuje zgłoszenia na sloty redakcyjne (np. krótkie 15‑sekundowe materiały) poprzez formularz zgłoszeniowy. Gry powinny być emocjonujące, pozbawione kontrowersji i mieć gotowy materiał promocyjny.
 
-**Link:** https://project.joshhills.dev/steam-review-explorer/
-
-**Kontekst:** TomekTomasz (indie dev) pytał, Jakub Kwinta (indie dev) polecił tool. Używany przez kilka osób z community do głębszej analizy recenzji.
+**Kontekst:** Pytanie Jakuba Kwinty o indie sloty na FGS, odpowiedź udzielona przez praktyk z portfolio Movie Games/GOG i Kubę.
 
 ---
 
-## Czy agencja PR dla gier (Evolve, biggamesmachine) jest warta pieniędzy?
+## Czy można wycofać SKU ze Steama i stworzyć nowy produkt zamiast starego?
+
+🟢 **Confidence:** 0.88
+
+Steam generalnie nie pozwala na utworzenie nowego SKU, jeśli gra była wcześniej w Early Access i chcesz zamienić ją na nowy produkt – wymaga to istotnej różnicy w zawartości gry. W przeszłości (2020) próbowano, ale Steam odmówił, choć w niektórych przypadkach można uzyskać zgodę, pod warunkiem że nowy produkt znacząco różni się od poprzedniego.
+
+**Kontekst:** Dyskusja w kanale ogólnym masoneria, 2024-09-17. Użytkownik Jakub Kwinta (indie dev) pyta o możliwość wycofania SKU i stworzenia nowego demo. TomekTomasz (indie dev) i Kuba Wójcik podają własne doświadczenia z Steamem.
+
+---
+
+## Czy w nowej wersji panelu wydawcy na Steamie są dostępne announcementy wydawcy?
+
+🟢 **Confidence:** 0.88
+
+W nowej wersji panelu wydawcy usunięto tradycyjne miejsce wyświetlania announcementów; można je nadal tworzyć, ale nie ma widocznego miejsca na stronie głównej. Alternatywnie można używać ogłoszeń w grupie Steam Community.
+
+**Kontekst:** Kuba Wójcik pyta o miejsce wyświetlania announcementów po zmianie UI, a HM potwierdza, że działają one w grupie społecznościowej.
+
+---
+
+## Czy w odniesieniu do ostatnich zmian Steama dot. pricingu próbujecie u siebie wprowadzać jakieś zmiany?
+
+🟢 **Confidence:** 0.88
+
+Niektórzy deweloperzy (np. Kuba Wójcik) już wprowadzili zmiany w cenach po aktualizacji Steam, planują dodatkowe informacje w sobotę. Inni zauważają, że można było ustawić niższe ceny dla Polski wcześniej i że nowe sugestie Steam mogą nie przynieść korzyści. Jakub Kwinta (indie dev) testuje różne przeliczniki i benchmarkuje 3‑4 wydawców, aby dostosować % cen w wybranych krajach.
+
+**Kontekst:** Dyskusja po publikacji wideo o zmianach w algorytmie Steam dotyczących regionalnych cen. Uczestnicy wymieniają doświadczenia i strategie dostosowywania cen w Polsce.
+
+---
+
+## Dlaczego gra o niskich przychodach pojawia się w Steam Daily Deals?
+
+🟢 **Confidence:** 0.88
+
+Steam wprowadził zmiany w kryteriach kwalifikacji do Daily Deals, które wymagają dziesiątek tysięcy przychodów (rev) w miesiącu. Gra z niewielkim lifetime revenue nie spełnia tych wymagań, więc jej obecność w promocji jest nietypowa i najprawdopodobniej wynika z błędu lub wyjątkowego porozumienia z wydawcą.
+
+**Kontekst:** Użytkownik Michał z MythicOwl Games zauważył grę Class Escape w Daily Deals i wskazał, że nowe zasady Steam wymagają wysokich przychodów, których ta gra nie ma.
+
+---
+
+## Dlaczego gra pojawia się w Steam Daily Deals?
+
+🟢 **Confidence:** 0.88
+
+Steam wprowadził zmiany w kryteriach Daily Deals, które wymagają posiadania dziesiątek tysięcy przychodu (rev) w miesiącu. Gry, które nie spełniają tego progu, nie mają szans na udział w promocji, a wydawcy muszą dodatkowo spełniać wymagany pulap sprzedaży.
+
+**Kontekst:** Użytkownik Michał z MythicOwl Games wyjaśnia, że zmiany w Steam sugerują konieczność wysokich miesięcznych przychodów, co wyklucza mniejsze tytuły z Daily Deals.
+
+---
+
+## Gdzie najlepiej prowadzić reklamy generujące wishlisty?
+
+🟢 **Confidence:** 0.88
+
+Najskuteczniejsze są kampanie na X (Twitter). Działają początkowo, ale szybko następuje spadek efektywności. Reddit nie przynosi praktycznie konwersji, działa głównie na brand awareness. Koszt może wynosić ok. 3 zł/wishlist przy krótkotrwałej kampanii, ale utrzymanie takiej ceny jest trudne.
+
+**Kontekst:** Dyskusja w kanale ogólnym masoneria, 2024‑12‑09. Użytkownik TomekTomasz (indie dev) pyta o platformy reklamowe, a Michał z Michał z MythicOwl Games opisuje własne doświadczenia z X, Reddit oraz podaje przykład kosztu $0.4/wishlist przy kampanii globalnej.
+
+---
+
+## Jak często pojawiają się Featured Deals na Steamie?
+
+🟢 **Confidence:** 0.88
+
+Featured Deals na Steamie są publikowane generalnie raz w roku.
+
+**Kontekst:** Wiadomość od użytkownika TomekTomasz (indie dev), odwołująca się do konkretnego wątku na Discordzie, zawierającego informację o rocznej częstotliwości Featured Deals.
+
+---
+
+## Jak uzyskać slot redakcyjny na Future Games Show / gamescomowy event?
+
+🟢 **Confidence:** 0.88
+
+Należy przygotować krótką, emocjonującą zapowiedź i trailer (np. 15‑sekundowy), wypełnić formatkę zgłoszenia redakcyjnego podaną przez organizatorów i wysłać pitch z informacjami o dacie premiery oraz ewentualnym release’em w dniu eventu. Ważne, aby gra nie budziła kontrowersji i była atrakcyjna pod kątem emocji.
+
+**Kontekst:** Jakub Kwinta (indie dev) pyta o możliwość umieszczenia gry w editorial slotach na Future Games Show. Odpowiedzi podkreślają potrzebę solidnego trailera, zapowiedzi oraz wypełnienia formularza redakcyjnego.
+
+---
+
+## Jak zarządzać kluczami Steamowymi i wysyłką do influencerów?
+
+🟢 **Confidence:** 0.88
+
+Zaleca się używać osobnego, aktualizowanego brancha demo dostępnego po zredeemowaniu klucza. Publiczne demo eliminuje problemy z hasłami, ale zamknięty branch daje influencerom poczucie ekskluzywności i zwiększa szansę, że zagrają w grę.
+
+**Kontekst:** Pytanie zadane przez Jakuba Kwintę, odpowiedź udzielona przez Michała (Michał z MythicOwl Games) na kanale masoneria#ogólny.
+
+---
+
+## Jak zarządzać kluczami Steamowymi i wysyłką do influencerów?
+
+🟢 **Confidence:** 0.88
+
+Zaleca się tworzenie osobnego, aktualizowanego brancha demo dla influencerów. Publiczne demo jest najprostsze, ale jeśli potrzebny jest zamknięty dostęp, osobny branch pozwala na zamknięte klucze, a po ich zredeemowaniu influencer widzi aktualizację w karcie gry, co zachęca do ponownego zagrania.
+
+**Kontekst:** Pytanie zadane przez Jakuba Kwintę, odpowiedź udzielona przez Michała (Michał z MythicOwl Games) z doświadczeniem przy grze Truckful.
+
+---
+
+## Jakie treści i zachowania zwiększają szanse na pozytywne przyjęcie postu na r/IndieGaming?
+
+🟢 **Confidence:** 0.88
+
+Posty z wysokiej jakości wideo‑trailerem lub atrakcyjnymi screenshotami oraz regularne odpowiadanie na komentarze są lepiej oceniane. Unikaj nadmiernej autopromocji przy niskiej jakości materiałach, bo admini mogą usunąć post. Dobrej jakości prezentacja i użycie flairu developera zwiększają szanse, że post zostanie zauważony i przyniesie wishlisty.
+
+**Kontekst:** Michał z MythicOwl Games wyjaśnia, że początkowo jego posty były usuwane za słabą jakość i nadmierną autopromocję, ale po poprawie materiałów i aktywności w komentarzach uzyskał lepsze wyniki.
+
+---
+
+## Czy TikTok ma sensowne targetowanie reklamowe?
 
 🟢 **Confidence:** 0.87
 
-Wyniki bardzo zmienne. Evolve: od $4k (negocjowane) do $15k — skuteczność od 'nic' do 'kilka artykułów na Eurogamer/Destructoid'. biggamesmachine: w miarę zadowoleni, ale mniej niż się spodziewano. Wspólna obserwacja: 'gra musi mieć to coś' — bez tego żadna agencja nie pomoże. Bezpośredni reachout własny > agencja jeśli masz czas.
+TikTok umożliwia targetowanie głównie na podstawie kraju, w którym znajduje się użytkownik, co ogranicza precyzyjne dopasowanie do konkretnej grupy demograficznej.
 
-**Kontekst:** Michał z MythicOwl Games, Kuba Wójcik, Jakub Kwinta (indie dev) — wszyscy mają doświadczenia z różnymi agencjami.
-
----
-
-## GameTrailers czy YouTube IGN na ekskluzywny trailer?
-
-🟢 **Confidence:** 0.87
-
-GameTrailers (1M+ subów) regularnie daje lepsze wyniki niż YouTube IGN (18M subów) dla indie gier. IGN bywa trudny we współpracy i kręci nosem gdy exclusive słabo performuje. Wniosek: dla indie games GT jest lepszym wyborem przy premierze trailera.
-
-**Kontekst:** Michał z MythicOwl Games: GT 3x więcej wyświetleń niż IGN przy premierze trailera Truckfula. Kuba Wójcik potwierdza obserwację. Jakub Kwinta (indie dev) też to widział.
+**Kontekst:** TomekTomasz (indie dev) pyta o możliwości targetowania w TikTok; Kuba Wójcik odpowiada, że targetowanie odbywa się jedynie po kraju.
 
 ---
 
-## Czy warto wydać grę jednocześnie na Steam i GOG?
+## Czy Sony wymaga zwrotu lub wymiany devkitów po określonym terminie?
 
 🟢 **Confidence:** 0.85
 
-GOG generuje ok. 10% przychodu Steam dla indie gier. Współpraca komunikacyjna z GOG jest dobra (chętnie włączają gry do promek). Motywacja do bycia na GOG: część graczy Kickstarterowych i fanów DRM-free tam jest. Bariera: GOG wymaga curation approval. Czasowa wyłączność dla GOG — konsensus community: nie warto, gracze Steam się wkurzają.
+Sony zazwyczaj wypożycza devkity na okres 2 lat i wymaga ich zwrotu po upływie tego czasu; brak zwrotu może skutkować koniecznością zakupu nowych lub renegocjacji warunków.
 
-**Kontekst:** praktyk z portfolio Movie Games/GOG zbierał opinie community dla celów zawodowych (GOG). Michał z MythicOwl Games, Jakub Kwinta (indie dev), Kuba Wójcik dzielą się doświadczeniami.
+**Kontekst:** Pytanie zadane przez dewelopera z community dotyczące otrzymania maila o zwrocie/wymianie sprzętu Sony devkitów. Inna osoba (Kuba Wójcik) potwierdził 2‑letni okres wypożyczenia. Dyskusja sugeruje, że po terminie można negocjować zakup lub ponowne wypożyczenie.
 
 ---
 
-## Jak szacować sprzedaż cudzej gry na Steam?
+## Czy TikTok ma sensowne targetowanie?
 
 🟢 **Confidence:** 0.85
 
-Dostępne opcje: Gamalytic (szacuje z recenzji), VGInsights (dość dokładne, bez podziału na miesiące), games-stats.com (tagi i porównania). Płatne: SteamSuite, IndieBI (własne konta). Żaden nie daje podziału miesiąc po miesiącu dla cudzej gry.
+TikTok umożliwia targetowanie jedynie na poziomie kraju, brak bardziej precyzyjnych opcji demograficznych czy zainteresowań.
 
-**Kontekst:** TomekTomasz (indie dev) pytał o estymaty sprzedaży konkurencji. praktyk z portfolio Movie Games/GOG i Michał z MythicOwl Games odpowiadali z własnego doświadczenia.
+**Kontekst:** Użytkownik zapytał o możliwości targetowania reklam na TikToku; odpowiedź udzielona przez uczestnika dyskusji.
 
 ---
 
-## Gdzie najlepiej targetować reklamy na Steam wishlists?
+## Czy istnieją dobre bundlery gier indie poza Fanatical i Humble Bundle?
+
+🟢 **Confidence:** 0.85
+
+Użytkownicy wskazują, że poza Humble Bundle i Fanatical nie ma wielu sensownych opcji; jedynym innym wymienionym jest Indiegala, ale nie jest jasne, czy jest to wartościowy bundle.
+
+**Kontekst:** Kuba Wójcik pyta o alternatywne bundlery. Michal z Michał z MythicOwl Games odpowiada, że ich doświadczenie z Indiegala nie przekonało ich do jego wartości, sugerując brak innych sensownych opcji.
+
+---
+
+## Czy zmiana SKU i przygotowanie nowej strony Steam przejdzie bez problemów?
+
+🟢 **Confidence:** 0.85
+
+Tak, zmiana SKU oraz stworzenie nowej strony Steam powinna przejść bez dodatkowych komplikacji, o ile nie zmienia się wydawca i nie wprowadzane są niezgodne zmiany w treści gry.
+
+**Kontekst:** Pytanie zadane przez Jakuba Kwintę, odpowiedź udzielona przez Kubę i potwierdzona przez innych uczestników.
+
+---
+
+## Gdzie wyświetlane są ogłoszenia (announcements) po zmianie UI na Steamie?
+
+🟢 **Confidence:** 0.85
+
+Po zmianie UI ogłoszenia nie są już wyświetlane na głównej stronie wydawcy, a można je publikować w sekcji Partner Events grupy Steam (np. https://steamcommunity.com/groups/_nazwa_konta_/partnerevents).
+
+**Kontekst:** Użytkownik Kuba Wójcik pyta o miejsce wyświetlania announcementów po aktualizacji; HM wskazuje, że działają jako wydarzenia grupowe.
+
+---
+
+## Gdzie wyświetlane są ogłoszenia (announcements) po zmianie UI na stronie wydawcy Steam?
+
+🟢 **Confidence:** 0.85
+
+Po zmianie interfejsu ogłoszenia nie są już wyświetlane na głównej stronie profilu wydawcy, lecz w sekcji Partner Events (https://steamcommunity.com/groups/_nazwa_konta_/partnerevents).
+
+**Kontekst:** Użytkownik pyta o miejsce wyświetlania ogłoszeń po aktualizacji UI; inny członek community podaje link do sekcji partner events, wyjaśniając, że tam teraz trafiają.
+
+---
+
+## Ile wishlist potrzebnych do sprzedania 1000 kopii w pierwszym tygodniu?
+
+🟢 **Confidence:** 0.85
+
+Zalecane minimum to około 10 000 wishlist; przy konwersji ~10 % (lub niższej, 0,14‑0,2) daje to szacunkowo 1000‑2000 sprzedaży.
+
+**Kontekst:** Tomek pyta o liczbę wishlist; Piotr i Kuba Wójcik podają progowy próg 10 k i wspominają o współczynniku konwersji.
+
+---
+
+## Czy zmiana SKU i nowa strona Steam przejdzie bez problemów?
 
 🟡 **Confidence:** 0.80
 
-Reklamy na X/Twitter na wishlisty: koszty $0.40/WL przy globalnym targetowaniu, ale trakcja szybko spada. Ogólna obserwacja: żadna platforma reklamowa nie daje stabilnych wyników dla wishlistów indie gier przy małych budżetach. Bezpośredni outreach do influencerów > platformy reklamowe.
+Tak, według uczestników zmiana SKU oraz przygotowanie nowej strony Steam powinna przejść bez problemów, o ile nie zmienia się wydawcy i nie ma innych nieprawidłowości.
 
-**Kontekst:** TomekTomasz (indie dev) pytał o doświadczenia z reklamami na wishlisty. Michał z MythicOwl Games dzieli się konkretnymi kosztami. Community generalnie rozczarowana efektywnością płatnych reklam.
+**Kontekst:** Jakub Kwinta (indie dev) pyta o przejście zmiany SKU; Kuba Wójcik i inni twierdzą, że powinno zadziałać.
 
 ---
 
-## Jak wgrać filmiki/GIFy do Steam Newsów bez limitu 5MB?
+## Dlaczego gra „Europa” mimo 200 tys. na wishliście nie była widoczna?
 
 🟡 **Confidence:** 0.80
 
-Steam ma limit 5MB na grafiki w newsach. Rozwiązanie: hostować wideo na zewnętrznym serwisie (YouTube, Streamable) i embedować. GIFy można hostować na imgurze (uwaga: imgur zmieniał politykę). Bezpośredni upload większych plików nie jest możliwy przez panel.
+Ponieważ w tym samym okresie na Steam pojawiło się wiele nowych gier oraz gry o dużym medialnym zasięgu (np. Dragon Ball), co spowodowało, że algorytm Steam zepchnął „Europę” poniżej progu widoczności.
 
-**Kontekst:** Voidreaver (indie dev) wrzucił poradnik do #baza-wiedzy jako przełomowe odkrycie dla community. Wcześniej wszyscy hostowali gify na imgurze.
+**Kontekst:** Pytanie zadane przez praktyk z portfolio Movie Games/GOG, odpowiedź udzielona przez macieklaczny.
 
 ---
 
-## Co zrobić gdy Steam Next Fest zmienił layout i zmniejszył widoczność?
+## Czy TikTok ma sensowne targetowanie reklamowe?
 
 🟡 **Confidence:** 0.78
 
-Nowy layout Next Festa (ok. Q4 2024) rozdzielił widoczność równomierniej między gry zamiast promować te z najlepszym pozycjonowaniem. Gry, które wcześniej zainwestowały w dobre pozycjonowanie, straciły relatywnie. Strategia: skupić się na kategoriach gdzie gra naturalnie wygrywa.
+Tak, TikTok umożliwia targetowanie, ale ogranicza je do wyboru kraju, w którym znajduje się odbiorca.
 
-**Kontekst:** Kuba Wójcik i Michał z MythicOwl Games obserwują po Next Feście. Cytat z nieznanego deva z discorda Żukowskiego: 'visibility is distributed more evenly from the start'.
+**Kontekst:** Użytkownik zapytał o możliwości targetowania na TikToku, a inny odpowiedział, że targetowanie jest możliwe jedynie na poziomie kraju.
+
+---
+
+## Czy nadchodzący MIX zapewnia większą widoczność niż poprzednie edycje?
+
+🟡 **Confidence:** 0.78
+
+Nie, według uczestników (Kuba Wójcik) ostatnie edycje MIX mają małą widoczność i nie przynoszą znaczącego zasięgu, mimo że organizatorzy starają się promować komunikaty.
+
+**Kontekst:** Pytanie Jakuba Kwinty o widoczność MIX, odpowiedź Kuby wskazująca na niską widoczność wydarzeń.
+
+---
+
+## Czy simlaunch na Steam i Google Play (premium model) może kanibalizować sprzedaż na Steam?
+
+🟡 **Confidence:** 0.78
+
+Z doświadczenia jednego z uczestników wynika, że gracze Steam i mobile to dwie odrębne grupy, więc kanibalizacja sprzedaży jest mało prawdopodobna.
+
+**Kontekst:** Pytanie zadane przez Michała (Michał z MythicOwl Games) o case studies simlaunchu. Odpowiedź od Forrestala wskazuje na różnice demograficzne między platformami.
+
+---
+
+## Czy simlaunch na Steam i Google Play (premium model) może kanibalizować sprzedaż na Steam?
+
+🟡 **Confidence:** 0.78
+
+Z doświadczenia jednego z uczestników wynika, że gracze Steam i mobile to dwie odrębne grupy, więc kanibalizacja sprzedaży jest mało prawdopodobna.
+
+**Kontekst:** Pytanie zadane przez Michała (Michał z MythicOwl Games) o case studies simlaunchu na Steam i Google Play oraz ryzyko kanibalizacji. Odpowiedź od Forrestala, który podkreśla różnice demograficzne między platformami.
+
+---
+
+## Czy w odniesieniu do ostatnich zmian Steama dot. pricingu próbujecie u siebie wprowadzać jakieś zmiany?
+
+🟡 **Confidence:** 0.78
+
+Kuba Wójcik potwierdził, że zmienił ceny i w sobotę planuje publikację informacji. Jakub podkreślił, że ich podejście polega na benchmarkowaniu 3‑4 wydawców i dostosowywaniu procentowo wybranych krajów, a nie na jednorazowym ustawieniu niższej ceny dla Polski.
+
+**Kontekst:** Dyskusja o zmianach w polityce cenowej Steam po aktualizacji, wymiana doświadczeń dotyczących strategii pricingowej w Polsce.
+
+---
+
+## Czy wprowadzenie kart później zwiększa widoczność i retencję?
+
+🟡 **Confidence:** 0.78
+
+Tak, wprowadzenie systemu kart (trading cards) może działać jako dodatkowy impuls marketingowy, przyciągając uwagę i podnosząc retencję, zwłaszcza gdy karty są powiązane z tanimi grami w bundle.
+
+**Kontekst:** Użytkownik VVirus/Jakub pyta o skuteczność wprowadzenia kart jako boostu; odpowiedź implikuje pozytywny efekt.
+
+---
+
+## Czy zmiana SKU i nowy Steam Page przejdzie bez problemów?
+
+🟡 **Confidence:** 0.78
+
+Tak, zmiana SKU oraz przygotowanie nowej strony na Steamie zazwyczaj przechodzi bez problemów, pod warunkiem, że nie ma istotnych zmian w zachowaniu demoa.
+
+**Kontekst:** Jakub Kwinta (indie dev) pytał o możliwość konwersji SKU i nowej strony; Kuba Wójcik i TomekTomasz (indie dev) podzielili się doświadczeniami, wskazując, że w ich przypadkach przechodziło to pomyślnie.
+
+---
+
+## Jaki jest akceptowalny koszt pozyskania wishlisty?
+
+🟡 **Confidence:** 0.78
+
+Koszt zależy od ceny gry, budżetu na produkcję i marketing oraz od oczekiwanej konwersji (przyjmowane 5%). Dla mniejszych, niszowych gier koszt może być wyższy, ale przy ograniczonym budżecie lepiej inwestować w twórców YouTube niż w płatne reklamy, które często nie konwertują.
+
+**Kontekst:** Dyskusja w kanale masoneria#ogólny, 2025-03-24, uczestnicy: Michał z MythicOwl Games., Kuba Wójcik, Michal (Michał z MythicOwl Games).
+
+---
+
+## Jaki jest akceptowalny koszt pozyskania wishlisty?
+
+🟡 **Confidence:** 0.78
+
+Koszt zależy od ceny gry, budżetu na produkcję i marketing oraz od konwersji (przyjmuje się ok. 5% konwersji wishlisty na sprzedaż). Dla małych, niszowych gier koszt może być wyższy, ale jednocześnie konwersja będzie niższa niż przy pozyskaniu wishlisty organicznie.
+
+**Kontekst:** Dyskusja w kanale ogólnym, uczestnicy: Michał z MythicOwl Games., Kuba Wójcik, Michal (Michał z MythicOwl Games). Wymieniano różne czynniki wpływające na koszt i skuteczność wishlisty.
+
+---
+
+## Jaki jest akceptowalny koszt pozyskania wishlisty?
+
+🟡 **Confidence:** 0.73
+
+Koszt zależy od ceny gry, budżetu na produkcję i marketing oraz od oczekiwanej konwersji (przyjmuje się ok. 5%). Dla małych, niszowych gier koszt może być wyższy, ale konwersja z reklam może być niższa niż z pozyskania organicznego.
+
+**Kontekst:** Dyskusja w kanale ogólnym, uczestnicy: Michał z MythicOwl Games, Kuba Wójcik, Michal (Michał z MythicOwl Games).
+
+---
+
+## Czy nadchodzący MIX ma większą widoczność?
+
+🟡 **Confidence:** 0.70
+
+Według Kuby, ostatnio wszystkie tego typu eventy mają małą widoczność.
+
+**Kontekst:** Jakub Kwinta (indie dev) pyta o to, czy nadchodzący MIX będzie bardziej widoczny po rozczarowujących poprzednich edycjach; Kuba Wójcik odpowiada, że aktualnie widoczność jest niska.
 
 ---

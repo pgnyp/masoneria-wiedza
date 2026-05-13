@@ -2,7 +2,7 @@
 
 > Realne pytania z community z odpowiedziami skondensowanymi z dyskusji.
 
-**48 items**, sortowane malejąco po confidence.
+**32 items**, sortowane malejąco po confidence.
 
 [← powrót do głównej](README.md)
 
@@ -10,11 +10,49 @@
 
 ## Jakie są kryteria gry do rozdawki?
 
-🟢 **Confidence:** 0.93
+🟢 **Confidence:** 0.93 · **2× wzmianek**
 
 Gra może być starsza, nie może być niskiej jakości („chujowa”) oraz musi być dostępna na GOG. Nie może wcześniej występować w rozdawce na CDA.
 
-**Kontekst:** Wątek dotyczy organizacji rozdawki gier na GOG. Użytkownik VVirus zapytał o kryteria, a praktyk z portfolio Movie Games/GOG odpowiedział, wymieniając warunki dotyczące wieku, jakości i platformy gry.
+*Inne sformułowania w społeczności:* Jakie są kryteria wyboru gier do rozdawki?
+
+**Kontekst:** Wątek dotyczy organizacji rozdawki gier na GOG. Użytkownik VVirus zapytał o kryteria, a praktyk z portfolio Movie Games/GOG odpowiedział, wymieniając warunki dotyczące wieku, jakości i platformy gry. ¦ Użytkownik zapytał o kryteria dotyczące daty wydania i pochodzenia gry; odpowiedź udzielona przez praktyk z portfolio Movie Games/GOG w dyskusji o rozdawce gier na GOG.
+
+---
+
+## Czy można wycofać lub zmienić SKU gry na Steamie?
+
+🟢 **Confidence:** 0.92 · **4× wzmianek**
+
+Steam nie pozwala na zmianę SKU istniejącej gry w przypadku, gdy gra była już w Early Access i została wyłączona z sprzedaży – nie można utworzyć nowego SKU i przenieść graczy z wcześniejszego etapu. Można jednak utworzyć nowy produkt (nowe SKU) pod warunkiem, że różni się on znacząco od pierwotnego (np. nowa wersja, inny tytuł, duża zmiana zawartości).
+
+*Inne sformułowania w społeczności:* Czy można wycofać SKU ze Steama i stworzyć nowy produkt zamiast starego?; Czy można wycofać istniejący SKU i dodać nowy produkt na Steamie?
+
+**Kontekst:** Pytanie zadane przez Jakuba Kwintę o możliwość wycofania SKU ze Steama. Odpowiedzi od TomkaTomasza i Kuby opisują własne doświadczenia: w 2020 roku nie pozwolono na nowy SKU po wyłączeniu Early Access, a nowy produkt wymaga istotnej różnicy. ¦ Dyskusja w kanale ogólnym masoneria, 2024-09-17. Użytkownik Jakub Kwinta (indie dev) pyta o możliwość wycofania SKU ze Steama. TomekTomasz (indie dev) i Kuba Wójcik podają własne doświadczenia: w 2020 roku nie pozwolono na nowy SKU po wyłączeniu Early Access, a jedynie na nowy produkt, który musi się znacząco różnić. ¦ Deweloperzy opisują własne doświadczenia: w 2020 roku nie pozwolono na zmianę SKU w grze w Early Access, a inny deweloper został poinformowany, że nowy SKU musi się znacząco różnić od starego. ¦ Dyskusja w kanale ogólnym masoneria, 2024-09-17. Użytkownik Jakub Kwinta (indie dev) pyta o możliwość wycofania SKU i stworzenia nowego demo. TomekTomasz (indie dev) i Kuba Wójcik podają własne doświadczenia z Steamem.
+
+---
+
+## Czy przy organizacji Daily Deal na Steam oferta pojawia się automatycznie w panelu „Zarządzanie ofertami dnia”, czy trzeba najpierw otworzyć ticket?
+
+🟢 **Confidence:** 0.92 · **4× wzmianek**
+
+Z dokumentacji Steam wynika, że przy spełnieniu warunków oferta powinna być widoczna automatycznie, ale w praktyce trzeba najpierw otworzyć ticket, a osoba przyjmująca ticket musi ręcznie przyznać Daily Deal. Dodatkowo istnieje ograniczenie jednego DD na rok i nie można mieć dwóch jednocześnie.
+
+*Inne sformułowania w społeczności:* Czy przy organizacji Daily Deal na Steam oferta pojawia się automatycznie w panelu "Zarządzanie ofertami dnia", czy trzeba najpierw otworzyć ticket?; Czy przy organizacji Daily Deal na Steam trzeba najpierw otworzyć ticket, czy oferta pojawia się automatycznie w panelu „Zarządzanie ofertami dnia”?
+
+**Kontekst:** Dyskusja w kanale #baza-wiedzy, 2025-03-11. Użytkownik Michał z MythicOwl Games pyta o proces, a odpowiedź podaje praktyczne doświadczenie i wskazuje na konieczność ticketu oraz ręcznego przyznania. ¦ Dyskusja w kanale #baza-wiedzy, 2025-03-11. Użytkownik Michał z MythicOwl Games pyta o proces, a inny użytkownik potwierdza konieczność ticketu i ręcznego przyznania. ¦ Użytkownik Michał z MythicOwl Games pyta o proces przydzielania Daily Deal; inny użytkownik potwierdza, że wymaga to ticketu, mimo że dokumentacja sugeruje automatyczne wyświetlanie. ¦ Dyskusja w kanale #baza-wiedzy 2025-03-11, użytkownik Michał z MythicOwl Games pyta o proces, a inny użytkownik potwierdza konieczność ticketu i ręcznego przyznania.
+
+---
+
+## Jaki discount wybrać przy premierze gry (10 % vs 15 % vs 20 %)?
+
+🟢 **Confidence:** 0.92 · **4× wzmianek**
+
+Społeczność sugeruje, że 10 % to zbyt mało i nie przyciąga uwagi, 20 % może zbytnio „spalić” późniejsze wyprzedaże, a optymalnym kompromisem jest 15 % na start. Alternatywnie można obniżyć cenę do jednego z popularnych progów (np. 14,99 $ zamiast 17,99 $).
+
+*Inne sformułowania w społeczności:* Jaki discount wybrać przy premierze gry (10%, 15% czy 20%)?; Jaki discount wybrać przy premierze gry 17.99 USD/EUR?; Jaki discount wybrać przy premierze gry na Steamie?
+
+**Kontekst:** TomekTomasz (indie dev) pyta o wielkość launch discountu przy 15 k wishliście i cenie 17,99 USD/EUR. Odpowiedzi od Michała (Michał z MythicOwl Games) i Kuby podpowiadają 15 % lub zmianę ceny na 14,99 $. ¦ TomekTomasz (indie dev) pyta o optymalny launch discount przy cenie 17.99 USD/EUR i planowanej premierze 30 stycznia. Użytkownicy (Michał z MythicOwl Games, Kuba Wójcik) podają swoje opinie. ¦ TomekTomasz (indie dev) pyta o optymalny launch discount (20% vs 10%). Michal (Michał z MythicOwl Games) sugeruje 15%, Kuba Wójcik podpowiada obniżenie ceny do 14,99 $, co jest jednym z najczęściej sprzedających się progów cenowych.
 
 ---
 
@@ -38,6 +76,18 @@ Tak, niektórzy deweloperzy (np. Michał z MythicOwl Games) tłumaczą gry na tr
 
 ---
 
+## Czy Steam Curatorzy naprawdę zwiększają liczbę wishlistów?
+
+🟢 **Confidence:** 0.92 · **3× wzmianek**
+
+Tak, działają – warto używać Steam Curator Tool, wysyłać klucze do dużych curatorów, po tygodniu sprawdzić reakcję i w razie braku odpowiedzi odwołać dostęp i skierować klucze do kolejnych curatorów.
+
+*Inne sformułowania w społeczności:* Czy Steam Curatorzy naprawdę zwiększają liczbę wishlistek?
+
+**Kontekst:** Dyskusja w kanale #baza-wiedzy, 2024-09-17. Użytkownik zapytał o pozytywne doświadczenia z curatorami, inny podał praktyczną metodę kontaktu i follow‑up. ¦ Pytanie zadane przez dewelopera o skuteczność curatorów; odpowiedź od innego dewelopera opisująca praktykę wysyłania kluczy dużym curatorom, monitorowanie reakcji i rotację w razie braku odpowiedzi. ¦ Dyskusja w kanale #baza-wiedzy, 2024-09-17. Użytkownik zapytał o pozytywne doświadczenia z curatorami, a inny użytkownik opisał swój proces.
+
+---
+
 ## Jak zarządzać kluczami Steamowymi i wysyłką do influencerów?
 
 🟢 **Confidence:** 0.92 · **3× wzmianek**
@@ -48,36 +98,6 @@ Zaleca się używać osobnego, regularnie aktualizowanego brancha z demem przezn
 
 ---
 
-## Czy można wycofać lub zmienić SKU gry na Steamie?
-
-🟢 **Confidence:** 0.92 · **2× wzmianek**
-
-Steam nie pozwala na zmianę SKU istniejącej gry w przypadku, gdy gra była już w Early Access i została wyłączona z sprzedaży – nie można utworzyć nowego SKU i przenieść graczy z wcześniejszego etapu. Można jednak utworzyć nowy produkt (nowe SKU) pod warunkiem, że różni się on znacząco od pierwotnego (np. nowa wersja, inny tytuł, duża zmiana zawartości).
-
-**Kontekst:** Pytanie zadane przez Jakuba Kwintę o możliwość wycofania SKU ze Steama. Odpowiedzi od TomkaTomasza i Kuby opisują własne doświadczenia: w 2020 roku nie pozwolono na nowy SKU po wyłączeniu Early Access, a nowy produkt wymaga istotnej różnicy. ¦ Dyskusja w kanale ogólnym masoneria, 2024-09-17. Użytkownik Jakub Kwinta (indie dev) pyta o możliwość wycofania SKU ze Steama. TomekTomasz (indie dev) i Kuba Wójcik podają własne doświadczenia: w 2020 roku nie pozwolono na nowy SKU po wyłączeniu Early Access, a jedynie na nowy produkt, który musi się znacząco różnić.
-
----
-
-## Czy przy organizacji Daily Deal na Steam trzeba najpierw otworzyć ticket, czy oferta pojawia się automatycznie w panelu „Zarządzanie ofertami dnia”?
-
-🟢 **Confidence:** 0.92 · **2× wzmianek**
-
-Zgodnie z doświadczeniem dewelopera, mimo że dokumentacja Steam sugeruje automatyczne wyświetlanie oferty po spełnieniu warunków, w praktyce trzeba najpierw otworzyć ticket, a Steam ręcznie przyznaje Daily Deal.
-
-**Kontekst:** Dyskusja w kanale #baza-wiedzy, 2025-03-11. Użytkownik Michał z MythicOwl Games pyta o proces, a inny użytkownik potwierdza konieczność ticketu i ręcznego przyznania. ¦ Użytkownik Michał z MythicOwl Games pyta o proces przydzielania Daily Deal; inny użytkownik potwierdza, że wymaga to ticketu, mimo że dokumentacja sugeruje automatyczne wyświetlanie.
-
----
-
-## Czy Steam Curatorzy naprawdę zwiększają liczbę wishlistów?
-
-🟢 **Confidence:** 0.92 · **2× wzmianek**
-
-Tak, działają – warto używać Steam Curator Tool, wysyłać klucze do dużych curatorów, po tygodniu sprawdzić reakcję i w razie braku odpowiedzi odwołać dostęp i skierować klucze do kolejnych curatorów.
-
-**Kontekst:** Dyskusja w kanale #baza-wiedzy, 2024-09-17. Użytkownik zapytał o pozytywne doświadczenia z curatorami, inny podał praktyczną metodę kontaktu i follow‑up. ¦ Pytanie zadane przez dewelopera o skuteczność curatorów; odpowiedź od innego dewelopera opisująca praktykę wysyłania kluczy dużym curatorom, monitorowanie reakcji i rotację w razie braku odpowiedzi.
-
----
-
 ## Jak podchodzić do bezpośredniego reachout'u do content creatorów – od razu wysyłać klucz czy najpierw zapytać o zainteresowanie?
 
 🟢 **Confidence:** 0.92 · **2× wzmianek**
@@ -85,36 +105,6 @@ Tak, działają – warto używać Steam Curator Tool, wysyłać klucze do duży
 Wysyłka klucza od razu zwiększa szansę na szybki coverage i skraca proces, ale niesie ryzyko wycieku na czarny rynek. Alternatywa – najpierw luźny mail z zapytaniem o zainteresowanie, co pozwala zweryfikować chęć, ale może wywołać pytania o wynagrodzenie. Praktyka: w przypadku gier PC‑only niektórzy wysyłają od razu klucz Steam; przy grach na konsole stosują system linków z unikalnym tokenem, który pozwala odbiorcy pobrać jeden klucz na wybraną platformę.
 
 **Kontekst:** Faenen (indie dev) pyta o strategię reachout'u do dużych twórców przy premierze wielogatunkowej gry. Madras (indie dev) opisuje własne rozwiązanie – klucz Steam od razu dla PC, a dla konsol link z tokenem umożliwiający pobranie jednego klucza. ¦ Pytanie zadane przez dewelopera przygotowującego premierę wielogatunkowej gry; odpowiedź udzielona przez innego dewelopera opisującego ich praktyki.
-
----
-
-## Czy przy organizacji Daily Deal na Steam oferta pojawia się automatycznie w panelu "Zarządzanie ofertami dnia", czy trzeba najpierw otworzyć ticket?
-
-🟢 **Confidence:** 0.92
-
-Z dokumentacji Steam wynika, że przy spełnieniu warunków oferta powinna być widoczna automatycznie, ale w praktyce trzeba najpierw otworzyć ticket, a osoba przyjmująca ticket musi ręcznie przyznać Daily Deal.
-
-**Kontekst:** Dyskusja w kanale #baza-wiedzy 2025-03-11, użytkownik Michał z MythicOwl Games pyta o proces, a inny użytkownik potwierdza konieczność ticketu i ręcznego przyznania.
-
----
-
-## Czy przy organizacji Daily Deal na Steam oferta pojawia się automatycznie w panelu „Zarządzanie ofertami dnia”, czy trzeba najpierw otworzyć ticket?
-
-🟢 **Confidence:** 0.92
-
-Z dokumentacji Steam wynika, że przy spełnieniu warunków oferta powinna być widoczna automatycznie, ale w praktyce trzeba najpierw otworzyć ticket, a osoba przyjmująca ticket musi ręcznie przyznać Daily Deal. Dodatkowo istnieje ograniczenie jednego DD na rok i nie można mieć dwóch jednocześnie.
-
-**Kontekst:** Dyskusja w kanale #baza-wiedzy, 2025-03-11. Użytkownik Michał z MythicOwl Games pyta o proces, a odpowiedź podaje praktyczne doświadczenie i wskazuje na konieczność ticketu oraz ręcznego przyznania.
-
----
-
-## Czy Steam Curatorzy naprawdę zwiększają liczbę wishlistek?
-
-🟢 **Confidence:** 0.92
-
-Tak, działają – warto używać narzędzia Steam Curator, wysyłać klucze do dużych curatorów, a jeśli nie przyjmą w ciągu tygodnia, odebrać klucz i przekazać go innym.
-
-**Kontekst:** Dyskusja w kanale #baza-wiedzy, 2024-09-17. Użytkownik zapytał o pozytywne doświadczenia z curatorami, a inny użytkownik opisał swój proces.
 
 ---
 
@@ -138,46 +128,6 @@ Najlepiej zaczynać od r/IndieGaming, unikać jednoczesnego postowania na r/indi
 
 ---
 
-## Jaki discount wybrać przy premierze gry (10%, 15% czy 20%)?
-
-🟢 **Confidence:** 0.92
-
-W dyskusji sugerowano, że 10% jest zbyt małe i może rozczarować klientów, 20% może zbyt mocno obniżyć późniejsze wyprzedaże, a 15% jest kompromisem – wystarczającą zachętą przy jednoczesnym zachowaniem marginesu na późniejsze promocje.
-
-**Kontekst:** TomekTomasz (indie dev) pyta o optymalny launch discount przy cenie 17.99 USD/EUR i planowanej premierze 30 stycznia. Użytkownicy (Michał z MythicOwl Games, Kuba Wójcik) podają swoje opinie.
-
----
-
-## Jaki discount wybrać przy premierze gry (10 % vs 15 % vs 20 %)?
-
-🟢 **Confidence:** 0.92
-
-Społeczność sugeruje, że 10 % to zbyt mało i nie przyciąga uwagi, 20 % może zbytnio „spalić” późniejsze wyprzedaże, a optymalnym kompromisem jest 15 % na start. Alternatywnie można obniżyć cenę do jednego z popularnych progów (np. 14,99 $ zamiast 17,99 $).
-
-**Kontekst:** TomekTomasz (indie dev) pyta o wielkość launch discountu przy 15 k wishliście i cenie 17,99 USD/EUR. Odpowiedzi od Michała (Michał z MythicOwl Games) i Kuby podpowiadają 15 % lub zmianę ceny na 14,99 $.
-
----
-
-## Jaki discount wybrać przy premierze gry na Steamie?
-
-🟢 **Confidence:** 0.92
-
-Zaleca się raczej 15% lub obniżenie ceny do jednego z popularnych progów (np. 14,99 $) zamiast 20%, aby nie spalić powiadomienia o pierwszej zniżce i nie zniechęcić kolejnych wyprzedaży.
-
-**Kontekst:** TomekTomasz (indie dev) pyta o optymalny launch discount (20% vs 10%). Michal (Michał z MythicOwl Games) sugeruje 15%, Kuba Wójcik podpowiada obniżenie ceny do 14,99 $, co jest jednym z najczęściej sprzedających się progów cenowych.
-
----
-
-## Jakie są kryteria wyboru gier do rozdawki?
-
-🟢 **Confidence:** 0.92
-
-Gra może być starsza, musi być dostępna na GOG, nie może być niskiej jakości oraz nie może wcześniej występować w rozdawce na CDA.
-
-**Kontekst:** Użytkownik zapytał o kryteria dotyczące daty wydania i pochodzenia gry; odpowiedź udzielona przez praktyk z portfolio Movie Games/GOG w dyskusji o rozdawce gier na GOG.
-
----
-
 ## Czy simlaunch na Steam i Google Play (premium model) może kanibalizować sprzedaż na Steam?
 
 🟢 **Confidence:** 0.90 · **4× wzmianek**
@@ -190,51 +140,25 @@ Z doświadczenia jednego z uczestników wynika, że gracze Steam i mobile to dwi
 
 ## Czy TikTok ma sensowne targetowanie?
 
-🟢 **Confidence:** 0.90 · **2× wzmianek**
+🟢 **Confidence:** 0.90 · **4× wzmianek**
 
 TikTok umożliwia targetowanie jedynie po kraju, w którym znajduje się użytkownik, więc możliwości precyzyjnego targetowania są ograniczone.
 
-**Kontekst:** Użytkownik zapytał o możliwości targetowania reklam na TikTok, a inny użytkownik odpowiedział, że platforma pozwala jedynie na targetowanie geograficzne po kraju. ¦ Użytkownik zapytał o możliwości targetowania reklam na TikToku; odpowiedź udzielona przez uczestnika dyskusji.
+*Inne sformułowania w społeczności:* Czy TikTok ma sensowne targetowanie reklamowe?
+
+**Kontekst:** Użytkownik zapytał o możliwości targetowania reklam na TikTok, a inny użytkownik odpowiedział, że platforma pozwala jedynie na targetowanie geograficzne po kraju. ¦ Użytkownik zapytał o możliwości targetowania reklam na TikToku; odpowiedź udzielona przez uczestnika dyskusji. ¦ TomekTomasz (indie dev) pyta o możliwości targetowania w TikTok; Kuba Wójcik odpowiada, że targetowanie odbywa się jedynie po kraju. ¦ Użytkownik zapytał o możliwości targetowania na TikToku, a inny odpowiedział, że targetowanie jest możliwe jedynie na poziomie kraju.
 
 ---
 
 ## Ile wishlist potrzebnych jest do sprzedaży 1000 kopii w pierwszym tygodniu?
 
-🟢 **Confidence:** 0.90 · **2× wzmianek**
+🟢 **Confidence:** 0.90 · **4× wzmianek**
 
 Zalecane minimum to około 10 000 wishlist; przy aktualnym współczynniku konwersji 0,14–0,2 (14‑20 %) daje to szacowaną sprzedaż 1400‑2000 sztuk, więc 1000 kopii jest realistyczne.
 
-**Kontekst:** Pytanie zadane przez TomekTomasz (indie dev), odpowiedź udzielona przez praktyk z portfolio Movie Games/GOG, odwołująca się do kalkulatora i własnych danych. ¦ Pytanie zadane przez Tomka, odpowiedź od praktyk z portfolio Movie Games/GOG i Kuby, odwołująca się do kalkulatora i własnych danych.
+*Inne sformułowania w społeczności:* Ile wishlist potrzebnych do sprzedania 1000 kopii w pierwszym tygodniu?; Ile wishlists potrzebnych do sprzedaży 1000 kopii w pierwszym tygodniu?
 
----
-
-## Czy można wycofać istniejący SKU i dodać nowy produkt na Steamie?
-
-🟢 **Confidence:** 0.90
-
-Steam generalnie nie pozwala na usunięcie istniejącego SKU i zastąpienie go nowym, zwłaszcza w przypadku gier w Early Access. Można jednak utworzyć nowy SKU, pod warunkiem że różni się znacząco od poprzedniego (np. nowa wersja, duża zmiana zawartości).
-
-**Kontekst:** Deweloperzy opisują własne doświadczenia: w 2020 roku nie pozwolono na zmianę SKU w grze w Early Access, a inny deweloper został poinformowany, że nowy SKU musi się znacząco różnić od starego.
-
----
-
-## Ile wishlists potrzebnych do sprzedaży 1000 kopii w pierwszym tygodniu?
-
-🟢 **Confidence:** 0.90
-
-Przy konwersji około 10 % (0,1) z wishlists na sprzedaż, potrzebne jest około 10 000 wishlists, aby osiągnąć 1000 sprzedanych egzemplarzy w pierwszym tygodniu.
-
-**Kontekst:** TomekTomasz (indie dev) zapytał o wymaganą liczbę wishlists; praktyk z portfolio Movie Games/GOG odpowiedział, że nie startuje się poniżej 10 k, co implikuje potrzebę takiej liczby.
-
----
-
-## Jaki discount wybrać przy premierze gry 17.99 USD/EUR?
-
-🟢 **Confidence:** 0.90
-
-Zaleca się raczej 15% startowy discount; 10% jest zbyt mały, 20% może zbytnio obniżyć kolejne promocje. Alternatywnie można obniżyć cenę do 14.99 zamiast 17.99.
-
-**Kontekst:** TomekTomasz (indie dev) pyta o optymalny launch discount przy 15k wishlist i planowanej premierze 30 stycznia. Odpowiedzi od Michała (Michał z MythicOwl Games) i Kuby sugerują 15% lub zmianę ceny do 14.99.
+**Kontekst:** Pytanie zadane przez TomekTomasz (indie dev), odpowiedź udzielona przez praktyk z portfolio Movie Games/GOG, odwołująca się do kalkulatora i własnych danych. ¦ Pytanie zadane przez Tomka, odpowiedź od praktyk z portfolio Movie Games/GOG i Kuby, odwołująca się do kalkulatora i własnych danych. ¦ TomekTomasz (indie dev) zapytał o wymaganą liczbę wishlists; praktyk z portfolio Movie Games/GOG odpowiedział, że nie startuje się poniżej 10 k, co implikuje potrzebę takiej liczby. ¦ Tomek pyta o liczbę wishlist; Piotr i Kuba Wójcik podają progowy próg 10 k i wspominają o współczynniku konwersji.
 
 ---
 
@@ -245,6 +169,18 @@ Zaleca się raczej 15% startowy discount; 10% jest zbyt mały, 20% może zbytnio
 Niektórzy deweloperzy (np. Kuba Wójcik) już wprowadzili zmiany w cenach po aktualizacji Steam, planują dodatkowe informacje w sobotę. Inni zauważają, że można było ustawić niższe ceny dla Polski wcześniej i że nowe sugestie Steam mogą nie przynieść korzyści. Jakub Kwinta (indie dev) testuje różne przeliczniki i benchmarkuje 3‑4 wydawców, aby dostosować % cen w wybranych krajach.
 
 **Kontekst:** Dyskusja po publikacji wideo o zmianach w algorytmie Steam dotyczących regionalnych cen. Uczestnicy wymieniają doświadczenia i strategie dostosowywania cen w Polsce. ¦ Dyskusja o zmianach w polityce cenowej Steam po aktualizacji, wymiana doświadczeń dotyczących strategii pricingowej w Polsce.
+
+---
+
+## Dlaczego gra o niskich przychodach pojawia się w Steam Daily Deals?
+
+🟢 **Confidence:** 0.88 · **2× wzmianek**
+
+Steam wprowadził zmiany w kryteriach kwalifikacji do Daily Deals, które wymagają dziesiątek tysięcy przychodów (rev) w miesiącu. Gra z niewielkim lifetime revenue nie spełnia tych wymagań, więc jej obecność w promocji jest nietypowa i najprawdopodobniej wynika z błędu lub wyjątkowego porozumienia z wydawcą.
+
+*Inne sformułowania w społeczności:* Dlaczego gra pojawia się w Steam Daily Deals?
+
+**Kontekst:** Użytkownik Michał z MythicOwl Games zauważył grę Class Escape w Daily Deals i wskazał, że nowe zasady Steam wymagają wysokich przychodów, których ta gra nie ma. ¦ Użytkownik Michał z MythicOwl Games wyjaśnia, że zmiany w Steam sugerują konieczność wysokich miesięcznych przychodów, co wyklucza mniejsze tytuły z Daily Deals.
 
 ---
 
@@ -268,16 +204,6 @@ Tak, FGS przyjmuje zgłoszenia na sloty redakcyjne (np. krótkie 15‑sekundowe 
 
 ---
 
-## Czy można wycofać SKU ze Steama i stworzyć nowy produkt zamiast starego?
-
-🟢 **Confidence:** 0.88
-
-Steam generalnie nie pozwala na utworzenie nowego SKU, jeśli gra była wcześniej w Early Access i chcesz zamienić ją na nowy produkt – wymaga to istotnej różnicy w zawartości gry. W przeszłości (2020) próbowano, ale Steam odmówił, choć w niektórych przypadkach można uzyskać zgodę, pod warunkiem że nowy produkt znacząco różni się od poprzedniego.
-
-**Kontekst:** Dyskusja w kanale ogólnym masoneria, 2024-09-17. Użytkownik Jakub Kwinta (indie dev) pyta o możliwość wycofania SKU i stworzenia nowego demo. TomekTomasz (indie dev) i Kuba Wójcik podają własne doświadczenia z Steamem.
-
----
-
 ## Czy w nowej wersji panelu wydawcy na Steamie są dostępne announcementy wydawcy?
 
 🟢 **Confidence:** 0.88
@@ -285,26 +211,6 @@ Steam generalnie nie pozwala na utworzenie nowego SKU, jeśli gra była wcześni
 W nowej wersji panelu wydawcy usunięto tradycyjne miejsce wyświetlania announcementów; można je nadal tworzyć, ale nie ma widocznego miejsca na stronie głównej. Alternatywnie można używać ogłoszeń w grupie Steam Community.
 
 **Kontekst:** Kuba Wójcik pyta o miejsce wyświetlania announcementów po zmianie UI, a HM potwierdza, że działają one w grupie społecznościowej.
-
----
-
-## Dlaczego gra o niskich przychodach pojawia się w Steam Daily Deals?
-
-🟢 **Confidence:** 0.88
-
-Steam wprowadził zmiany w kryteriach kwalifikacji do Daily Deals, które wymagają dziesiątek tysięcy przychodów (rev) w miesiącu. Gra z niewielkim lifetime revenue nie spełnia tych wymagań, więc jej obecność w promocji jest nietypowa i najprawdopodobniej wynika z błędu lub wyjątkowego porozumienia z wydawcą.
-
-**Kontekst:** Użytkownik Michał z MythicOwl Games zauważył grę Class Escape w Daily Deals i wskazał, że nowe zasady Steam wymagają wysokich przychodów, których ta gra nie ma.
-
----
-
-## Dlaczego gra pojawia się w Steam Daily Deals?
-
-🟢 **Confidence:** 0.88
-
-Steam wprowadził zmiany w kryteriach Daily Deals, które wymagają posiadania dziesiątek tysięcy przychodu (rev) w miesiącu. Gry, które nie spełniają tego progu, nie mają szans na udział w promocji, a wydawcy muszą dodatkowo spełniać wymagany pulap sprzedaży.
-
-**Kontekst:** Użytkownik Michał z MythicOwl Games wyjaśnia, że zmiany w Steam sugerują konieczność wysokich miesięcznych przychodów, co wyklucza mniejsze tytuły z Daily Deals.
 
 ---
 
@@ -348,13 +254,27 @@ Posty z wysokiej jakości wideo‑trailerem lub atrakcyjnymi screenshotami oraz 
 
 ---
 
-## Czy TikTok ma sensowne targetowanie reklamowe?
+## Czy zmiana SKU i przygotowanie nowej strony Steam przejdzie bez problemów?
 
-🟢 **Confidence:** 0.87 · **2× wzmianek**
+🟢 **Confidence:** 0.85 · **3× wzmianek**
 
-TikTok umożliwia targetowanie głównie na podstawie kraju, w którym znajduje się użytkownik, co ogranicza precyzyjne dopasowanie do konkretnej grupy demograficznej.
+Tak, zmiana SKU oraz stworzenie nowej strony Steam powinna przejść bez dodatkowych komplikacji, o ile nie zmienia się wydawca i nie wprowadzane są niezgodne zmiany w treści gry.
 
-**Kontekst:** TomekTomasz (indie dev) pyta o możliwości targetowania w TikTok; Kuba Wójcik odpowiada, że targetowanie odbywa się jedynie po kraju. ¦ Użytkownik zapytał o możliwości targetowania na TikToku, a inny odpowiedział, że targetowanie jest możliwe jedynie na poziomie kraju.
+*Inne sformułowania w społeczności:* Czy zmiana SKU i nowa strona Steam przejdzie bez problemów?; Czy zmiana SKU i nowy Steam Page przejdzie bez problemów?
+
+**Kontekst:** Pytanie zadane przez Jakuba Kwintę, odpowiedź udzielona przez Kubę i potwierdzona przez innych uczestników. ¦ Jakub Kwinta (indie dev) pyta o przejście zmiany SKU; Kuba Wójcik i inni twierdzą, że powinno zadziałać. ¦ Jakub Kwinta (indie dev) pytał o możliwość konwersji SKU i nowej strony; Kuba Wójcik i TomekTomasz (indie dev) podzielili się doświadczeniami, wskazując, że w ich przypadkach przechodziło to pomyślnie.
+
+---
+
+## Gdzie wyświetlane są ogłoszenia (announcements) po zmianie UI na Steamie?
+
+🟢 **Confidence:** 0.85 · **2× wzmianek**
+
+Po zmianie UI ogłoszenia nie są już wyświetlane na głównej stronie wydawcy, a można je publikować w sekcji Partner Events grupy Steam (np. https://steamcommunity.com/groups/_nazwa_konta_/partnerevents).
+
+*Inne sformułowania w społeczności:* Gdzie wyświetlane są ogłoszenia (announcements) po zmianie UI na stronie wydawcy Steam?
+
+**Kontekst:** Użytkownik Kuba Wójcik pyta o miejsce wyświetlania announcementów po aktualizacji; HM wskazuje, że działają jako wydarzenia grupowe. ¦ Użytkownik pyta o miejsce wyświetlania ogłoszeń po aktualizacji UI; inny członek community podaje link do sekcji partner events, wyjaśniając, że tam teraz trafiają.
 
 ---
 
@@ -375,56 +295,6 @@ Użytkownicy wskazują, że poza Humble Bundle i Fanatical nie ma wielu sensowny
 Sony zazwyczaj wypożycza devkity na okres 2 lat i wymaga ich zwrotu po upływie tego czasu; brak zwrotu może skutkować koniecznością zakupu nowych lub renegocjacji warunków.
 
 **Kontekst:** Pytanie zadane przez dewelopera z community dotyczące otrzymania maila o zwrocie/wymianie sprzętu Sony devkitów. Inna osoba (Kuba Wójcik) potwierdził 2‑letni okres wypożyczenia. Dyskusja sugeruje, że po terminie można negocjować zakup lub ponowne wypożyczenie.
-
----
-
-## Czy zmiana SKU i przygotowanie nowej strony Steam przejdzie bez problemów?
-
-🟢 **Confidence:** 0.85
-
-Tak, zmiana SKU oraz stworzenie nowej strony Steam powinna przejść bez dodatkowych komplikacji, o ile nie zmienia się wydawca i nie wprowadzane są niezgodne zmiany w treści gry.
-
-**Kontekst:** Pytanie zadane przez Jakuba Kwintę, odpowiedź udzielona przez Kubę i potwierdzona przez innych uczestników.
-
----
-
-## Gdzie wyświetlane są ogłoszenia (announcements) po zmianie UI na Steamie?
-
-🟢 **Confidence:** 0.85
-
-Po zmianie UI ogłoszenia nie są już wyświetlane na głównej stronie wydawcy, a można je publikować w sekcji Partner Events grupy Steam (np. https://steamcommunity.com/groups/_nazwa_konta_/partnerevents).
-
-**Kontekst:** Użytkownik Kuba Wójcik pyta o miejsce wyświetlania announcementów po aktualizacji; HM wskazuje, że działają jako wydarzenia grupowe.
-
----
-
-## Gdzie wyświetlane są ogłoszenia (announcements) po zmianie UI na stronie wydawcy Steam?
-
-🟢 **Confidence:** 0.85
-
-Po zmianie interfejsu ogłoszenia nie są już wyświetlane na głównej stronie profilu wydawcy, lecz w sekcji Partner Events (https://steamcommunity.com/groups/_nazwa_konta_/partnerevents).
-
-**Kontekst:** Użytkownik pyta o miejsce wyświetlania ogłoszeń po aktualizacji UI; inny członek community podaje link do sekcji partner events, wyjaśniając, że tam teraz trafiają.
-
----
-
-## Ile wishlist potrzebnych do sprzedania 1000 kopii w pierwszym tygodniu?
-
-🟢 **Confidence:** 0.85
-
-Zalecane minimum to około 10 000 wishlist; przy konwersji ~10 % (lub niższej, 0,14‑0,2) daje to szacunkowo 1000‑2000 sprzedaży.
-
-**Kontekst:** Tomek pyta o liczbę wishlist; Piotr i Kuba Wójcik podają progowy próg 10 k i wspominają o współczynniku konwersji.
-
----
-
-## Czy zmiana SKU i nowa strona Steam przejdzie bez problemów?
-
-🟡 **Confidence:** 0.80
-
-Tak, według uczestników zmiana SKU oraz przygotowanie nowej strony Steam powinna przejść bez problemów, o ile nie zmienia się wydawcy i nie ma innych nieprawidłowości.
-
-**Kontekst:** Jakub Kwinta (indie dev) pyta o przejście zmiany SKU; Kuba Wójcik i inni twierdzą, że powinno zadziałać.
 
 ---
 
@@ -465,16 +335,6 @@ Nie, według uczestników (Kuba Wójcik) ostatnie edycje MIX mają małą widocz
 Tak, wprowadzenie systemu kart (trading cards) może działać jako dodatkowy impuls marketingowy, przyciągając uwagę i podnosząc retencję, zwłaszcza gdy karty są powiązane z tanimi grami w bundle.
 
 **Kontekst:** Użytkownik VVirus/Jakub pyta o skuteczność wprowadzenia kart jako boostu; odpowiedź implikuje pozytywny efekt.
-
----
-
-## Czy zmiana SKU i nowy Steam Page przejdzie bez problemów?
-
-🟡 **Confidence:** 0.78
-
-Tak, zmiana SKU oraz przygotowanie nowej strony na Steamie zazwyczaj przechodzi bez problemów, pod warunkiem, że nie ma istotnych zmian w zachowaniu demoa.
-
-**Kontekst:** Jakub Kwinta (indie dev) pytał o możliwość konwersji SKU i nowej strony; Kuba Wójcik i TomekTomasz (indie dev) podzielili się doświadczeniami, wskazując, że w ich przypadkach przechodziło to pomyślnie.
 
 ---
 

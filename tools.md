@@ -2,7 +2,7 @@
 
 > Serwisy, narzędzia i platformy polecane przez członków społeczności. Każde z kontekstem użycia i autora polecenia.
 
-**84 items**, sortowane malejąco po confidence.
+**71 items**, sortowane malejąco po confidence.
 
 [← powrót do głównej](README.md)
 
@@ -84,6 +84,20 @@ Polski sklep specjalizujący się w produkcji i sprzedaży przypinek, polecany p
 
 ---
 
+## Jira (Atlassian)
+
+🟢 **Confidence:** 0.95 · **4× wzmianek**
+
+System do zarządzania projektami, umożliwia tworzenie zadań, wyświetlanie ich w kalendarzu oraz integrację z Confluence i Slack.
+
+*Inne sformułowania w społeczności:* Jira
+
+**Link:** https://www.atlassian.com/software/jira
+
+**Kontekst:** LilDave i Jakub wspomnieli o Jira jako alternatywie, podkreślając możliwość prezentacji zadań w kalendarzu oraz synergię z innymi narzędziami Atlassian. ¦ LilDave i Jakub Kwinta (indie dev) omawiali użycie Jira jako alternatywy dla Excela, podkreślając możliwość prezentacji zadań w kalendarzu oraz integracji w ekosystemie Atlassian. ¦ LilDave i Jakub wspomnieli o Jira jako opcji z kalendarzem i integracją w ekosystemie Atlassian. ¦ LilDave i Jakub Kwinta (indie dev) omawiają użycie Jiry jako rozwiązania z możliwością filtrowania i eksportu danych oraz integracji w ekosystemie Atlassian.
+
+---
+
 ## MyPressKit
 
 🟢 **Confidence:** 0.95 · **4× wzmianek**
@@ -93,6 +107,20 @@ Narzędzie do tworzenia press kitów, opracowane przez twórców The Mix, ułatw
 **Link:** https://www.mypresskit.io/
 
 **Kontekst:** Udostępnione przez użytkownika Kuba Wójcik jako przydatny serwis dla indie devów potrzebujących gotowych press kitów. ¦ Udostępnione przez użytkownika Kuba Wójcik jako przydatne dla deweloperów przygotowujących press kit. ¦ Udostępniona przez Kuba Wójcik jako przydatne narzędzie dla deweloperów do przygotowywania materiałów prasowych.
+
+---
+
+## NotifyMe bot
+
+🟢 **Confidence:** 0.95 · **4× wzmianek**
+
+Bot do forwardowania postów z mediów społecznościowych na Discorda.
+
+*Inne sformułowania w społeczności:* notifyme.bot
+
+**Link:** https://notifyme.bot/
+
+**Kontekst:** Użytkownik Michał z MythicOwl Games polecił go jako działające rozwiązanie do automatycznego forwardowania treści. ¦ Polecony przez Michała (Michał z MythicOwl Games) jako działające rozwiązanie do automatycznego przekazywania treści ze SM do Discorda. ¦ Polecony przez Michała (Michał z MythicOwl Games) jako działające rozwiązanie do automatycznego przekazywania treści. ¦ Użytkownik Michał z MythicOwl Games polecił ten bot jako działające rozwiązanie do automatycznego przekazywania treści ze SM na Discord.
 
 ---
 
@@ -144,15 +172,31 @@ Chiński co‑publisher oferujący obsługę chińskich platform, tłumaczenia i
 
 ---
 
-## NotifyMe bot
+## NitroTranslate
 
 🟢 **Confidence:** 0.95 · **3× wzmianek**
 
-Bot do forwardowania postów z mediów społecznościowych na Discorda.
+Self‑service platform do tłumaczeń małych partii tekstu, wycena dostępna od ręki w panelu.
 
-**Link:** https://notifyme.bot/
+*Inne sformułowania w społeczności:* Nitro Translate
 
-**Kontekst:** Użytkownik Michał z MythicOwl Games polecił go jako działające rozwiązanie do automatycznego forwardowania treści. ¦ Polecony przez Michała (Michał z MythicOwl Games) jako działające rozwiązanie do automatycznego przekazywania treści ze SM do Discorda. ¦ Polecony przez Michała (Michał z MythicOwl Games) jako działające rozwiązanie do automatycznego przekazywania treści.
+**Link:** https://nitrotranslate.com/
+
+**Kontekst:** Polecane przez użytkownika Madras (indie dev) jako dobre rozwiązanie dla małych partii tłumaczeń. ¦ Polecona przez użytkownika Madras (indie dev) jako dobra opcja przy małych partiach tekstu. ¦ Polecona przez użytkownika Madras (indie dev) jako rozwiązanie dla małych partii tekstu, z szybką wyceną w panelu.
+
+---
+
+## Steam Wishlist‑Sales Calculator
+
+🟢 **Confidence:** 0.95 · **3× wzmianek**
+
+Kalkulator szacujący sprzedaż na podstawie liczby wishlist na Steamie.
+
+*Inne sformułowania w społeczności:* Steam Wishlists Sales Calculator; Steam Wishlist‑Sales Calculator (Impress.Games)
+
+**Link:** https://impress.games/steam-wishlists-sales-calculator
+
+**Kontekst:** Polecany przez praktyk z portfolio Movie Games/GOG w dyskusji o progach wishlist potrzebnych do 1000 sprzedaży w pierwszym tygodniu. ¦ praktyk z portfolio Movie Games/GOG udostępnił link do kalkulatora, który używany jest do prognozowania pierwszego tygodnia sprzedaży. ¦ praktyk z portfolio Movie Games/GOG podzielił się linkiem w odpowiedzi na pytanie o minimalną liczbę wishlist potrzebną do sprzedaży 1000 kopii w pierwszym tygodniu.
 
 ---
 
@@ -168,42 +212,6 @@ Gamejam organizowany przez IGP w Poznaniu, otwarty dla zespołów indie.
 
 ---
 
-## Jira
-
-🟢 **Confidence:** 0.95 · **2× wzmianek**
-
-System do zarządzania projektami, pozwala wyświetlać zadania w kalendarzu oraz integrować się z Confluence i Slack.
-
-**Link:** https://www.atlassian.com/software/jira
-
-**Kontekst:** LilDave i Jakub wspomnieli o Jira jako opcji z kalendarzem i integracją w ekosystemie Atlassian. ¦ LilDave i Jakub Kwinta (indie dev) omawiają użycie Jiry jako rozwiązania z możliwością filtrowania i eksportu danych oraz integracji w ekosystemie Atlassian.
-
----
-
-## Jira (Atlassian)
-
-🟢 **Confidence:** 0.95 · **2× wzmianek**
-
-System do zarządzania projektami, umożliwia tworzenie zadań, wyświetlanie ich w kalendarzu oraz integrację z Confluence i Slack.
-
-**Link:** https://www.atlassian.com/software/jira
-
-**Kontekst:** LilDave i Jakub wspomnieli o Jira jako alternatywie, podkreślając możliwość prezentacji zadań w kalendarzu oraz synergię z innymi narzędziami Atlassian. ¦ LilDave i Jakub Kwinta (indie dev) omawiali użycie Jira jako alternatywy dla Excela, podkreślając możliwość prezentacji zadań w kalendarzu oraz integracji w ekosystemie Atlassian.
-
----
-
-## NitroTranslate
-
-🟢 **Confidence:** 0.95 · **2× wzmianek**
-
-Self‑service platform do tłumaczeń małych partii tekstu, wycena dostępna od ręki w panelu.
-
-**Link:** https://nitrotranslate.com/
-
-**Kontekst:** Polecane przez użytkownika Madras (indie dev) jako dobre rozwiązanie dla małych partii tłumaczeń. ¦ Polecona przez użytkownika Madras (indie dev) jako dobra opcja przy małych partiach tekstu.
-
----
-
 ## OBS (Open Broadcaster Software)
 
 🟢 **Confidence:** 0.95
@@ -213,30 +221,6 @@ Program do przechwytywania i nadawania obrazu, używany do hostowania stałego s
 **Link:** https://obsproject.com/
 
 **Kontekst:** Wulo (indie dev) opisuje własne rozwiązanie polegające na uruchomieniu OBS 24/7 na maszynie, aby transmitować zapętlony filmik na Steam Broadcast.
-
----
-
-## Steam Wishlists Sales Calculator
-
-🟢 **Confidence:** 0.95
-
-kalkulator szacujący sprzedaż na podstawie liczby wishlists
-
-**Link:** https://impress.games/steam-wishlists-sales-calculator
-
-**Kontekst:** praktyk z portfolio Movie Games/GOG udostępnił link do kalkulatora, który używany jest do prognozowania pierwszego tygodnia sprzedaży.
-
----
-
-## Steam Wishlist‑Sales Calculator
-
-🟢 **Confidence:** 0.95
-
-Kalkulator szacujący sprzedaż na podstawie liczby wishlist na Steamie.
-
-**Link:** https://impress.games/steam-wishlists-sales-calculator
-
-**Kontekst:** Polecany przez praktyk z portfolio Movie Games/GOG w dyskusji o progach wishlist potrzebnych do 1000 sprzedaży w pierwszym tygodniu.
 
 ---
 
@@ -366,6 +350,22 @@ Płatny serwis do streamowania zapętlonych filmików na Steam Broadcast, oferuj
 
 ---
 
+## Reddit
+
+🟢 **Confidence:** 0.92 · **4× wzmianek**
+
+Subreddity przydatne do promocji indie: r/Games i flara Indie Sunday w niedziele, oraz r/GamesDeal dla gier na promocji.
+
+**Warianty/platformy:** r/Games, Indie Sunday, r/GamesDeal, subreddity dla promocji gier indie, subreddity przydatne dla promocji indie
+
+*Inne sformułowania w społeczności:* Reddit subreddits for game deals
+
+**Link:** https://www.reddit.com
+
+**Kontekst:** Polecenie od użytkownika Kuba Wójcik w kanale #baza-wiedzy, jako źródło do pozyskiwania ruchu i promocji. ¦ Użytkownik Kuba Wójcik polecił korzystanie z Reddita jako źródła informacji o promocjach Steam, wymieniając konkretne subreddity przydatne dla indie deweloperów.
+
+---
+
 ## RobotStreamer
 
 🟢 **Confidence:** 0.92 · **4× wzmianek**
@@ -392,17 +392,17 @@ Platforma oferująca testy jakości językowej (LQA) oraz usługi lokalizacyjne 
 
 ---
 
-## Reddit
+## Reddit User Analyser
 
 🟢 **Confidence:** 0.92 · **3× wzmianek**
 
-Subreddity przydatne do promocji indie: r/Games i flara Indie Sunday w niedziele, oraz r/GamesDeal dla gier na promocji.
+Narzędzie do analizy profilu Reddit, pokazujące statystyki karmy i postów.
 
-**Warianty/platformy:** r/Games, Indie Sunday, r/GamesDeal, subreddity dla promocji gier indie, subreddity przydatne dla promocji indie
+*Inne sformułowania w społeczności:* Reddit User Analyzer
 
-**Link:** https://www.reddit.com
+**Link:** https://reddit-user-analyser.netlify.app/#tup3kkk
 
-**Kontekst:** Polecenie od użytkownika Kuba Wójcik w kanale #baza-wiedzy, jako źródło do pozyskiwania ruchu i promocji.
+**Kontekst:** Użyte przez Jakuba Kwintę do podglądu, co dobrze przyciągało uwagę na Redditzie. ¦ Użytkownik Kuba Wójcik polecił link, aby zobaczyć, które posty przynoszą najwięcej karmy. ¦ Użytkownik Kuba Wójcik polecił link, aby zobaczyć, które posty przynoszą najwięcej karmy i jak to może pomóc w marketingu gry.
 
 ---
 
@@ -413,6 +413,20 @@ Subreddity przydatne do promocji indie: r/Games i flara Indie Sunday w niedziele
 Newsletter polecany przez użytkownika, w którym Clamsy (twórca) udostępnia przykłady marketingowych pomysłów, m.in. podział obrazu na cztery części.
 
 **Kontekst:** Użytkownik Kuba Wójcik wspomniał o newsletterze jako źródle inspiracji dla trendów graficznych w promocji indie gier. ¦ Użytkownik Kuba Wójcik wspomniał o newsletterze jako źródle inspiracji dla trendu podziału grafiki; inny uczestnik zapytał o jego nazwę.
+
+---
+
+## Bit.ly (lub własny skracacz URL)
+
+🟢 **Confidence:** 0.92 · **2× wzmianek**
+
+Usługa skracania linków, umożliwiająca monitorowanie liczby kliknięć oraz źródeł ruchu.
+
+*Inne sformułowania w społeczności:* Bit.ly (URL shortener)
+
+**Link:** https://bit.ly
+
+**Kontekst:** Uczestnicy dyskusji rozważali, jak zmierzyć efektywność publikacji w magazynach (PC Gamer, Edge) i sugerowali użycie bit.ly lub własnej domeny skracającej (np. giereczka.com) w tekście artykułu. ¦ Użycie w dyskusji jako sposób na pomiar kliknięć w linki umieszczane w artykułach magazynów (np. Edge Magazine).
 
 ---
 
@@ -438,18 +452,6 @@ Serwis umożliwiający publikację ekskluzywnych trailerów gier, generujący zn
 
 ---
 
-## Reddit User Analyser
-
-🟢 **Confidence:** 0.92 · **2× wzmianek**
-
-Narzędzie do analizy profilu Reddit, pokazujące statystyki karmy i postów.
-
-**Link:** https://reddit-user-analyser.netlify.app/#tup3kkk
-
-**Kontekst:** Użyte przez Jakuba Kwintę do podglądu, co dobrze przyciągało uwagę na Redditzie. ¦ Użytkownik Kuba Wójcik polecił link, aby zobaczyć, które posty przynoszą najwięcej karmy.
-
----
-
 ## Aksinia Illustration – 2D artysta (keyart)
 
 🟢 **Confidence:** 0.92
@@ -459,18 +461,6 @@ Artystka 2D, absolwentka wrocławskiego ASP, tworzyła keyart do gry Truckful. M
 **Link:** https://www.behance.net/aksiniaillustration
 
 **Kontekst:** Użytkownik Michał z MythicOwl Games poleca artystkę, podaje link do portfolio; dyskusja dotyczy dopasowania stylu do RPG/Roguelite.
-
----
-
-## Bit.ly (lub własny skracacz URL)
-
-🟢 **Confidence:** 0.92
-
-Usługa skracania linków, umożliwiająca monitorowanie liczby kliknięć oraz źródeł ruchu.
-
-**Link:** https://bit.ly
-
-**Kontekst:** Uczestnicy dyskusji rozważali, jak zmierzyć efektywność publikacji w magazynach (PC Gamer, Edge) i sugerowali użycie bit.ly lub własnej domeny skracającej (np. giereczka.com) w tekście artykułu.
 
 ---
 
@@ -495,54 +485,6 @@ Tabela w Google Sheets udostępniona przez Kubbę, zawierająca model estymacji 
 **Link:** https://docs.google.com/spreadsheets/d/1lWOttzv6N7LQOV5UpQQnU6_NDLdJGjamQoF0SasOJSE/edit?usp=sharing
 
 **Kontekst:** Używana w dyskusji o wyliczaniu punktu granicznego opłacalności kampanii promocyjnych oraz przy planowaniu publishingowych dealów.
-
----
-
-## Nitro Translate
-
-🟢 **Confidence:** 0.92
-
-Self‑service platforma do tłumaczeń, w panelu od razu podaje wycenę. Dobra opcja przy małych partiach tekstu.
-
-**Link:** https://nitrotranslate.com/
-
-**Kontekst:** Polecona przez użytkownika Madras (indie dev) jako rozwiązanie dla małych partii tekstu, z szybką wyceną w panelu.
-
----
-
-## notifyme.bot
-
-🟢 **Confidence:** 0.92
-
-Bot do forwardowania postów z mediów społecznościowych na Discorda.
-
-**Link:** https://notifyme.bot/
-
-**Kontekst:** Użytkownik Michał z MythicOwl Games polecił ten bot jako działające rozwiązanie do automatycznego przekazywania treści ze SM na Discord.
-
----
-
-## Reddit subreddits for game deals
-
-🟢 **Confidence:** 0.92
-
-Subreddit r/Games (Sunday threads) oraz r/IndieSunday do monitorowania promocji gier indie; r/GamesDeal przy promocjach własnej gry.
-
-**Link:** https://www.reddit.com/r/Games/, https://www.reddit.com/r/IndieSunday/, https://www.reddit.com/r/GamesDeal/
-
-**Kontekst:** Użytkownik Kuba Wójcik polecił korzystanie z Reddita jako źródła informacji o promocjach Steam, wymieniając konkretne subreddity przydatne dla indie deweloperów.
-
----
-
-## Reddit User Analyzer
-
-🟢 **Confidence:** 0.92
-
-narzędzie do analizy profilu Reddit, pokazuje historię karmy i postów
-
-**Link:** https://reddit-user-analyser.netlify.app/#tup3kkk
-
-**Kontekst:** Użytkownik Kuba Wójcik polecił link, aby zobaczyć, które posty przynoszą najwięcej karmy i jak to może pomóc w marketingu gry.
 
 ---
 
@@ -616,6 +558,20 @@ Narzędzie do zarządzania zadaniami, które może oferować widok tygodniowy i 
 
 ---
 
+## Burak Tokak – specjalista od płatnych reklam
+
+🟢 **Confidence:** 0.90 · **3× wzmianek**
+
+Osoba oferująca usługi optymalizacji kampanii reklamowych na X (Twitter), z doświadczeniem w osiąganiu kosztu ~0.4 USD za wishlistę przy globalnym targetowaniu.
+
+*Inne sformułowania w społeczności:* Specjalista od płatnych reklam – Burak Tokak
+
+**Link:** https://www.buraktokak.com/
+
+**Kontekst:** Wspomniany przez Michała (Michał z MythicOwl Games) jako gość od wydawcy Rogue Duck, który miał bardzo dobre wyniki w kampaniach na X, choć autor nie zdołał ich odtworzyć. ¦ Wspomniany przez Michala • Michał z MythicOwl Games jako ekspert, z którym współpracował przy kampanii dla Stellar Settlers. ¦ Michał z MythicOwl Games wspomina o spotkaniu z gościem od wydawcy Rogue Duck, który miał bardzo dobre wyniki w reklamach na X.
+
+---
+
 ## QLOC
 
 🟢 **Confidence:** 0.90 · **3× wzmianek**
@@ -637,18 +593,6 @@ Serwis społecznościowy (Twitter‑alternatywa) działający bez zarzutu, używ
 **Link:** https://bsky.app
 
 **Kontekst:** Użytkownicy potwierdzili, że BlueSky działa poprawnie i jest przydatny do udostępniania i lajkovania treści związanych z grami. ¦ Użytkownicy potwierdzili działanie BlueSky w kontekście promocji gier; jeden uczestnik zauważył niską interakcję, ale platforma jest sprawna.
-
----
-
-## Burak Tokak – specjalista od płatnych reklam
-
-🟢 **Confidence:** 0.90 · **2× wzmianek**
-
-Osoba oferująca usługi optymalizacji kampanii reklamowych na X (Twitter), z doświadczeniem w osiąganiu kosztu ~0.4 USD za wishlistę przy globalnym targetowaniu.
-
-**Link:** https://www.buraktokak.com/
-
-**Kontekst:** Wspomniany przez Michała (Michał z MythicOwl Games) jako gość od wydawcy Rogue Duck, który miał bardzo dobre wyniki w kampaniach na X, choć autor nie zdołał ich odtworzyć. ¦ Wspomniany przez Michala • Michał z MythicOwl Games jako ekspert, z którym współpracował przy kampanii dla Stellar Settlers.
 
 ---
 
@@ -688,18 +632,6 @@ Profil o wysokiej reputacji na Reddit, oferujący wsparcie w promocji gier i rep
 
 ---
 
-## Steam Wishlist‑Sales Calculator (Impress.Games)
-
-🟢 **Confidence:** 0.90
-
-Kalkulator szacujący sprzedaż na podstawie liczby wishlist na Steamie.
-
-**Link:** https://impress.games/steam-wishlists-sales-calculator
-
-**Kontekst:** praktyk z portfolio Movie Games/GOG podzielił się linkiem w odpowiedzi na pytanie o minimalną liczbę wishlist potrzebną do sprzedaży 1000 kopii w pierwszym tygodniu.
-
----
-
 ## Neverland Entertainment (WePlay)
 
 🟢 **Confidence:** 0.88 · **4× wzmianek**
@@ -714,25 +646,15 @@ Chiński co‑publisher, z którym Michał z MythicOwl Games współpracował pr
 
 ## Steam Coffee Hours (Gamescom 2024) – Eventbrite
 
-🟢 **Confidence:** 0.88 · **2× wzmianek**
+🟢 **Confidence:** 0.88 · **3× wzmianek**
 
 Rejestracja na sesję networkingową Steam na Gamescomie.
 
-**Link:** https://www.eventbrite.com/e/steams-coffee-hours-gamescom-2024-tickets-884114659747
-
-**Kontekst:** Wspomniany przez Jakuba Kwintę jako potencjalna okazja do kontaktów w branży. ¦ Jakub Kwinta (indie dev) udostępnił link w dyskusji o przygotowaniu nowej strony gry na Steamie.
-
----
-
-## Steam Coffee Hours at Gamescom 2024 (Eventbrite)
-
-🟢 **Confidence:** 0.88
-
-rejestracja na spotkanie ze Steamem podczas Gamescom
+*Inne sformułowania w społeczności:* Steam Coffee Hours at Gamescom 2024 (Eventbrite)
 
 **Link:** https://www.eventbrite.com/e/steams-coffee-hours-gamescom-2024-tickets-884114659747
 
-**Kontekst:** Jakub Kwinta (indie dev) podzielił się linkiem do wydarzenia, które może być przydatne dla indie devów szukających kontaktu ze Steamem.
+**Kontekst:** Wspomniany przez Jakuba Kwintę jako potencjalna okazja do kontaktów w branży. ¦ Jakub Kwinta (indie dev) udostępnił link w dyskusji o przygotowaniu nowej strony gry na Steamie. ¦ Jakub Kwinta (indie dev) podzielił się linkiem do wydarzenia, które może być przydatne dla indie devów szukających kontaktu ze Steamem.
 
 ---
 
@@ -787,18 +709,6 @@ Zestaw narzędzi Atlassian umożliwiający synergiczną współpracę między do
 **Link:** https://www.atlassian.com
 
 **Kontekst:** Jakub Kwinta (indie dev) wskazuje na plan wykorzystania Atlassian w przyszłości, podkreślając korzyści integracyjne.
-
----
-
-## Bit.ly (URL shortener)
-
-🟢 **Confidence:** 0.85
-
-Służy do skracania linków i zbierania statystyk kliknięć, co pozwala mierzyć efektywność linków w materiałach PR.
-
-**Link:** https://bit.ly
-
-**Kontekst:** Użycie w dyskusji jako sposób na pomiar kliknięć w linki umieszczane w artykułach magazynów (np. Edge Magazine).
 
 ---
 
@@ -860,18 +770,6 @@ Platforma analityczna i matchmakingowa dla influencerów, umożliwia podgląd ś
 
 ---
 
-## Specjalista od płatnych reklam – Burak Tokak
-
-🟡 **Confidence:** 0.81
-
-Osoba (https://www.buraktokak.com/) specjalizująca się w kampaniach reklamowych na X, osiągająca koszt $0.4 za wishlist przy globalnym targetowaniu (przykład Stellar Settlers).
-
-**Link:** https://www.buraktokak.com/
-
-**Kontekst:** Michał z MythicOwl Games wspomina o spotkaniu z gościem od wydawcy Rogue Duck, który miał bardzo dobre wyniki w reklamach na X.
-
----
-
 ## gamalytic
 
 🟡 **Confidence:** 0.80 · **4× wzmianek**
@@ -906,6 +804,34 @@ Chiński co‑publisher, mniej znany, kontakt z którym może być utrudniony.
 
 ---
 
+## Evolve (agencja PR dla gier)
+
+🟡 **Confidence:** 0.78 · **3× wzmianek**
+
+Agencja oferująca usługi PR i marketingowe dla indie gier. Według dyskusji, niektórzy deweloperzy płacili od 4 000 do 15 000 USD i uzyskiwali różne rezultaty – od braku efektów po częściowe wsparcie przy najważniejszych, czasochłonnych zadaniach.
+
+*Inne sformułowania w społeczności:* Evolve (agencja PR dla gier indie); Evolve (agencja PR/marketingowa)
+
+**Link:** None
+
+**Kontekst:** Wymieniona w rozmowie jako przykład drogiej agencji, której skuteczność jest dyskusyjna. Jeden uczestnik negocjował cenę do 4 k USD przy ograniczonym zakresie usług. ¦ Wymieniona przez kilku uczestników jako przykład drogiej agencji, z której nie zawsze otrzymuje się wymierne efekty. ¦ Uczestnicy wymieniali doświadczenia z Evolve, oceniając ją jako drogi i mało efektywny wybór w porównaniu do własnych działań.
+
+---
+
+## Evolve (Terminal)
+
+🟡 **Confidence:** 0.78 · **3× wzmianek**
+
+Serwis do organizacji kampanii PR i dystrybucji kluczy, wymaga minimalnego budżetu ok. 5 000 USD.
+
+*Inne sformułowania w społeczności:* Evolve
+
+**Link:** None
+
+**Kontekst:** Dyskusja o kosztach i funkcjonalnościach Evolve/Terminal jako alternatywy do Lurkit. ¦ Uczestnicy rozważają współpracę z Evolve przy wydaniu gry, ale koszt i dostępność są barierą. ¦ Uczestnicy dyskutowali o kosztach i dostępności Evolve przy planowaniu kampanii wydawniczych.
+
+---
+
 ## Drop.me
 
 🟡 **Confidence:** 0.78 · **2× wzmianek**
@@ -915,18 +841,6 @@ Serwis umożliwiający dystrybucję kluczy gry i promocję poprzez influencerów
 **Link:** None
 
 **Kontekst:** Wspomniany w pytaniu Pawła jako alternatywa do Lurkit. Brak szczegółowych doświadczeń, ale uznany za potencjalny kanał. ¦ Wspomniany w pytaniu jako alternatywa do Lurkit; brak szczegółowych doświadczeń, ale uznany za potencjalną opcję.
-
----
-
-## Evolve (Terminal)
-
-🟡 **Confidence:** 0.78 · **2× wzmianek**
-
-Serwis do organizacji kampanii PR i dystrybucji kluczy, wymaga minimalnego budżetu ok. 5 000 USD.
-
-**Link:** None
-
-**Kontekst:** Dyskusja o kosztach i funkcjonalnościach Evolve/Terminal jako alternatywy do Lurkit. ¦ Uczestnicy rozważają współpracę z Evolve przy wydaniu gry, ale koszt i dostępność są barierą.
 
 ---
 
@@ -942,28 +856,6 @@ Google Form służący do aplikacji uczestnictwa w targach PAX w Bostonie, przyd
 
 ---
 
-## Evolve (agencja PR dla gier)
-
-🟡 **Confidence:** 0.78
-
-Agencja oferująca usługi PR i marketingowe dla indie gier. Według dyskusji, niektórzy deweloperzy płacili od 4 000 do 15 000 USD i uzyskiwali różne rezultaty – od braku efektów po częściowe wsparcie przy najważniejszych, czasochłonnych zadaniach.
-
-**Link:** None
-
-**Kontekst:** Wymieniona w rozmowie jako przykład drogiej agencji, której skuteczność jest dyskusyjna. Jeden uczestnik negocjował cenę do 4 k USD przy ograniczonym zakresie usług.
-
----
-
-## Evolve (agencja PR/marketingowa)
-
-🟡 **Confidence:** 0.78
-
-Agencja oferująca usługi PR i marketingu dla gier indie. Według dyskusji, niektórzy deweloperzy płacili od 4 k do 15 k USD i uzyskiwali ograniczone rezultaty, więc warto negocjować zakres usług.
-
-**Kontekst:** Wymieniona przez kilku uczestników jako przykład drogiej agencji, z której nie zawsze otrzymuje się wymierne efekty.
-
----
-
 ## Localsoft
 
 🟡 **Confidence:** 0.75 · **2× wzmianek**
@@ -973,30 +865,6 @@ Hiszpańska firma tłumaczeniowa, testowana wcześniej, ale jakość okazała si
 **Link:** None
 
 **Kontekst:** Wspomniana przez Pawła Skabę jako alternatywa, jednak z ostrzeżeniem o słabej jakości. ¦ Wspomniana przez Pawła Skabę jako alternatywa, ale z negatywną oceną jakości.
-
----
-
-## Evolve
-
-🟡 **Confidence:** 0.75
-
-Serwis do organizacji kampanii PR i dystrybucji kluczy, wymaga minimalnego budżetu ok. 5 k USD.
-
-**Link:** None
-
-**Kontekst:** Uczestnicy dyskutowali o kosztach i dostępności Evolve przy planowaniu kampanii wydawniczych.
-
----
-
-## Evolve (agencja PR dla gier indie)
-
-🟡 **Confidence:** 0.72
-
-Agencja oferująca usługi PR i marketingowe dla deweloperów indie. W dyskusji podano przykłady kosztów: $7 k – $15 k, przy czym zakres usług może być ograniczony (np. brak znaczących publikacji).
-
-**Link:** None
-
-**Kontekst:** Uczestnicy wymieniali doświadczenia z Evolve, oceniając ją jako drogi i mało efektywny wybór w porównaniu do własnych działań.
 
 ---
 

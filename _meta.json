@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T10:33:41.617643",
-  "total_items": 457,
+  "generated_at": "2026-05-13T10:47:27.907971",
+  "total_items": 317,
   "by_type": {
-    "tool": 84,
-    "practice": 181,
-    "qa": 48,
-    "link": 144
+    "tool": 71,
+    "practice": 107,
+    "qa": 32,
+    "link": 107
   },
   "source": "Discord Masoneria Marketingu",
   "anonymization_applied": true

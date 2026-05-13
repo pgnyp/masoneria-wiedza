@@ -38,7 +38,7 @@ Uruchomienie OBS 24/7 na własnym sprzęcie (np. mały serwer lub komputer o nis
 
 Kampanie reklamowe na X generują początkowy wzrost wishlist, ale po 2‑3 dniach koszt rośnie i efektywność spada. Najlepsze wyniki to koszt ok. 3 PLN (≈0,4 USD) za wishlistę, ale utrzymują się tylko krótkotrwale.
 
-**Warianty/platformy:** szybki spadek efektywności
+**Inne warianty:** szybki spadek efektywności
 
 **Kontekst:** Zarówno TomekTomasz (indie dev), jak i Michał z MythicOwl Games opisują podobny trend: początkowy „żar” kampanii, po czym następuje zjazd w dół, niezależnie od celu (following vs. wizyty na Steam).
 
@@ -200,7 +200,7 @@ Przygotuj krótką, emocjonującą zapowiedź i trailer (np. 15‑sekundowy klip
 
 Zacznij od publikacji na r/IndieGaming, a następnie dodawaj posty na r/indiegames, r/macgaming, r/linuxgaming oraz tematyczne subreddity (np. r/CozyGamers). Odpowiadaj na każdy komentarz, nawet krótko, aby podnieść widoczność posta. Używaj flairu developera, aby wyróżnić się jako autor gry.
 
-**Warianty/platformy:** stopniowe rozszerzanie i aktywna interakcja, wielokanałowe podejście, wielokanałowe publikowanie i aktywna interakcja
+**Inne warianty:** stopniowe rozszerzanie i aktywna interakcja, wielokanałowe podejście, wielokanałowe publikowanie i aktywna interakcja
 
 **Kontekst:** Michał z MythicOwl Games opisuje swoją strategię po publikacji trailera, podkreślając znaczenie odpowiedzi na komentarze i stopniowego dodawania postów na subreddity o dużej widowni.
 

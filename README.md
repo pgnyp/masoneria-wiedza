@@ -4,14 +4,14 @@
 > Wszystkie wypowiedzi są zanonimizowane, cytowani są tylko publicznie rozpoznawalni deweloperzy z kontekstem ich studio/produktu.
 
 **Aktualizowane:** 2026-05-13
-**Items:** 294 (70 narzędzi, 98 praktyk, 30 Q&A, 96 linków)
+**Items:** 295 (70 narzędzi, 98 praktyk, 30 Q&A, 97 linków)
 
 ## Spis treści
 
 - [🛠️ Narzędzia polecone](tools.md) (70)
 - [📘 Dobre praktyki](practices.md) (98)
 - [❓ Pytania i odpowiedzi](qa.md) (30)
-- [🔗 Linki i zasoby](links.md) (96)
+- [🔗 Linki i zasoby](links.md) (97)
 
 ## Co to jest?
 

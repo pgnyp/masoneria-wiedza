@@ -14,8 +14,6 @@
 
 Strona umożliwiająca przeglądanie statystyk tagów gier na Steam, porównywanie ich popularności i trendów.
 
-**Warianty/platformy:** statystyki tagów Steam
-
 **Link:** https://games-stats.com/steam/tags/
 
 **Kontekst:** Polecona przez użytkownika Kuba Wójcik w kanale #baza-wiedzy jako przydatne źródło danych o popularności tagów na Steam. ¦ praktyk z portfolio Movie Games/GOG wymienił games-stats jako kolejną opcję do sprawdzania sprzedaży. ¦ Wspomniany jako kolejna opcja do uzyskania danych o sprzedaży.
@@ -52,7 +50,9 @@ Kalkulator Steama do liczenia statystyk i prognoz finansowych dla gier na platfo
 
 Platforma do dystrybucji kluczy, umożliwiająca darmowy listing oraz sprzedaż kluczy gry.
 
-**Link:** None
+**Linki:**
+- [Keymailer](None)
+- [Keymailer](https://keymailer.com)
 
 **Kontekst:** Wspomniana przez praktyk z portfolio Movie Games/GOG i Michala (Michał z MythicOwl Games) jako przydatna do dystrybucji kluczy, szczególnie w połączeniu z darmowym listingiem. ¦ Użytkownik TomekTomasz (indie dev) pyta o skuteczność Keymailer, a praktyk z portfolio Movie Games/GOG potwierdza, że korzystali z największego pakietu i uznali go za przydatny. ¦ Wymieniona przez uczestników jako jedna z opcji do dystrybucji kluczy; polecana do darmowego listingu.
 
@@ -64,9 +64,14 @@ Platforma do dystrybucji kluczy, umożliwiająca darmowy listing oraz sprzedaż 
 
 Kanał Better Publishing na chińskiej platformie wideo Bilibili.
 
-**Warianty/platformy:** Bilibili, BlueSky, Facebook, Instagram, profile na mediach społecznościowych, Steam Store, X (Twitter), YouTube
-
-**Link:** https://space.bilibili.com/3546965505739262
+**Linki:**
+- [Bilibili](https://space.bilibili.com/3546965505739262)
+- [BlueSky](https://bsky.app/profile/betterpubpro.bsky.social)
+- [Facebook](https://www.facebook.com/betterpubpro)
+- [Instagram](https://www.instagram.com/betterpubpro/)
+- [Steam Store](https://store.steampowered.com/publisher/betterpublishing)
+- [X (Twitter)](https://x.com/betterpubpro)
+- [YouTube](https://www.youtube.com/@betterpubpro)
 
 **Kontekst:** Kuba Wójcik udostępnił listę kanałów społecznościowych Better Publishing.
 
@@ -118,7 +123,9 @@ System do zarządzania projektami, umożliwia tworzenie zadań, wyświetlanie ic
 
 Narzędzie do tworzenia press kitów, opracowane przez twórców The Mix, ułatwiające przygotowanie materiałów prasowych dla gier.
 
-**Link:** https://www.mypresskit.io/
+**Linki:**
+- [MyPressKit](https://www.mypresskit.io/)
+- [MyPressKit](httpshttps://www.mypresskit.io/)
 
 **Kontekst:** Udostępnione przez użytkownika Kuba Wójcik jako przydatny serwis dla indie devów potrzebujących gotowych press kitów. ¦ Udostępnione przez użytkownika Kuba Wójcik jako przydatne dla deweloperów przygotowujących press kit. ¦ Udostępniona przez Kuba Wójcik jako przydatne narzędzie dla deweloperów do przygotowywania materiałów prasowych.
 
@@ -232,9 +239,12 @@ Program do przechwytywania i nadawania obrazu, używany do hostowania stałego s
 
 Profil TheWulo na BlueSky.
 
-**Warianty/platformy:** BlueSky, Instagram, profile na mediach społecznościowych, TikTok, X, YouTube
-
-**Link:** https://bsky.app/profile/thewulo.bsky.social
+**Linki:**
+- [BlueSky](https://bsky.app/profile/thewulo.bsky.social)
+- [Instagram](https://www.instagram.com/mateusz.kietlinski/)
+- [TikTok](https://www.tiktok.com/@thewulo)
+- [X](https://x.com/TheWulo)
+- [YouTube](https://www.youtube.com/@TheWulo)
 
 **Kontekst:** Wulo (indie dev) udostępnił swoje profile w różnych mediach społecznościowych.
 
@@ -246,9 +256,10 @@ Profil TheWulo na BlueSky.
 
 Profil gry Barkour na BlueSky.
 
-**Warianty/platformy:** BlueSky, Facebook, X
-
-**Link:** https://bsky.app/profile/barkourdoggame.bsky.social
+**Linki:**
+- [BlueSky](https://bsky.app/profile/barkourdoggame.bsky.social)
+- [Facebook](https://www.facebook.com/profile.php?id=61564357768510)
+- [X](https://x.com/BARKOUR__GAME)
 
 **Kontekst:** Lukasz R. podzielił się profilami społecznościowymi Everdream Village i Barkour.
 
@@ -260,9 +271,10 @@ Profil gry Barkour na BlueSky.
 
 Profil Everdream Village na BlueSky.
 
-**Warianty/platformy:** BlueSky, Facebook, X
-
-**Link:** https://bsky.app/profile/everdreamvalley.bsky.social
+**Linki:**
+- [BlueSky](https://bsky.app/profile/everdreamvalley.bsky.social)
+- [Facebook](https://www.facebook.com/EverdreamValley)
+- [X](https://x.com/EverdreamValley)
 
 **Kontekst:** Lukasz R. podzielił się profilami społecznościowymi Everdream Village i Barkour.
 
@@ -322,7 +334,9 @@ Sklep internetowy oferujący przypinki w estetycznych opakowaniach.
 
 System do zarządzania projektami, używany przez zespół od kilku lat bez większych problemów.
 
-**Link:** https://clickup.com
+**Linki:**
+- [ClickUp](https://clickup.com)
+- [ClickUp](None)
 
 **Kontekst:** Wspomniane przez Pawła Skabę jako narzędzie, które „smiga” w ich studiu. ¦ Wspomniane przez Pawła Skabę jako stabilne rozwiązanie do koordynacji pracy zespołu. ¦ Wspomniane przez Pawła Skabę jako rozwiązanie, które „smiga” w ich studiu.
 
@@ -346,25 +360,25 @@ Narzędzie/raport pokazujący, które gry wypuszczają się w danym dniu, ich li
 
 Płatny serwis do streamowania zapętlonych filmików na Steam Broadcast, oferujący prosty upload i odtwarzanie.
 
-**Link:** None
+**Linki:**
+- [LoopingStream](None)
+- [LoopingStream](https://loopingstream.com)
 
 **Kontekst:** Wulo (indie dev) wymienia jako alternatywę do hostowania własnego streamu. ¦ Wymieniony jako alternatywa do RobotStreamer przy tworzeniu zapętlonych streamów na Steam Broadcast. ¦ Wulo (indie dev) wymienia LoopingStream jako alternatywę dla własnego hostingu przy streamowaniu na Steam Broadcast.
 
 ---
 
-## Reddit
+## Reddit subreddits for game deals
 
 🟢 **Confidence:** 0.92 · **4× wzmianek**
 
-Subreddity przydatne do promocji indie: r/Games i flara Indie Sunday w niedziele, oraz r/GamesDeal dla gier na promocji.
+Subreddit r/Games (Sunday threads) oraz r/IndieSunday do monitorowania promocji gier indie; r/GamesDeal przy promocjach własnej gry.
 
-**Warianty/platformy:** r/Games, Indie Sunday, r/GamesDeal, subreddity dla promocji gier indie, subreddity przydatne dla promocji indie
+*Inne sformułowania w społeczności:* Reddit
 
-*Inne sformułowania w społeczności:* Reddit subreddits for game deals
+**Link:** https://www.reddit.com/r/Games/, https://www.reddit.com/r/IndieSunday/, https://www.reddit.com/r/GamesDeal/
 
-**Link:** https://www.reddit.com
-
-**Kontekst:** Polecenie od użytkownika Kuba Wójcik w kanale #baza-wiedzy, jako źródło do pozyskiwania ruchu i promocji. ¦ Użytkownik Kuba Wójcik polecił korzystanie z Reddita jako źródła informacji o promocjach Steam, wymieniając konkretne subreddity przydatne dla indie deweloperów.
+**Kontekst:** Użytkownik Kuba Wójcik polecił korzystanie z Reddita jako źródła informacji o promocjach Steam, wymieniając konkretne subreddity przydatne dla indie deweloperów. ¦ Polecenie od użytkownika Kuba Wójcik w kanale #baza-wiedzy, jako źródło do pozyskiwania ruchu i promocji.
 
 ---
 
@@ -373,8 +387,6 @@ Subreddity przydatne do promocji indie: r/Games i flara Indie Sunday w niedziele
 🟢 **Confidence:** 0.92 · **3× wzmianek**
 
 Platforma oferująca testy jakości językowej (LQA) oraz usługi lokalizacyjne dla gier. Przydatna dla indie deweloperów planujących międzynarodową premierę.
-
-**Warianty/platformy:** usługi LQA i lokalizacji
 
 **Link:** https://games.lionbridge.com
 
@@ -532,7 +544,9 @@ Francuska firma z dobrą siecią dystrybutorów, umożliwiająca zarobek z fizyc
 
 Usługa do masowej wysyłki maili, wykorzystywana do rozsyłania listy kluczy po przygotowaniu ich w Excelu.
 
-**Link:** None
+**Linki:**
+- [Sendy](None)
+- [Sendy](https://sendy.co/)
 
 **Kontekst:** Uczestnik wspomniał, że dystrybucję kluczy robi jako makro do Excela, a następnie wrzuca na Sendy. ¦ Uczestnicy opisują, że dystrybucję kluczy robią jako makro do Excela, wrzucane na Sendy. ¦ Użytkownik opisuje, że dystrybucję kluczy robi jako makro do Excela, a następnie wrzuca na Sendy.
 

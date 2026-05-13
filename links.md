@@ -2,23 +2,28 @@
 
 > Zewnętrzne materiały, artykuły, raporty i narzędzia polecane w dyskusjach.
 
-**96 items**, sortowane malejąco po confidence.
+**97 items**, sortowane malejąco po confidence.
 
 [← powrót do głównej](README.md)
 
 ---
 
-## Bit Golem team
+## Steam profile Bit Golem team
 
 🟢 **Confidence:** 0.99 · **29× wzmianek**
 
-Profil Bit Golem team na Bluesky.
+Strona dewelopera Bit Golem team w Steam
 
-**Warianty/platformy:** Bluesky, Discord invite, Facebook, Instagram, Steam developer page, X (Twitter), YouTube channel
+*Inne sformułowania w społeczności:* Bit Golem team; Bluesky - Bit Golem team; Bluesky Bit Golem team; Discord - Bit Golem team; Discord Bit Golem team; Facebook - Bit Golem team; Facebook Bit Golem team; Instagram - Bit Golem team; Instagram Bit Golem team; Steam - Bit Golem team; X (Twitter) - Bit Golem team; X (Twitter) Bit Golem team; YouTube - Bit Golem team; YouTube Bit Golem team
 
-*Inne sformułowania w społeczności:* Bluesky - Bit Golem team; Bluesky Bit Golem team; Discord - Bit Golem team; Discord Bit Golem team; Facebook - Bit Golem team; Facebook Bit Golem team; Instagram - Bit Golem team; Instagram Bit Golem team; Steam - Bit Golem team; Steam profile Bit Golem team; X (Twitter) - Bit Golem team; X (Twitter) Bit Golem team; YouTube - Bit Golem team; YouTube Bit Golem team
-
-**Link:** https://bsky.app/profile/bitgolem.bsky.social
+**Linki:**
+- [Steam profile Bit Golem team](https://store.steampowered.com/developer/bitgolem)
+- [Discord Bit Golem team](https://discord.com/invite/W5v6dCGafc)
+- [Instagram Bit Golem team](https://www.instagram.com/bit_golem/)
+- [X (Twitter) Bit Golem team](https://x.com/bit_golem)
+- [Facebook Bit Golem team](https://www.facebook.com/bitgolem)
+- [Bluesky Bit Golem team](https://bsky.app/profile/bitgolem.bsky.social)
+- [YouTube Bit Golem team](https://www.youtube.com/@bitgolem1538)
 
 ---
 
@@ -80,11 +85,16 @@ Ogłoszenie o organizowanym przez IGP gamejamie w Poznaniu. Przydatne dla dewelo
 
 Kanał YouTube wydawcy Retrovibe, zawierający trailery i materiały promocyjne.
 
-**Warianty/platformy:** Bluesky profile, Facebook page, GOG publisher page, kanał na YouTube, profil na Bluesky, profil na TikTok, profil na X, Steam publisher page, strona na Facebooku, strona wydawcy na GOG, strona wydawcy na Steam, TikTok profile, X profile, YouTube channel
-
 *Inne sformułowania w społeczności:* Retrovibe Facebook; Retrovibe YouTube
 
-**Link:** https://youtube.com/retrovibegames
+**Linki:**
+- [kanał na YouTube](https://youtube.com/retrovibegames)
+- [profil na Bluesky](https://bsky.app/profile/retrovibegames.bsky.social)
+- [profil na TikTok](https://tiktok.com/@retrovibegames)
+- [profil na X](https://x.com/retrovibegames)
+- [strona na Facebooku](https://facebook.com/retrovibegames)
+- [strona wydawcy na GOG](https://www.gog.com/games?publishers=retrovibe)
+- [strona wydawcy na Steam](https://store.steampowered.com/publisher/Retrovibe)
 
 ---
 
@@ -94,19 +104,14 @@ Kanał YouTube wydawcy Retrovibe, zawierający trailery i materiały promocyjne.
 
 Facebook, X, BlueSky, Instagram, Bilibili, YouTube oraz Steam dla wydawcy Better Publishing.
 
-**Link:** https://www.facebook.com/betterpubpro
-
----
-
-## Retrovibe Publisher Page on Steam
-
-🟢 **Confidence:** 0.95 · **7× wzmianek**
-
-Strona wydawcy Retrovibe w sklepie Steam
-
-*Inne sformułowania w społeczności:* Retrovibe Publisher Page on GOG; Steam Publisher page
-
-**Link:** https://store.steampowered.com/publisher/Retrovibe
+**Linki:**
+- [Better Publishing social profiles](https://www.facebook.com/betterpubpro)
+- [Better Publishing social profiles](https://store.steampowered.com/publisher/betterpublishing)
+- [Better Publishing social profiles](https://x.com/betterpubpro)
+- [Better Publishing social profiles](https://www.instagram.com/betterpubpro/)
+- [Better Publishing social profiles](https://space.bilibili.com/3546965505739262)
+- [Better Publishing social profiles](https://bsky.app/profile/betterpubpro.bsky.social)
+- [Better Publishing social profiles](https://www.youtube.com/@betterpubpro)
 
 ---
 
@@ -128,9 +133,21 @@ Wspomniano o możliwości bundlowania z tym tytułem po jego oficjalnym wydaniu,
 
 Lista polskich studiów game dev na platformie X, aktualizowana na bieżąco (limit 100 profili dziennie).
 
-**Warianty/platformy:** lista publiczna
-
 **Link:** https://x.com/i/lists/1988569527945138584
+
+---
+
+## Retrovibe Publisher Page on Steam
+
+🟢 **Confidence:** 0.95 · **4× wzmianek**
+
+Strona wydawcy Retrovibe w sklepie Steam
+
+*Inne sformułowania w społeczności:* Retrovibe Publisher Page on GOG
+
+**Linki:**
+- [Retrovibe Publisher Page on Steam](https://store.steampowered.com/publisher/Retrovibe)
+- [Retrovibe Publisher Page on GOG](https://www.gog.com/games?publishers=retrovibe)
 
 ---
 
@@ -161,8 +178,6 @@ Ogłoszenie o aktualnej wyprzedaży gier Anshar Publishing na Steamie.
 🟢 **Confidence:** 0.95 · **4× wzmianek**
 
 Raport zawierający statystyki i przykłady dotyczące wishlistingów na Steam, przydatny przy planowaniu kampanii marketingowych i optymalizacji widoczności gry.
-
-**Warianty/platformy:** What the data tells us, What the data tells us (PDF)
 
 *Inne sformułowania w społeczności:* Analiza wishlistingów na Steam – dane i wnioski
 
@@ -230,7 +245,9 @@ Profile na X, BlueSky, Instagram, YouTube i TikTok prowadzone przez Mateusza Kie
 
 *Inne sformułowania w społeczności:* TheWulo Instagram
 
-**Link:** https://x.com/TheWulo
+**Linki:**
+- [TheWulo personal/social media](https://x.com/TheWulo)
+- [TheWulo Instagram](https://www.instagram.com/mateusz.kietlinski/)
 
 ---
 
@@ -324,7 +341,9 @@ Video showing before/after data: charts now sorted by revenue in last 3 days ins
 
 *Inne sformułowania w społeczności:* Nintendo Switch eShop chart sorting change (revenue vs downloads); Nintendo Switch eShop chart sorting change (video evidence)
 
-**Link:** https://lnkd.in/gh6xe7Gd
+**Linki:**
+- [Nintendo Switch eShop ranking algorithm change (downloads → revenue)](https://lnkd.in/gh6xe7Gd)
+- [Nintendo Switch eShop chart sorting change (revenue vs downloads)](https://lnkd.in/gPRBN5P5)
 
 ---
 
@@ -471,6 +490,16 @@ Dyskusja o tym, jak rozpoznać wydawców, z którymi współpraca może być ryz
 **Link:** https://www.linkedin.com/posts/lukaszrosinski_a-real-industry-dilemma-not-a-hypothetical-activity-7403799348779659266-78mQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADRaCYBI204WTlhLoXGx1nYs3_uUzMACG8
 
 **Kontekst:** Użytkownik luki udostępnił link w kanale poświęconym marketingowi, podkreślając wartość takiej wiedzy przy wyborze wydawcy.
+
+---
+
+## Steam Publisher page
+
+🟢 **Confidence:** 0.90 · **3× wzmianek**
+
+Przykładowa strona wydawcy na Steamie, pokazująca nowe możliwości edycji i układu informacji.
+
+**Link:** https://store.steampowered.com/publisher/Retrovibe
 
 ---
 

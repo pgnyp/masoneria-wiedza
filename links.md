@@ -2,7 +2,7 @@
 
 > Zewnętrzne materiały, artykuły, raporty i narzędzia polecane w dyskusjach.
 
-**97 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
+**100 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
 
 [← powrót do głównej](README.md)
 
@@ -10,9 +10,9 @@
 
 - [Live streamerzy i influencerzy](#streamers) (3)
 - [Wishlisty — kumulacja, konwersja, pre-launch, mailing do wishlistujących, minimalna liczba](#wishlists) (7)
-- [Demo i Next Fest](#demo) (7)
+- [Demo i Next Fest](#demo) (8)
 - [Reklamy płatne](#ads) (1)
-- [Steam Store strona](#steam-store) (3)
+- [Steam Store strona](#steam-store) (5)
 - [Press / PR / dziennikarze gamingowi / branżowe newslettery](#press) (1)
 - [Email marketing własny — newslettery, mailing zewnętrzny, lead magnet](#email) (4)
 - [Pricing — cennik, SRP, region pricing, promocje, sale strategy](#pricing) (4)
@@ -151,6 +151,16 @@ Link do demka gry udostępnionego przez Jakuba Kwintę, z prośbą o gry i pozyt
 
 ---
 
+### Reddit dyskusja o zmianie UI Steam beta
+
+🟢 **Confidence:** 0.95
+
+Wątek omawiający usunięcie sekcji Popular Upcoming w nowej wersji beta Steam oraz jej potencjalny wpływ na widoczność gier.
+
+**Link:** https://www.reddit.com/r/IndieDev/comments/1t4a955/steam_support_confirms_the_new_beta_ui_change_is/
+
+---
+
 ### What Steam’s big demo update means for your marketing strategy
 
 🟢 **Confidence:** 0.93 · **7× wzmianek**
@@ -240,6 +250,26 @@ Oficjalny tag Steam dla gier z mechaniką rzutów kostką, przydatny przy oznacz
 *Inne sformułowania w społeczności:* Steam tag "Dice"
 
 **Link:** https://store.steampowered.com/tags/en/Dice
+
+---
+
+### KSEF na Steam
+
+🟢 **Confidence:** 0.95
+
+Link do gry KSEF w sklepie Steam, udostępniony w dyskusji.
+
+**Link:** https://store.steampowered.com/app/4461410/KSEF/
+
+---
+
+### Whispers of the Eyeless (WOTE) na Steam
+
+🟢 **Confidence:** 0.95
+
+Propozycja gry, którą można by połączyć w bundle z debiutancką grą Kuba Wójcik.
+
+**Link:** https://store.steampowered.com/app/2523890/Whispers_of_the_Eyeless/
 
 ---
 

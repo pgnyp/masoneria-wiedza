@@ -2,7 +2,7 @@
 
 > Realne pytania z community z odpowiedziami skondensowanymi z dyskusji.
 
-**30 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
+**32 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
 
 [← powrót do głównej](README.md)
 
@@ -10,7 +10,7 @@
 
 - [Live streamerzy i influencerzy](#streamers) (2)
 - [Wishlisty — kumulacja, konwersja, pre-launch, mailing do wishlistujących, minimalna liczba](#wishlists) (6)
-- [Demo i Next Fest](#demo) (2)
+- [Demo i Next Fest](#demo) (3)
 - [Reklamy płatne](#ads) (1)
 - [Steam Store strona](#steam-store) (2)
 - [Pricing — cennik, SRP, region pricing, promocje, sale strategy](#pricing) (3)
@@ -20,7 +20,7 @@
 - [Publishing / wydawcy / kontrakty / pitch deck / negocjacje z wydawcą](#publishing) (1)
 - [Steam events / festiwale / Save & Continue / Summer Sale / MIX / showcases](#events) (5)
 - [Sprzedaż na konsolach](#console) (1)
-- [Inne / ogólne wskazówki marketingowe nie pasujące do żadnej powyższej kategorii](#other) (3)
+- [Inne / ogólne wskazówki marketingowe nie pasujące do żadnej powyższej kategorii](#other) (4)
 
 ---
 
@@ -136,6 +136,16 @@ Steam nie pozwala na zmianę SKU istniejącej gry w przypadku, gdy gra była ju�
 Wyniki są mieszane – niektórzy zauważyli jedynie niewielki wzrost zainteresowania (np. pojawienie się wideo), ale ogólnie nie przynosi to znaczących efektów. Dodatkowo istnieje ryzyko, że klucze demo zostaną sprzedane na rynkach wtórnych (G2A, Kinguin), więc nie polecane, zwłaszcza gdy demo jest już publicznie dostępne na Steam.
 
 **Kontekst:** Dyskusja w kanale ogólnym serwera masoneria, 2026-03-06, użytkownicy Kuba Wójcik, praktyk z portfolio Movie Games/GOG i Michal (Michał z MythicOwl Games) wymieniają się opiniami na temat publikacji dema na platformach typu keymailer. ¦ Dyskusja w kanale ogólnym serwera masoneria, 2026-03-06. Użytkownik Kuba Wójcik pyta o doświadczenia, Piotr wspomina o wideo, Michał z MythicOwl Games podkreśla brak wymiernych korzyści i ryzyko sprzedaży kluczy na rynku wtórnym. ¦ Kuba Wójcik pyta o doświadczenia z keymailerem; Piotr wspomina o wideo, a Michał z MythicOwl Games podkreśla słabe wyniki i ryzyko sprzedaży kluczy na platformach trzecich.
+
+---
+
+### Czy brak sekcji Popular Upcoming w nowej wersji beta Steam wpływa na widoczność i promocję gry?
+
+🟢 **Confidence:** 0.92
+
+Sekcja Popular Upcoming dawała kilkanaście‑kilkadziesiąt godzin dodatkowego boostu widoczności tuż przed premierą, co mogło pomóc, ale nie było decydujące. W nowej wersji beta sekcja będzie dostępna dłużej, ale dla ograniczonej liczby użytkowników, chyba że personalizują ją.
+
+**Kontekst:** Pytanie zadane przez dewelopera z community po obejrzeniu dyskusji na Reddit o zmianie UI Steam. Odpowiedź udzielona przez innego dewelopera z community (Madras (indie dev)).
 
 ---
 
@@ -362,6 +372,16 @@ Gra może być starsza, nie może być niskiej jakości („chujowa”) oraz mus
 *Inne sformułowania w społeczności:* Jakie są kryteria wyboru gier do rozdawki?
 
 **Kontekst:** Wątek dotyczy organizacji rozdawki gier na GOG. Użytkownik VVirus zapytał o kryteria, a praktyk z portfolio Movie Games/GOG odpowiedział, wymieniając warunki dotyczące wieku, jakości i platformy gry. ¦ Użytkownik zapytał o kryteria dotyczące daty wydania i pochodzenia gry; odpowiedź udzielona przez praktyk z portfolio Movie Games/GOG w dyskusji o rozdawce gier na GOG.
+
+---
+
+### Czy istnieje limit bundli z innymi grami?
+
+🟢 **Confidence:** 0.92
+
+Nie ma sztywnego limitu – można mieć wiele bundli, ale warto skupić się na kilku (np. 3) które będą wyróżnione na stronie gry. Najlepiej dobierać gry o podobnym gatunku/klimacie i ustalać wspólny okres promocyjny.
+
+**Kontekst:** Pytanie zadane przez Jakub (VVirus, indie dev), odpowiedzi udzielone przez Michała Stankiewicza (Michał Stankiewicz (Last Qubit)) i Kubę, podkreślające brak limitu, korzyści z bundli przy premierze oraz potrzebę dopasowania tematycznego.
 
 ---
 

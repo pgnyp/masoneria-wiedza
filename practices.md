@@ -2,7 +2,7 @@
 
 > Workflow, metody i taktyki działania indie game marketingu, potwierdzone doświadczeniem społeczności.
 
-**98 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
+**99 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
 
 [← powrót do głównej](README.md)
 
@@ -25,7 +25,7 @@
 - [Steam events / festiwale / Save & Continue / Summer Sale / MIX / showcases](#events) (9)
 - [Sprzęt produkcyjny / dev workflow / Jira / Notion / Clickup](#production) (1)
 - [Sprzedaż na konsolach](#console) (2)
-- [Inne / ogólne wskazówki marketingowe nie pasujące do żadnej powyższej kategorii](#other) (5)
+- [Inne / ogólne wskazówki marketingowe nie pasujące do żadnej powyższej kategorii](#other) (6)
 
 ---
 
@@ -1132,6 +1132,16 @@ Wybierać narzędzia, które umożliwiają filtrowanie i eksport danych (np. CSV
 Można wynegocjować niższy budżet (np. $4k zamiast $7‑15k) kosztem mniejszego zakresu usług, koncentrując się na najważniejszych, czasochłonnych zadaniach.
 
 **Kontekst:** Jakub Kwinta (indie dev) podzielił się doświadczeniem z Evolve przy Gamedecu, uzyskując niższą cenę przy ograniczonym zakresem.
+
+---
+
+### Strategia bundli przy premierze i po premierze
+
+🟢 **Confidence:** 0.88
+
+Na premierę warto uruchomić bundle z innymi grami, aby wygenerować ruch i zwiększyć widoczność w top‑3/4 na stronie. Po premierze szukać kolejnych obiecujących tytułów, negocjować wspólny okres promocji i ustalać liczbę wyróżnionych bundli (np. 3) na karcie gry.
+
+**Kontekst:** Wskazówki od Michała Stankiewicza (Michał Stankiewicz (Last Qubit)) oraz doświadczenia Kuby z bundle Lumencraft/Riftbreaker, podkreślające znaczenie tematycznego dopasowania i wspólnego promowania.
 
 ---
 

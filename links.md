@@ -2,7 +2,7 @@
 
 > Zewnętrzne materiały, artykuły, raporty i narzędzia polecane w dyskusjach.
 
-**100 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
+**101 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
 
 [← powrót do głównej](README.md)
 
@@ -21,7 +21,7 @@
 - [Trailer / wideo / capsule video / content marketing / YouTube / shorts](#trailer) (4)
 - [Analityka / dane / tracking / metryki / Gamalytic / games-stats / Steam Spy](#analytics) (5)
 - [Publishing / wydawcy / kontrakty / pitch deck / negocjacje z wydawcą](#publishing) (6)
-- [Steam events / festiwale / Save & Continue / Summer Sale / MIX / showcases](#events) (6)
+- [Steam events / festiwale / Save & Continue / Summer Sale / MIX / showcases](#events) (7)
 - [Branding / nazwa gry / pozycjonowanie / target audience](#branding) (3)
 - [Sprzedaż na konsolach](#console) (2)
 - [Inne / ogólne wskazówki marketingowe nie pasujące do żadnej powyższej kategorii](#other) (19)
@@ -852,6 +852,16 @@ Ogłoszenie o rozpoczęciu zapisów na konferencję PAX East 2025, skierowane do
 Formularz zgłoszeniowy do drugiej edycji festiwalu komediowych gier na Steamie, odbywającego się 16‑01‑2026 – 25‑01‑2026, z deadline do 5‑12‑2025.
 
 **Link:** https://docs.google.com/forms/d/1pntn3NX61EhHhgdXlwm74eE186Y-601ZI0owPrsG9sk
+
+---
+
+### Możliwość darmowej prezentacji studia na GIC Katowice
+
+🟢 **Confidence:** 0.97
+
+Formularz zgłoszeniowy umożliwiający studiom z Warszawy bezpłatne zaprezentowanie się na Game Industry Conference w Katowicach.
+
+**Link:** https://forms.gle/qexmY2jpaatRsR3z5
 
 ---
 

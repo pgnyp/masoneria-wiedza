@@ -2,18 +2,18 @@
 
 > Realne pytania z community z odpowiedziami skondensowanymi z dyskusji.
 
-**32 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
+**34 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
 
 [← powrót do głównej](README.md)
 
 ## Spis treści
 
 - [Live streamerzy i influencerzy](#streamers) (2)
-- [Wishlisty — kumulacja, konwersja, pre-launch, mailing do wishlistujących, minimalna liczba](#wishlists) (6)
+- [Wishlisty — kumulacja, konwersja, pre-launch, mailing do wishlistujących, minimalna liczba](#wishlists) (7)
 - [Demo i Next Fest](#demo) (3)
 - [Reklamy płatne](#ads) (1)
 - [Steam Store strona](#steam-store) (2)
-- [Pricing — cennik, SRP, region pricing, promocje, sale strategy](#pricing) (3)
+- [Pricing — cennik, SRP, region pricing, promocje, sale strategy](#pricing) (4)
 - [Community / Discord / social profile / network / wzajemne wsparcie](#community) (2)
 - [Lokalizacja / Chiny / Azja / języki / regionalna dystrybucja](#localization) (1)
 - [Trailer / wideo / capsule video / content marketing / YouTube / shorts](#trailer) (1)
@@ -91,6 +91,16 @@ Najskuteczniejsze są kampanie na X (Twitter). Działają początkowo, ale szybk
 Posty z wysokiej jakości wideo‑trailerem lub atrakcyjnymi screenshotami oraz regularne odpowiadanie na komentarze są lepiej oceniane. Unikaj nadmiernej autopromocji przy niskiej jakości materiałach, bo admini mogą usunąć post. Dobrej jakości prezentacja i użycie flairu developera zwiększają szanse, że post zostanie zauważony i przyniesie wishlisty.
 
 **Kontekst:** Michał z MythicOwl Games wyjaśnia, że początkowo jego posty były usuwane za słabą jakość i nadmierną autopromocję, ale po poprawie materiałów i aktywności w komentarzach uzyskał lepsze wyniki.
+
+---
+
+### Jak działa nowy ranking wishlist na Steam?
+
+🟢 **Confidence:** 0.85
+
+Ranking uwzględnia teraz krótszy okres przed premierą oraz aktywność w tym czasie, a starsze pozycje na liście życzeń mają mniejsze znaczenie.
+
+**Kontekst:** Kuba Wójcik wyjaśnia, że w nowym systemie liczy się krótszy okres do premiery i aktywność w tym okresie, więc starsze pozycje na wishliście są mniej ważne.
 
 ---
 
@@ -223,6 +233,16 @@ Z doświadczenia jednego z uczestników wynika, że gracze Steam i mobile to dwi
 Niektórzy deweloperzy (np. Kuba Wójcik) już wprowadzili zmiany w cenach po aktualizacji Steam, planują dodatkowe informacje w sobotę. Inni zauważają, że można było ustawić niższe ceny dla Polski wcześniej i że nowe sugestie Steam mogą nie przynieść korzyści. Jakub Kwinta (indie dev) testuje różne przeliczniki i benchmarkuje 3‑4 wydawców, aby dostosować % cen w wybranych krajach.
 
 **Kontekst:** Dyskusja po publikacji wideo o zmianach w algorytmie Steam dotyczących regionalnych cen. Uczestnicy wymieniają doświadczenia i strategie dostosowywania cen w Polsce. ¦ Dyskusja o zmianach w polityce cenowej Steam po aktualizacji, wymiana doświadczeń dotyczących strategii pricingowej w Polsce.
+
+---
+
+### Czy warto robić bundle po premierze gry?
+
+🟢 **Confidence:** 0.85
+
+Tak, ale tylko jeśli druga strona aktywnie promuje bundle. Bez wsparcia ze strony partnera bundle działa jedynie jako dodatkowa zniżka dla istniejących właścicieli, nie zwiększając widoczności gry.
+
+**Kontekst:** Pytanie zadane przez Adrian Sobieraj, odpowiedź podkreślona przez Madras (indie dev), że brak promocji ze strony partnera ogranicza korzyści z bundla.
 
 ---
 

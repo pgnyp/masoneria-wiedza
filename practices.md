@@ -2,7 +2,7 @@
 
 > Workflow, metody i taktyki działania indie game marketingu, potwierdzone doświadczeniem społeczności.
 
-**99 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
+**103 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
 
 [← powrót do głównej](README.md)
 
@@ -16,13 +16,13 @@
 - [Steam Store strona](#steam-store) (9)
 - [Press / PR / dziennikarze gamingowi / branżowe newslettery](#press) (2)
 - [Email marketing własny — newslettery, mailing zewnętrzny, lead magnet](#email) (2)
-- [Pricing — cennik, SRP, region pricing, promocje, sale strategy](#pricing) (8)
-- [Community / Discord / social profile / network / wzajemne wsparcie](#community) (9)
+- [Pricing — cennik, SRP, region pricing, promocje, sale strategy](#pricing) (9)
+- [Community / Discord / social profile / network / wzajemne wsparcie](#community) (10)
 - [Lokalizacja / Chiny / Azja / języki / regionalna dystrybucja](#localization) (3)
 - [Trailer / wideo / capsule video / content marketing / YouTube / shorts](#trailer) (6)
 - [Analityka / dane / tracking / metryki / Gamalytic / games-stats / Steam Spy](#analytics) (3)
 - [Publishing / wydawcy / kontrakty / pitch deck / negocjacje z wydawcą](#publishing) (8)
-- [Steam events / festiwale / Save & Continue / Summer Sale / MIX / showcases](#events) (9)
+- [Steam events / festiwale / Save & Continue / Summer Sale / MIX / showcases](#events) (11)
 - [Sprzęt produkcyjny / dev workflow / Jira / Notion / Clickup](#production) (1)
 - [Sprzedaż na konsolach](#console) (2)
 - [Inne / ogólne wskazówki marketingowe nie pasujące do żadnej powyższej kategorii](#other) (6)
@@ -600,6 +600,16 @@ Analiza rynku wskazuje, że gry sprzedają się najlepiej w przedziałach 9,99�
 
 ---
 
+### Bundling po premierze – dobór gier
+
+🟢 **Confidence:** 0.88
+
+Bundlować z grami o podobnym lub komplementarnym temacie, ale unikać gier o niskiej jakości (Mieszane lub niżej). Dobrze dobrany bundle może dawać stałą promocję cenową i przyciągać nowych graczy.
+
+**Kontekst:** Użytkownik luki opisuje doświadczenia z Giants Uprising i sugeruje szukanie partnerów po bardzo podobnych grach lub po zupełnie innych, ale z potencjalnym wspólnym gronem odbiorców.
+
+---
+
 ### Dostosowywanie cen regionalnych po zmianach Steam
 
 🟢 **Confidence:** 0.88
@@ -712,6 +722,16 @@ Organizowanie konkursów oraz publikowanie newsów dostępnych jedynie na Discor
 Po zmianie UI panelu wydawcy, ogłoszenia (announcements) nie mają już widocznego miejsca na stronie głównej. Zaleca się publikowanie ważnych komunikatów w grupie Steam Community (partner events), gdzie nadal działa tradycyjny system ogłoszeń.
 
 **Kontekst:** HM zauważa, że w ich projekcie nadal istnieje opcja ogłoszeń w grupie Steam Community, a nowe UI panelu wydawcy nie wyświetla ich na stronie głównej.
+
+---
+
+### Community translation – formalizacja praw autorskich
+
+🟡 **Confidence:** 0.82
+
+Przy współpracy z tłumaczami‑fanami warto przygotować krótkie oświadczenie, w którym tłumacz zrzeka się praw autorskich i przekazuje je twórcy gry. Dzięki temu można legalnie wykorzystać ich wkład bez ryzyka późniejszych roszczeń.
+
+**Kontekst:** Dyskusja o wykorzystaniu społeczności do tłumaczeń (turecki, węgierski, itp.) oraz problemach prawnych przy projektach takich jak Frostpunk. Użytkownik Michał z MythicOwl Games potwierdził, że stosują krótkie oświadczenie i sprawnie rozwiązują kwestie praw autorskich.
 
 ---
 
@@ -1016,6 +1036,16 @@ Warto przesłać swoją grę do sekcji "Coming Soon" (jeśli jest gotowa) oraz d
 
 ---
 
+### Dołączenie do wspólnego bundla na Steam przy premierze gry
+
+🟡 **Confidence:** 0.82
+
+Dołącz do bundla organizowanego przy premierze innej gry (np. Moldwasher) – zwiększa widoczność i sprzedaż, a dodatkowo można umieścić swój tytuł w sekcji bundli na stronie sprzedażowej, pod warunkiem tematycznej i gatunkowej zgodności.
+
+**Kontekst:** Jakub Kwinta (indie dev) proponuje deweloperom dołączenie do bundla z ich grą Moldwasher, podkreślając korzyści z większej liczby tytułów w bundle oraz możliwość umieszczenia w sekcji bundli na Steam.
+
+---
+
 ### Koordynacja bundle’ów między niezależnymi studiami
 
 🟡 **Confidence:** 0.82
@@ -1057,6 +1087,16 @@ GOG co czwartek o 19:00 uruchamia 4‑dniowy "Weekend Deal", w którym gry są w
 *Inne sformułowania w społeczności:* Monitorowanie i wykorzystanie weekendowych promocji GOG; Śledzenie weekendowych promocji GOG (Weekend Deal)
 
 **Kontekst:** Użytkownik Jakub Kwinta (indie dev) poinformował, że od czwartku GOG ma w planach "Weekend Deal". Inni uczestnicy dyskusji rozważają wpływ takiej promocji na własne gry i sugerują, że warto mieć gotowy bundle lub obniżkę. ¦ Użytkownicy dyskutowali o nowej funkcji "Weekend Deal" w GOG, podkreślając, że takie promocje mogą przełożyć się na lepsze wyniki sprzedażowe i większe zainteresowanie grą. ¦ Użytkownicy dyskutowali o nowym weekendowym evencie GOG i wymienili, że Untold Tales już z niego skorzystało, sugerując, że podobne działania mogą pomóc innym indie deweloperom.
+
+---
+
+### Prezentacja projektu na stoisku Urzędu m.st. Warszawy (GIC Katowice)
+
+🟡 **Confidence:** 0.78
+
+Skorzystaj z możliwości wystawienia swojego indie‑game na stoisku Urzędu m.st. Warszawy w ramach GIC Katowice, aby dotrzeć do lokalnych mediów, inwestorów i graczy.
+
+**Kontekst:** Kuba Wójcik z community zachęca deweloperów z Warszawy do zgłoszenia się przez formularz Google Forms, podkreślając, że jest to okazja do bezpłatnej ekspozycji.
 
 ---
 

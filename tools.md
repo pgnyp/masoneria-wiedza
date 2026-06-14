@@ -2,7 +2,7 @@
 
 > Serwisy, narzędzia i platformy polecane przez członków społeczności. Każde z kontekstem użycia i autora polecenia.
 
-**70 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
+**71 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
 
 [← powrót do głównej](README.md)
 
@@ -17,7 +17,7 @@
 - [Community / Discord / social profile / network / wzajemne wsparcie](#community) (8)
 - [Lokalizacja / Chiny / Azja / języki / regionalna dystrybucja](#localization) (6)
 - [Trailer / wideo / capsule video / content marketing / YouTube / shorts](#trailer) (3)
-- [Analityka / dane / tracking / metryki / Gamalytic / games-stats / Steam Spy](#analytics) (12)
+- [Analityka / dane / tracking / metryki / Gamalytic / games-stats / Steam Spy](#analytics) (13)
 - [Publishing / wydawcy / kontrakty / pitch deck / negocjacje z wydawcą](#publishing) (7)
 - [Steam events / festiwale / Save & Continue / Summer Sale / MIX / showcases](#events) (3)
 - [Branding / nazwa gry / pozycjonowanie / target audience](#branding) (1)
@@ -674,6 +674,18 @@ Platforma prezentująca przybliżone dane sprzedażowe gier, choć bez podziału
 Narzędzie zbierające recenzje i szacujące sprzedaż na podstawie ich analizy.
 
 **Kontekst:** praktyk z portfolio Movie Games/GOG zasugerował gamalytic jako źródło danych o sprzedaży pochodzących z recenzji. ¦ Polecone jako źródło estymat sprzedaży gry niebędącej na koncie pytającego. ¦ praktyk z portfolio Movie Games/GOG zasugerował gamalytic jako źródło szacunków sprzedaży na podstawie recenzji.
+
+---
+
+### Luma
+
+🟡 **Confidence:** 0.78
+
+Narzędzie do monitoringu mediów i wzmianek, polecane w dyskusji jako alternatywa do Brand24.
+
+**Link:** [link zaproszenia usunięty]
+
+**Kontekst:** Użytkownik zaprosił do wypróbowania Luma w odpowiedzi na prośbę o tanie narzędzie do monitoringu mediów/mentionów.
 
 ---
 

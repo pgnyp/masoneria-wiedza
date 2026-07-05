@@ -2,7 +2,7 @@
 
 > Realne pytania z community z odpowiedziami skondensowanymi z dyskusji.
 
-**34 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
+**35 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
 
 [← powrót do głównej](README.md)
 
@@ -18,7 +18,7 @@
 - [Lokalizacja / Chiny / Azja / języki / regionalna dystrybucja](#localization) (1)
 - [Trailer / wideo / capsule video / content marketing / YouTube / shorts](#trailer) (1)
 - [Publishing / wydawcy / kontrakty / pitch deck / negocjacje z wydawcą](#publishing) (1)
-- [Steam events / festiwale / Save & Continue / Summer Sale / MIX / showcases](#events) (5)
+- [Steam events / festiwale / Save & Continue / Summer Sale / MIX / showcases](#events) (6)
 - [Sprzedaż na konsolach](#console) (1)
 - [Inne / ogólne wskazówki marketingowe nie pasujące do żadnej powyższej kategorii](#other) (4)
 
@@ -320,6 +320,16 @@ Z dokumentacji Steam wynika, że przy spełnieniu warunków oferta powinna być 
 *Inne sformułowania w społeczności:* Czy przy organizacji Daily Deal na Steam oferta pojawia się automatycznie w panelu "Zarządzanie ofertami dnia", czy trzeba najpierw otworzyć ticket?; Czy przy organizacji Daily Deal na Steam trzeba najpierw otworzyć ticket, czy oferta pojawia się automatycznie w panelu „Zarządzanie ofertami dnia”?
 
 **Kontekst:** Dyskusja w kanale #baza-wiedzy, 2025-03-11. Użytkownik Michał z MythicOwl Games pyta o proces, a odpowiedź podaje praktyczne doświadczenie i wskazuje na konieczność ticketu oraz ręcznego przyznania. ¦ Dyskusja w kanale #baza-wiedzy, 2025-03-11. Użytkownik Michał z MythicOwl Games pyta o proces, a inny użytkownik potwierdza konieczność ticketu i ręcznego przyznania. ¦ Użytkownik Michał z MythicOwl Games pyta o proces przydzielania Daily Deal; inny użytkownik potwierdza, że wymaga to ticketu, mimo że dokumentacja sugeruje automatyczne wyświetlanie. ¦ Dyskusja w kanale #baza-wiedzy 2025-03-11, użytkownik Michał z MythicOwl Games pyta o proces, a inny użytkownik potwierdza konieczność ticketu i ręcznego przyznania.
+
+---
+
+### Jak podchodzicie do timingu post-launchowych udpate'ów? Łączycie je z promocjami/eventami, stawiacie na regularność czy yolo jak ready to wrzucacie?
+
+🟢 **Confidence:** 0.92
+
+Zaleca się łączenie aktualizacji po premierze z promocjami i eventami, ponieważ daje to większy impuls niż samodzielna widoczność w Steamie.
+
+**Kontekst:** Dyskusja w kanale #baza-wiedzy, 2026-06-24. Pytanie zadane przez Jakub (VVirus, indie dev), odpowiedź od Jakuba Kwinty.
 
 ---
 

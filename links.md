@@ -2,7 +2,7 @@
 
 > Zewnętrzne materiały, artykuły, raporty i narzędzia polecane w dyskusjach.
 
-**101 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
+**103 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
 
 [← powrót do głównej](README.md)
 
@@ -20,8 +20,8 @@
 - [Lokalizacja / Chiny / Azja / języki / regionalna dystrybucja](#localization) (2)
 - [Trailer / wideo / capsule video / content marketing / YouTube / shorts](#trailer) (4)
 - [Analityka / dane / tracking / metryki / Gamalytic / games-stats / Steam Spy](#analytics) (5)
-- [Publishing / wydawcy / kontrakty / pitch deck / negocjacje z wydawcą](#publishing) (6)
-- [Steam events / festiwale / Save & Continue / Summer Sale / MIX / showcases](#events) (7)
+- [Publishing / wydawcy / kontrakty / pitch deck / negocjacje z wydawcą](#publishing) (7)
+- [Steam events / festiwale / Save & Continue / Summer Sale / MIX / showcases](#events) (8)
 - [Branding / nazwa gry / pozycjonowanie / target audience](#branding) (3)
 - [Sprzedaż na konsolach](#console) (2)
 - [Inne / ogólne wskazówki marketingowe nie pasujące do żadnej powyższej kategorii](#other) (19)
@@ -820,6 +820,16 @@ Przykładowa strona wydawcy na Steamie, pokazująca nowe możliwości edycji i u
 
 ---
 
+### I literally built an investment firm that wouldn’t have funded my own pitch – why the money isn’t reaching the games that need it
+
+🟢 **Confidence:** 0.88
+
+Artykuł opisujący problemy z finansowaniem indie gier oraz pomysły na poprawę discoverability i wykorzystanie AI do automatyzacji powtarzalnych zadań.
+
+**Link:** https://www.gamesindustry.biz/i-literally-built-an-investment-firm-that-wouldnt-have-funded-my-own-pitch-why-the-money-isnt-reaching-the-games-that-need-it
+
+---
+
 ### Partnerstwo Kinguin
 
 🟡 **Confidence:** 0.78 · **3× wzmianek**
@@ -894,6 +904,16 @@ Ogłoszenie o aktualnej wyprzedaży gier Anshar Publishing na Steamie.
 Nabór na PAX w Bostonie – formularz zgłoszeniowy dla zespołów indie.
 
 **Link:** https://docs.google.com/forms/d/e/1FAIpQLSeTKHBpEjse7OmePocqJ22oFUsjXs6lOPtS-4-mxA8tqW113Q/viewform
+
+---
+
+### Formularz zgłoszeniowy na polskie stoisko IGP na PAX West
+
+🟢 **Confidence:** 0.92
+
+Zaproszenie do udziału w polskim stoisku Indie Game Poland (IGP) na targach PAX West, podkreślające korzyści networkingowe.
+
+**Link:** https://docs.google.com/forms/d/1PolT87WpTDYvnCieJs3elaate622qbUe1fIScdFQ2-w/viewform?edit_requested=true
 
 ---
 

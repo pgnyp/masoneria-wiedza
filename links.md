@@ -2,7 +2,7 @@
 
 > Zewnętrzne materiały, artykuły, raporty i narzędzia polecane w dyskusjach.
 
-**103 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
+**104 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
 
 [← powrót do głównej](README.md)
 
@@ -24,7 +24,7 @@
 - [Steam events / festiwale / Save & Continue / Summer Sale / MIX / showcases](#events) (7)
 - [Branding / nazwa gry / pozycjonowanie / target audience](#branding) (3)
 - [Sprzedaż na konsolach](#console) (2)
-- [Inne / ogólne wskazówki marketingowe nie pasujące do żadnej powyższej kategorii](#other) (21)
+- [Inne / ogólne wskazówki marketingowe nie pasujące do żadnej powyższej kategorii](#other) (22)
 
 ---
 
@@ -979,6 +979,18 @@ Platforma umożliwiająca wypożyczenie konsol i akcesoriów, przydatna przy pot
 Propozycja wypożyczenia kontrolerów (padów) na platformie plenti.app, przydatna dla deweloperów potrzebujących sprzętu na krótki termin.
 
 **Link:** https://plenti.app/pl/collection/105/konsole-i-akcesoria
+
+---
+
+### Formularz zapisu na polskie stoisko IGP na PAX West
+
+🟢 **Confidence:** 0.95
+
+Formularz do zapisów na stoisko IGP na PAX West
+
+**Link:** https://docs.google.com/forms/d/1PolT87WpTDYvnCieJs3elaate622qbUe1fIScdFQ2-w/viewform?edit_requested=true
+
+**Kontekst:** Podany przez Kubę w wiadomości 18:34
 
 ---
 

@@ -2,7 +2,7 @@
 
 > Workflow, metody i taktyki działania indie game marketingu, potwierdzone doświadczeniem społeczności.
 
-**103 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
+**105 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
 
 [← powrót do głównej](README.md)
 
@@ -25,7 +25,7 @@
 - [Steam events / festiwale / Save & Continue / Summer Sale / MIX / showcases](#events) (11)
 - [Sprzęt produkcyjny / dev workflow / Jira / Notion / Clickup](#production) (1)
 - [Sprzedaż na konsolach](#console) (2)
-- [Inne / ogólne wskazówki marketingowe nie pasujące do żadnej powyższej kategorii](#other) (6)
+- [Inne / ogólne wskazówki marketingowe nie pasujące do żadnej powyższej kategorii](#other) (8)
 
 ---
 
@@ -1141,6 +1141,16 @@ Aby przedłużyć wypożyczenie devkitu, należy zgłosić ticket z prośbą o p
 <a id="other"></a>
 ## Inne / ogólne wskazówki marketingowe nie pasujące do żadnej powyższej kategorii
 
+### Udział w polskim stoisku IGP na PAX West
+
+🟢 **Confidence:** 0.90
+
+Udział w polskim stoisku IGP na PAX West to świetna okazja do networkingu, poznania innych deweloperów i wymiany doświadczeń.
+
+**Kontekst:** Zalecenie od Kuby z kanału masoneria#ogólny w dniu 2026-06-22
+
+---
+
 ### Optymalny czas publikacji postów na X
 
 🟢 **Confidence:** 0.88 · **4× wzmianek**
@@ -1204,5 +1214,15 @@ Umieszczanie w grach własnych krótkich popupów lub wideo promujących inne ty
 *Inne sformułowania w społeczności:* Cross‑promocje wewnątrz własnych gier (cross‑promo w grach wewnętrznych); Cross‑promowanie w grach wewnętrznych
 
 **Kontekst:** Kuba Wójcik sugeruje, że przy milionach gier można w każdej dodać popup lub wideo, co może działać jako skuteczny mechanizm cross‑promocji. ¦ Kuba Wójcik sugeruje, że przy milionach gier można w każdej dodać popup/wideo, co może działać jako skuteczny kanał promocji. ¦ Kuba Wójcik zasugerował, że przy milionach gier można w każdej umieścić popup lub wideo, co może zwiększyć efektywność cross‑promocji.
+
+---
+
+### Reklamy na platformie Roblox
+
+🟡 **Confidence:** 0.80
+
+Rozpocznij kampanię reklamową bezpośrednio na platformie Roblox, nawet przy niewielkim budżecie, aby uzyskać najlepszą konwersję.
+
+**Kontekst:** Michał Stankiewicz (Last Qubit): "Jak płatny to zacznij od reklam na platformie 😛" oraz "Bo nic lepszej konwersji nie ma, za jakieś drobne pieniądze"
 
 ---

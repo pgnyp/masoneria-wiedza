@@ -2,7 +2,7 @@
 
 > Workflow, metody i taktyki działania indie game marketingu, potwierdzone doświadczeniem społeczności.
 
-**105 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
+**106 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
 
 [← powrót do głównej](README.md)
 
@@ -22,7 +22,7 @@
 - [Trailer / wideo / capsule video / content marketing / YouTube / shorts](#trailer) (6)
 - [Analityka / dane / tracking / metryki / Gamalytic / games-stats / Steam Spy](#analytics) (3)
 - [Publishing / wydawcy / kontrakty / pitch deck / negocjacje z wydawcą](#publishing) (8)
-- [Steam events / festiwale / Save & Continue / Summer Sale / MIX / showcases](#events) (11)
+- [Steam events / festiwale / Save & Continue / Summer Sale / MIX / showcases](#events) (12)
 - [Sprzęt produkcyjny / dev workflow / Jira / Notion / Clickup](#production) (1)
 - [Sprzedaż na konsolach](#console) (2)
 - [Inne / ogólne wskazówki marketingowe nie pasujące do żadnej powyższej kategorii](#other) (8)
@@ -981,6 +981,16 @@ Dla mniejszych gier warto rozważyć mniej kosztowne lub bardziej elastyczne opc
 
 <a id="events"></a>
 ## Steam events / festiwale / Save & Continue / Summer Sale / MIX / showcases
+
+### Procedura zgłoszenia się do Steam Event na Gamescom
+
+🟢 **Confidence:** 0.90
+
+Aby wziąć udział w Steam Event podczas Gamescom, należy najpierw uzyskać zaproszenie, a następnie skonfigurować stronę studia i gry w CMS-ie Hygraph. Następnie warto skontaktować się z zespołem Webedii (gamescom-now@webedia-group.com), załączając potwierdzenie strefy stoiska. Proces jest zwykle szybko obsługiwany.
+
+**Kontekst:** W dyskusji kilku deweloperów opisało kroki: kontakt z Webedią, potrzebę konta w Hygraph, oraz brak informacji od HOME OF INDIES, co sugeruje konieczność samodzielnej inicjatywy.
+
+---
 
 ### Premiera gry w początek własnej wyprzedaży
 

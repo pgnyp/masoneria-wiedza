@@ -2,7 +2,7 @@
 
 > Realne pytania z community z odpowiedziami skondensowanymi z dyskusji.
 
-**35 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
+**36 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
 
 [← powrót do głównej](README.md)
 
@@ -20,7 +20,7 @@
 - [Publishing / wydawcy / kontrakty / pitch deck / negocjacje z wydawcą](#publishing) (1)
 - [Steam events / festiwale / Save & Continue / Summer Sale / MIX / showcases](#events) (6)
 - [Sprzedaż na konsolach](#console) (1)
-- [Inne / ogólne wskazówki marketingowe nie pasujące do żadnej powyższej kategorii](#other) (4)
+- [Inne / ogólne wskazówki marketingowe nie pasujące do żadnej powyższej kategorii](#other) (5)
 
 ---
 
@@ -422,6 +422,16 @@ Nie ma sztywnego limitu – można mieć wiele bundli, ale warto skupić się na
 Użytkownicy wskazują, że poza Humble Bundle i Fanatical nie ma wielu sensownych opcji; jedynym innym wymienionym jest Indiegala, ale nie jest jasne, czy jest to wartościowy bundle.
 
 **Kontekst:** Kuba Wójcik pyta o alternatywne bundlery. Michal z Michał z MythicOwl Games odpowiada, że ich doświadczenie z Indiegala nie przekonało ich do jego wartości, sugerując brak innych sensownych opcji.
+
+---
+
+### Czy posiadanie devkitu Switcha 2 ogranicza liczbę wydawanych gier przez tzw. 'sloty wydawnicze'?
+
+🟢 **Confidence:** 0.85
+
+Nie ma potwierdzenia istnienia tzw. 'slotów wydawniczych' powiązanych z devkitem Switcha 2. Ograniczenia w liczbie wydawanych gier raczej zależą od akceptacji produktów przez Nintendo, a nie od fizycznego devkita. Jeśli deweloper próbuje wydać dużą liczbę niskiej jakości gier, może zostać zablokowany przez platformę.
+
+**Kontekst:** Dyskusja o rzekomych ograniczeniach liczby gier na podstawie posiadania devkitu Switcha 2.
 
 ---
 

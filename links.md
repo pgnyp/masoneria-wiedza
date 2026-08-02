@@ -2,7 +2,7 @@
 
 > Zewnętrzne materiały, artykuły, raporty i narzędzia polecane w dyskusjach.
 
-**104 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
+**99 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
 
 [← powrót do głównej](README.md)
 
@@ -21,7 +21,7 @@
 - [Trailer / wideo / capsule video / content marketing / YouTube / shorts](#trailer) (4)
 - [Analityka / dane / tracking / metryki / Gamalytic / games-stats / Steam Spy](#analytics) (5)
 - [Publishing / wydawcy / kontrakty / pitch deck / negocjacje z wydawcą](#publishing) (6)
-- [Steam events / festiwale / Save & Continue / Summer Sale / MIX / showcases](#events) (7)
+- [Steam events / festiwale / Save & Continue / Summer Sale / MIX / showcases](#events) (2)
 - [Branding / nazwa gry / pozycjonowanie / target audience](#branding) (3)
 - [Sprzedaż na konsolach](#console) (2)
 - [Inne / ogólne wskazówki marketingowe nie pasujące do żadnej powyższej kategorii](#other) (22)
@@ -403,15 +403,14 @@ Rozbudowany arkusz kalkulacyjny zawierający dodatkowe zmienne, takie jak promoc
 
 ### Steam profile Bit Golem team
 
-🟢 **Confidence:** 0.99 · **29× wzmianek**
+🟢 **Confidence:** 0.99 · **25× wzmianek**
 
 Strona dewelopera Bit Golem team w Steam
 
-*Inne sformułowania w społeczności:* Bit Golem team; Bluesky - Bit Golem team; Bluesky Bit Golem team; Discord - Bit Golem team; Discord Bit Golem team; Facebook - Bit Golem team; Facebook Bit Golem team; Instagram - Bit Golem team; Instagram Bit Golem team; Steam - Bit Golem team; X (Twitter) - Bit Golem team; X (Twitter) Bit Golem team; YouTube - Bit Golem team; YouTube Bit Golem team
+*Inne sformułowania w społeczności:* Bit Golem team; Bluesky - Bit Golem team; Bluesky Bit Golem team; Facebook - Bit Golem team; Facebook Bit Golem team; Instagram - Bit Golem team; Instagram Bit Golem team; Steam - Bit Golem team; X (Twitter) - Bit Golem team; X (Twitter) Bit Golem team; YouTube - Bit Golem team; YouTube Bit Golem team
 
 **Linki:**
 - [Steam profile Bit Golem team](https://store.steampowered.com/developer/bitgolem)
-- [Discord Bit Golem team](https://discord.com/invite/W5v6dCGafc)
 - [Instagram Bit Golem team](https://www.instagram.com/bit_golem/)
 - [X (Twitter) Bit Golem team](https://x.com/bit_golem)
 - [Facebook Bit Golem team](https://www.facebook.com/bitgolem)
@@ -835,36 +834,6 @@ Post na LinkedIn informujący o partnerstwie Kinguin, udostępniony w kanale og�
 <a id="events"></a>
 ## Steam events / festiwale / Save & Continue / Summer Sale / MIX / showcases
 
-### Zapisy na PAX East 2025
-
-🟢 **Confidence:** 0.97 · **4× wzmianek**
-
-Ogłoszenie o rozpoczęciu zapisów na konferencję PAX East 2025, skierowane do deweloperów zainteresowanych udziałem.
-
-**Link:** https://igp.org.pl/paxeast2025/
-
----
-
-### Laughs & Smiles Festival – zgłoszenia gier
-
-🟢 **Confidence:** 0.97
-
-Formularz zgłoszeniowy do drugiej edycji festiwalu komediowych gier na Steamie, odbywającego się 16‑01‑2026 – 25‑01‑2026, z deadline do 5‑12‑2025.
-
-**Link:** https://docs.google.com/forms/d/1pntn3NX61EhHhgdXlwm74eE186Y-601ZI0owPrsG9sk
-
----
-
-### Możliwość darmowej prezentacji studia na GIC Katowice
-
-🟢 **Confidence:** 0.97
-
-Formularz zgłoszeniowy umożliwiający studiom z Warszawy bezpłatne zaprezentowanie się na Game Industry Conference w Katowicach.
-
-**Link:** https://forms.gle/qexmY2jpaatRsR3z5
-
----
-
 ### Gamejam w Tramwaju – IGP
 
 🟢 **Confidence:** 0.96 · **2× wzmianek**
@@ -884,26 +853,6 @@ Ogłoszenie o aktualnej wyprzedaży gier Anshar Publishing na Steamie.
 *Inne sformułowania w społeczności:* Steam sale Anshar Publishing 2024
 
 **Link:** https://store.steampowered.com/sale/AnsharPublishingPublisherSale2024
-
----
-
-### Formularz zgłoszeniowy na PAX Boston
-
-🟢 **Confidence:** 0.95
-
-Nabór na PAX w Bostonie – formularz zgłoszeniowy dla zespołów indie.
-
-**Link:** https://docs.google.com/forms/d/e/1FAIpQLSeTKHBpEjse7OmePocqJ22oFUsjXs6lOPtS-4-mxA8tqW113Q/viewform
-
----
-
-### Steam Coffee Hours at Gamescom 2024
-
-🟢 **Confidence:** 0.90
-
-Wydarzenie networkingowe organizowane przez Steam na Gamescomie.
-
-**Link:** https://www.eventbrite.com/e/steams-coffee-hours-gamescom-2024-tickets-884114659747
 
 ---
 
@@ -982,15 +931,13 @@ Propozycja wypożyczenia kontrolerów (padów) na platformie plenti.app, przydat
 
 ---
 
-### Formularz zapisu na polskie stoisko IGP na PAX West
+### Przewodnik po Hygraph dla Gamescom NOW
 
 🟢 **Confidence:** 0.95
 
-Formularz do zapisów na stoisko IGP na PAX West
+Oficjalny przewodnik krok po kroku, jak skonfigurować stronę w Hygraphie, aby wziąć udział w Steam Event podczas Gamescom.
 
-**Link:** https://docs.google.com/forms/d/1PolT87WpTDYvnCieJs3elaate622qbUe1fIScdFQ2-w/viewform?edit_requested=true
-
-**Kontekst:** Podany przez Kubę w wiadomości 18:34
+**Link:** https://www.gamescom.global/en/hygraph-guide-steam-event
 
 ---
 

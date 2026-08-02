@@ -2,7 +2,7 @@
 
 > Serwisy, narzędzia i platformy polecane przez członków społeczności. Każde z kontekstem użycia i autora polecenia.
 
-**71 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
+**70 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
 
 [← powrót do głównej](README.md)
 
@@ -17,13 +17,13 @@
 - [Community / Discord / social profile / network / wzajemne wsparcie](#community) (8)
 - [Lokalizacja / Chiny / Azja / języki / regionalna dystrybucja](#localization) (6)
 - [Trailer / wideo / capsule video / content marketing / YouTube / shorts](#trailer) (3)
-- [Analityka / dane / tracking / metryki / Gamalytic / games-stats / Steam Spy](#analytics) (13)
+- [Analityka / dane / tracking / metryki / Gamalytic / games-stats / Steam Spy](#analytics) (12)
 - [Publishing / wydawcy / kontrakty / pitch deck / negocjacje z wydawcą](#publishing) (7)
-- [Steam events / festiwale / Save & Continue / Summer Sale / MIX / showcases](#events) (3)
+- [Steam events / festiwale / Save & Continue / Summer Sale / MIX / showcases](#events) (1)
 - [Branding / nazwa gry / pozycjonowanie / target audience](#branding) (1)
 - [Sprzęt produkcyjny / dev workflow / Jira / Notion / Clickup](#production) (5)
 - [Sprzedaż na konsolach](#console) (1)
-- [Inne / ogólne wskazówki marketingowe nie pasujące do żadnej powyższej kategorii](#other) (4)
+- [Inne / ogólne wskazówki marketingowe nie pasujące do żadnej powyższej kategorii](#other) (6)
 
 ---
 
@@ -677,18 +677,6 @@ Narzędzie zbierające recenzje i szacujące sprzedaż na podstawie ich analizy.
 
 ---
 
-### Luma
-
-🟡 **Confidence:** 0.78
-
-Narzędzie do monitoringu mediów i wzmianek, polecane w dyskusji jako alternatywa do Brand24.
-
-**Link:** [link zaproszenia usunięty]
-
-**Kontekst:** Użytkownik zaprosił do wypróbowania Luma w odpowiedzi na prośbę o tanie narzędzie do monitoringu mediów/mentionów.
-
----
-
 <a id="publishing"></a>
 ## Publishing / wydawcy / kontrakty / pitch deck / negocjacje z wydawcą
 
@@ -788,32 +776,6 @@ Gamejam organizowany przez IGP w Poznaniu, otwarty dla zespołów indie.
 **Link:** https://gamejamwtramwaju.pl/
 
 **Kontekst:** Kuba Wójcik udostępnił link do gamejamu, zachęcając zespoły do udziału. ¦ Kuba Wójcik udostępnił link do nadchodzącego GameJam w Poznaniu, zachęcając zespoły do udziału.
-
----
-
-### Steam Coffee Hours (Gamescom 2024) – Eventbrite
-
-🟢 **Confidence:** 0.88 · **3× wzmianek**
-
-Rejestracja na sesję networkingową Steam na Gamescomie.
-
-*Inne sformułowania w społeczności:* Steam Coffee Hours at Gamescom 2024 (Eventbrite)
-
-**Link:** https://www.eventbrite.com/e/steams-coffee-hours-gamescom-2024-tickets-884114659747
-
-**Kontekst:** Wspomniany przez Jakuba Kwintę jako potencjalna okazja do kontaktów w branży. ¦ Jakub Kwinta (indie dev) udostępnił link w dyskusji o przygotowaniu nowej strony gry na Steamie. ¦ Jakub Kwinta (indie dev) podzielił się linkiem do wydarzenia, które może być przydatne dla indie devów szukających kontaktu ze Steamem.
-
----
-
-### Formularz zgłoszeniowy na PAX Boston
-
-🟡 **Confidence:** 0.78 · **2× wzmianek**
-
-Google Form służący do aplikacji uczestnictwa w targach PAX w Bostonie, przydatny dla deweloperów planujących wystawienie gry na tym wydarzeniu.
-
-**Link:** https://docs.google.com/forms/d/e/1FAIpQLSeTKHBpEjse7OmePocqJ22oFUsjXs6lOPtS-4-mxA8tqW113Q/viewform
-
-**Kontekst:** Kuba Wójcik udostępnił link do formularza rekrutacyjnego na PAX Boston i zachęcił do zadawania pytań odnośnie udziału. ¦ Kuba Wójcik udostępnił link w odpowiedzi na pytanie o nabór na PAX, oferując możliwość zadawania pytań dotyczących udziału.
 
 ---
 
@@ -939,6 +901,18 @@ Serwis oferujący wysokiej jakości przypinki (pinów) na zamówienie.
 
 ---
 
+### Hygraph
+
+🟢 **Confidence:** 0.95
+
+CMS używany do tworzenia strony studia i gry w ramach Gamescom NOW, wymagany m.in. dla uczestnictwa w wydarzeniu Steam podczas Gamescom.
+
+**Link:** https://www.gamescom.global/en/hygraph-guide-start
+
+**Kontekst:** Deweloper z community wskazał, że do udziału w Steam Event podczas Gamescom konieczne jest ustawienie profilu studia i produktu w Hygraphie, zgodnie z oficjalnym przewodnikiem dostępnym na stronie gamescom.global.
+
+---
+
 ### Bees Knees
 
 🟢 **Confidence:** 0.92 · **4× wzmianek**
@@ -960,5 +934,17 @@ Google Spreadsheet udostępniony przez Kubę, zawierający modele estymacji przy
 **Link:** https://docs.google.com/spreadsheets/d/1lWOttzv6N7LQOV5UpQQnU6_NDLdJGjamQoF0SasOJSE/edit?usp=sharing
 
 **Kontekst:** Kuba Wójcik udostępnia własny arkusz kalkulacyjny i omawia, jak wyliczyć potrzebną liczbę wishliste'ów przy określonej konwersji, aby projekt był rentowny.
+
+---
+
+### WeAreGraph
+
+🟠 **Confidence:** 0.60
+
+Platform offering services (details not specified)
+
+**Link:** https://wearegraph.com/
+
+**Kontekst:** User shared link and contact emails.
 
 ---

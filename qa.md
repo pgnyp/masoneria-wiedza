@@ -2,7 +2,7 @@
 
 > Realne pytania z community z odpowiedziami skondensowanymi z dyskusji.
 
-**36 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
+**39 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
 
 [← powrót do głównej](README.md)
 
@@ -11,8 +11,8 @@
 - [Live streamerzy i influencerzy](#streamers) (2)
 - [Wishlisty — kumulacja, konwersja, pre-launch, mailing do wishlistujących, minimalna liczba](#wishlists) (7)
 - [Demo i Next Fest](#demo) (3)
-- [Reklamy płatne](#ads) (1)
-- [Steam Store strona](#steam-store) (2)
+- [Reklamy płatne](#ads) (2)
+- [Steam Store strona](#steam-store) (4)
 - [Pricing — cennik, SRP, region pricing, promocje, sale strategy](#pricing) (4)
 - [Community / Discord / social profile / network / wzajemne wsparcie](#community) (2)
 - [Lokalizacja / Chiny / Azja / języki / regionalna dystrybucja](#localization) (1)
@@ -162,6 +162,16 @@ Sekcja Popular Upcoming dawała kilkanaście‑kilkadziesiąt godzin dodatkowego
 <a id="ads"></a>
 ## Reklamy płatne
 
+### Jak oceniacie współpracę z PlayerFound?
+
+🟢 **Confidence:** 0.95
+
+Deweloperzy mieli mieszane doświadczenia: byli zadowoleni z organic influencer outreachu, ale bardzo niezadowoleni z kampanii video w Google Ads, którą oceniają jako nieprofesjonalnie przeprowadzoną. Jeden z deweloperów zdecydował się nawet poprosić o usunięcie swojego projektu (Rift Breaker) z materiałów marketingowych PlayerFound.
+
+**Kontekst:** Pytanie o opinie dotyczące agencji PlayerFound, która wymienia m.in. Rift Breaker i EXOR jako klientów. Współpraca była oceniana zarówno pozytywnie (w części organic), jak i negatywnie (w płatnej kampanii Google Ads).
+
+---
+
 ### Czy TikTok ma sensowne targetowanie?
 
 🟢 **Confidence:** 0.90 · **4× wzmianek**
@@ -176,6 +186,16 @@ TikTok umożliwia targetowanie jedynie po kraju, w którym znajduje się użytko
 
 <a id="steam-store"></a>
 ## Steam Store strona
+
+### Czy dodanie gry do franczyzy na Steamie generuje automatycznie powiadomienia?
+
+🟢 **Confidence:** 0.95
+
+Nie. Aby franczyza wygenerowała powiadomienia mailowe dla swoich obserwujących, gra musi zostać oficjalnie podłączona przez osobę z uprawnieniami oficera w grupie wydawcy lub developera. Samodzielne dodanie gry do franczyzy bez takiego podpięcia nie aktywuje powiadomień.
+
+**Kontekst:** Scream_Wattson wyjaśnił, że dodanie gry do franczyzy nie wystarczy – konieczne jest oficjalne podpięcie przez uprawnioną osobę, by cała baza followerów franczyzy otrzymała powiadomienie. Przykładem jest współpraca z PlayWay, gdzie to się udało, ale TinyBuild wycofało się przed podpięciem Restory do Iron Nest.
+
+---
 
 ### Czy zmiana SKU i przygotowanie nowej strony Steam przejdzie bez problemów?
 
@@ -198,6 +218,16 @@ Po zmianie UI ogłoszenia nie są już wyświetlane na głównej stronie wydawcy
 *Inne sformułowania w społeczności:* Gdzie wyświetlane są ogłoszenia (announcements) po zmianie UI na stronie wydawcy Steam?
 
 **Kontekst:** Użytkownik Kuba Wójcik pyta o miejsce wyświetlania announcementów po aktualizacji; HM wskazuje, że działają jako wydarzenia grupowe. ¦ Użytkownik pyta o miejsce wyświetlania ogłoszeń po aktualizacji UI; inny członek community podaje link do sekcji partner events, wyjaśniając, że tam teraz trafiają.
+
+---
+
+### Jak działa Steam Personal Calendar (kalendarz personalizowany)?
+
+🟡 **Confidence:** 0.80
+
+Kalendarz personalizowany opiera się na czasie gry w gry z podobnymi tagami ('based on playtime of games with similar tags'). Dlatego gra z dużą wishlistą (np. Iron Nest) może pojawić się daleko w kalendarzu u gracza, który nie gra w ten gatunek, a mniejsza gra pasująca do tagów będzie wyżej.
+
+**Kontekst:** Kuba Wójcik i GameDevGrzesiek dyskutują dlaczego Iron Nest z mnóstwem wishlist pojawia się daleko w kalendarzu, a GameDevGrzesiek ma Iron Nest na 2. miejscu tylko dlatego, że gra w cozy (ReStory). Careless (Steam) opisał mechanikę ogólnie, szczegóły nie są publiczne.
 
 ---
 

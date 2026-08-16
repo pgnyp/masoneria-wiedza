@@ -2,7 +2,7 @@
 
 > Zewnętrzne materiały, artykuły, raporty i narzędzia polecane w dyskusjach.
 
-**99 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
+**100 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
 
 [← powrót do głównej](README.md)
 
@@ -21,7 +21,7 @@
 - [Trailer / wideo / capsule video / content marketing / YouTube / shorts](#trailer) (4)
 - [Analityka / dane / tracking / metryki / Gamalytic / games-stats / Steam Spy](#analytics) (5)
 - [Publishing / wydawcy / kontrakty / pitch deck / negocjacje z wydawcą](#publishing) (6)
-- [Steam events / festiwale / Save & Continue / Summer Sale / MIX / showcases](#events) (2)
+- [Steam events / festiwale / Save & Continue / Summer Sale / MIX / showcases](#events) (3)
 - [Branding / nazwa gry / pozycjonowanie / target audience](#branding) (3)
 - [Sprzedaż na konsolach](#console) (2)
 - [Inne / ogólne wskazówki marketingowe nie pasujące do żadnej powyższej kategorii](#other) (22)
@@ -853,6 +853,18 @@ Ogłoszenie o aktualnej wyprzedaży gier Anshar Publishing na Steamie.
 *Inne sformułowania w społeczności:* Steam sale Anshar Publishing 2024
 
 **Link:** https://store.steampowered.com/sale/AnsharPublishingPublisherSale2024
+
+---
+
+### The State of Virtual 3rd Party Festivals 2026
+
+🟢 **Confidence:** 0.90
+
+Artykuł na howtomarketagame.com analizujący festiwale wirtualne/trzecie strony w 2026 r. – zawiera dane o "festival friendly games", w których Truckful (Michał z MythicOwl Games) trafił do top 1%.
+
+**Link:** https://howtomarketagame.com/2026/08/11/the-state-of-virtual-3rd-party-festivals-2026/
+
+**Kontekst:** Cytowany jako źródło danych o pozycjonowaniu gier na festiwalach wirtualnych – przydatny dla deweloperów planujących strategię festivalową.
 
 ---
 

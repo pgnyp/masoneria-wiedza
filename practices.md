@@ -2,28 +2,29 @@
 
 > Workflow, metody i taktyki działania indie game marketingu, potwierdzone doświadczeniem społeczności.
 
-**106 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
+**114 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
 
 [← powrót do głównej](README.md)
 
 ## Spis treści
 
 - [Steam Broadcast i zapętlone streamy 24/7](#broadcast) (2)
-- [Live streamerzy i influencerzy](#streamers) (13)
+- [Live streamerzy i influencerzy](#streamers) (14)
 - [Wishlisty — kumulacja, konwersja, pre-launch, mailing do wishlistujących, minimalna liczba](#wishlists) (9)
 - [Demo i Next Fest](#demo) (4)
 - [Reklamy płatne](#ads) (3)
-- [Steam Store strona](#steam-store) (9)
+- [Steam Store strona](#steam-store) (10)
 - [Press / PR / dziennikarze gamingowi / branżowe newslettery](#press) (2)
 - [Email marketing własny — newslettery, mailing zewnętrzny, lead magnet](#email) (2)
 - [Pricing — cennik, SRP, region pricing, promocje, sale strategy](#pricing) (9)
-- [Community / Discord / social profile / network / wzajemne wsparcie](#community) (10)
+- [Community / Discord / social profile / network / wzajemne wsparcie](#community) (12)
 - [Lokalizacja / Chiny / Azja / języki / regionalna dystrybucja](#localization) (3)
 - [Trailer / wideo / capsule video / content marketing / YouTube / shorts](#trailer) (6)
-- [Analityka / dane / tracking / metryki / Gamalytic / games-stats / Steam Spy](#analytics) (3)
+- [Analityka / dane / tracking / metryki / Gamalytic / games-stats / Steam Spy](#analytics) (4)
 - [Publishing / wydawcy / kontrakty / pitch deck / negocjacje z wydawcą](#publishing) (8)
-- [Steam events / festiwale / Save & Continue / Summer Sale / MIX / showcases](#events) (12)
-- [Sprzęt produkcyjny / dev workflow / Jira / Notion / Clickup](#production) (1)
+- [Steam events / festiwale / Save & Continue / Summer Sale / MIX / showcases](#events) (13)
+- [Branding / nazwa gry / pozycjonowanie / target audience](#branding) (1)
+- [Sprzęt produkcyjny / dev workflow / Jira / Notion / Clickup](#production) (2)
 - [Sprzedaż na konsolach](#console) (2)
 - [Inne / ogólne wskazówki marketingowe nie pasujące do żadnej powyższej kategorii](#other) (8)
 
@@ -202,6 +203,16 @@ Tworzenie własnej listy (~100 influencerów) i indywidualne pisanie wiadomości
 Stworzenie własnego skryptu (np. scraper) pozwala zebrać duże listy maili (np. 6 k) i samodzielnie zarządzać kampanią, ograniczając koszty zewnętrznych platform.
 
 **Kontekst:** Jedna z osób zaproponowała budowę własnego narzędzia po doświadczeniach z niemieckim scraperem.
+
+---
+
+### Roblox marketing: 2 główne kanały pozyskiwania graczy
+
+🟡 **Confidence:** 0.75
+
+Dla gier na Robloxie działają głównie: 1) Virality - dzieci wciągają inne dzieci (efekt pętki społecznej), 2) Influencerzy/Content Creatorzy. Tradycyjny marketing (Discord, social media) ma ograniczone zastosowanie ze względu na demografię.
+
+**Kontekst:** Madras (indie dev) (doświadczony deweloper, ojciec graczek na Robloxie) wskazuje te dwa kanały jako jedyne realne opcje. LilDave pyta o Discord i marketing 3 tygodnie przed releasem.
 
 ---
 
@@ -436,6 +447,16 @@ Zaleca się, aby gra posiadała jak najwięcej funkcji (achievementy, HDR, obsł
 *Inne sformułowania w społeczności:* Dodawanie jak najwięcej funkcji Steam przy premierze; Zadbaj o maksymalną liczbę funkcji na Steamie (feature list)
 
 **Kontekst:** Kuba Wójcik i inni podkreślali, że posiadanie wielu funkcji na Steamie jest ważne i wpływa na algorytmy platformy. ¦ Kuba Wójcik i inni podkreślają, że więcej funkcji na Steamie to lepsze wyniki sprzedażowe. ¦ Kuba Wójcik podkreślał tę zasadę w rozmowie o przygotowaniu strony gry. ¦ Kuba Wójcik i inni podkreślali, że im więcej funkcji, tym lepsze wyniki przy premierze.
+
+---
+
+### Steam Calendar: Main Page vs Dropdown - ogromna różnica w zasięgach
+
+🟢 **Confidence:** 0.90
+
+Kalendarz na głównej stronie Steam (Main Page) generuje drastycznie większe zasięgi niż kalendarz rozwijany z menu. Developerzy potwierdzają: 'ten z menu nie daje prawie nic w porównaniu do main page'a'.
+
+**Kontekst:** Scream_Wattson (Iron Nest) dzieli doświadczenie z premierą: kalendarz na main page to 'szaleństwo jakie to kręci zasięgi', nic innego się nie 'umywa' (nie generuje ruchu). Warto dbać o bycie na main page.
 
 ---
 
@@ -715,6 +736,16 @@ Organizowanie konkursów oraz publikowanie newsów dostępnych jedynie na Discor
 
 ---
 
+### Easter egg cross-promocji z naklejkami i nazwami restauracji
+
+🟢 **Confidence:** 0.90
+
+Wprowadzenie w grze systemu, który pozwala na dodawanie żartobliwych nazw restauracji nawiązujących do innych gier, a po ich pokonaniu odblokowywanie naklejek z logiem lub postacią z tych gier oraz cross-promocję na social mediach. To niskokosztowy sposób na budowanie współpracy i dodatkowego contentu, możliwy do wdrożenia nawet po premierze.
+
+**Kontekst:** GameDevGrzesiek zaproponował mechanizm w swojej grze, gdzie gracze mogą dodawać nazwy restauracji inspirowane innymi tytułami (np. 'Mold-Washed Nigiri'), a po ich pokonaniu odblokowywać naklejki z logiem partnera. Propozycja została przyjęta przez twórców Moldwasher, którzy przekazali assety do stworzenia stickerów.
+
+---
+
 ### Wykorzystanie Steam Community Groups do ogłoszeń zamiast panelu wydawcy
 
 🟢 **Confidence:** 0.85
@@ -732,6 +763,16 @@ Po zmianie UI panelu wydawcy, ogłoszenia (announcements) nie mają już widoczn
 Przy współpracy z tłumaczami‑fanami warto przygotować krótkie oświadczenie, w którym tłumacz zrzeka się praw autorskich i przekazuje je twórcy gry. Dzięki temu można legalnie wykorzystać ich wkład bez ryzyka późniejszych roszczeń.
 
 **Kontekst:** Dyskusja o wykorzystaniu społeczności do tłumaczeń (turecki, węgierski, itp.) oraz problemach prawnych przy projektach takich jak Frostpunk. Użytkownik Michał z MythicOwl Games potwierdził, że stosują krótkie oświadczenie i sprawnie rozwiązują kwestie praw autorskich.
+
+---
+
+### Konkurencja daty premiery: duży publisher może celowo postawić grę w ten sam dzień
+
+🟡 **Confidence:** 0.75
+
+TinyBuild wypuściło symulator w ten sam dzień co Iron Nest (mały indie), dodatkowo ustawiając premierę godzinę po konkurencie, mimo że data Iron Nest była znana od 2 tygodni. Mały deweloper nie ma narzędzi prawnych/negocjacyjnych - trzeba liczyć na jakość gry i community.
+
+**Kontekst:** Scream_Wattson (Iron Nest) opisuje sytuację: TinyBuild ogłosili datę 2 tyg po nim, ten sam dzień, godzina po nim. 'Nigdy nie zrozumiem decyzji tiny build'. Yellowcrusher (indie dev) potwierdza: 'rzuc okiem na lewy dolny róg' (widoczność obu gier).
 
 ---
 
@@ -892,6 +933,16 @@ Wykorzystanie systemu monitorowania obecności na karcie w danym momencie pozwal
 
 ---
 
+### Weryfikacja raportów marketingowych Immutable (i podobnych)
+
+🟢 **Confidence:** 0.85
+
+Raporty "wiralowe" publikowane na LinkedIn przez Immutable są podejrzane: dane wyglądają na nadgonione ("z kosmosu"), agregowane przez nieznany AI tool, a wolumen ich publikacji nie zgadza się z nakładem pracy potrzebnym do prawdziwej analizy. Warto traktować je jako materiał promocyjny, a nie wiarygodne benchmarki.
+
+**Kontekst:** Michał z MythicOwl Games zwrócił uwagę na niespójność: ilość i jakość raportów nie koreluje z realnym nakładem pracy analitycznej – sugeruje to generowanie treści przez AI bez weryfikacji danych.
+
+---
+
 <a id="publishing"></a>
 ## Publishing / wydawcy / kontrakty / pitch deck / negocjacje z wydawcą
 
@@ -1036,6 +1087,16 @@ Warto proponować wspólne bundle oraz wymianę labeli/promocji (np. Daily Deal)
 
 ---
 
+### Unikaj premier w czasie dużych Steam Sale (Autumn, itp.)
+
+🟢 **Confidence:** 0.85
+
+Steam planuje ściągać kalendarz z main page podczas dużych wyprzedaży (Big Sales). Jeśli premiera wypada w tym oknie, tracisz główny kanał widoczności. Polecane: zabezpieczyć 2 tygodnie przed i 2 tygodnie po premierze bez konfliktu z big sale.
+
+**Kontekst:** Scream_Wattson: 'nie wolno inaczej wydawać się tylko wtedy gdy macie secured ze 2 tyg przed i 2 tyg po nie sciagaja kalendarza z maina'. Steam potwierdził plan ściągania kalendarza na big sale.
+
+---
+
 ### Zgłaszanie gry do sekcji "Coming Soon" i "Friends" na MIX
 
 🟢 **Confidence:** 0.85
@@ -1110,6 +1171,19 @@ Skorzystaj z możliwości wystawienia swojego indie‑game na stoisku Urzędu m.
 
 ---
 
+<a id="branding"></a>
+## Branding / nazwa gry / pozycjonowanie / target audience
+
+### Cross-promocja przez wspólne franczyzy na Steamie
+
+🟢 **Confidence:** 0.95
+
+Deweloperzy mogą dogadywać się z innymi studio lub wydawcami, by wzajemnie dołączać swoje gry do wspólnych franczyz na Steamie, co generuje powiadomienia dla obserwujących franczyzę i umożliwia przekierowanie ruchu między grami. Warunkiem jest porozumienie z oficerem grupy wydawcy/developera, by zostali oficjalnie podpięci. Takie podejście działa jak cross-promocja i może zastąpić tradycyjne bundle’y, szczególnie przy dobranym target audience i podobnym stylu gier.
+
+**Kontekst:** Dyskusja dotyczyła przypadku, gdy gra Restory została dodana do franczyzy Iron Nest na SteamDB. Scream_Wattson wyjaśnił, że to celowa taktyka cross-promocyjna, wymagająca porozumienia z drugą stroną. Bez oficjalnego podpięcia przez oficera grupy, dodanie do franczyzy nie generuje powiadomień. Przykładem sukcesu jest współpraca z PlayWay, gdzie cała baza followerów otrzymała powiadomienie po dodaniu gry do franczyzy.
+
+---
+
 <a id="production"></a>
 ## Sprzęt produkcyjny / dev workflow / Jira / Notion / Clickup
 
@@ -1122,6 +1196,16 @@ Tworzyć tygodniowy rzut planu w arkuszu lub narzędziu, aby ocenić obciążeni
 *Inne sformułowania w społeczności:* Używanie widoku tygodniowego do planowania obłożenia
 
 **Kontekst:** Jakub opisuje potrzebę tygodniowego podglądu obłożenia i konwersji planu na zadania w Trello; dyskusja sugeruje alternatywy (TaskWorld, Jira, Notion). ¦ Jakub poszukuje rozwiązania umożliwiającego analizę obłożenia w tygodniach; rekomendacje narzędzi podkreślają potrzebę takiego widoku.
+
+---
+
+### Launch day horror stories: patchowanie 2 minuty przed premierą
+
+🟡 **Confidence:** 0.80
+
+Rzeczywistość premier: patchowanie w ostatniej chwili to norma. Przykłady: admin panel z przyciskiem 'START CHEATING' zamiast main menu, całe noce naprawiania bugów przed releasem. Lesson: testuj build release'owy wcześniej, miej plan rollbacku.
+
+**Kontekst:** Scream_Wattson, Bartold, GameDevGrzesiek dzielą się doświadczeniami z premier. Bartold: 'zamiast main menu gracze zobaczyli admin panel z jebintym buttonem START CHEATING'. GameDevGrzesiek: 'przesiedziałem z drugim programistą całą noc na fixowaniu'.
 
 ---
 

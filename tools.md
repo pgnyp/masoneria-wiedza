@@ -2,7 +2,7 @@
 
 > Serwisy, narzędzia i platformy polecane przez członków społeczności. Każde z kontekstem użycia i autora polecenia.
 
-**70 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
+**71 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
 
 [← powrót do głównej](README.md)
 
@@ -17,7 +17,7 @@
 - [Community / Discord / social profile / network / wzajemne wsparcie](#community) (8)
 - [Lokalizacja / Chiny / Azja / języki / regionalna dystrybucja](#localization) (6)
 - [Trailer / wideo / capsule video / content marketing / YouTube / shorts](#trailer) (3)
-- [Analityka / dane / tracking / metryki / Gamalytic / games-stats / Steam Spy](#analytics) (12)
+- [Analityka / dane / tracking / metryki / Gamalytic / games-stats / Steam Spy](#analytics) (13)
 - [Publishing / wydawcy / kontrakty / pitch deck / negocjacje z wydawcą](#publishing) (7)
 - [Steam events / festiwale / Save & Continue / Summer Sale / MIX / showcases](#events) (1)
 - [Branding / nazwa gry / pozycjonowanie / target audience](#branding) (1)
@@ -634,6 +634,18 @@ Tabela w Google Sheets udostępniona przez Kubbę, zawierająca model estymacji 
 **Link:** https://docs.google.com/spreadsheets/d/1lWOttzv6N7LQOV5UpQQnU6_NDLdJGjamQoF0SasOJSE/edit?usp=sharing
 
 **Kontekst:** Używana w dyskusji o wyliczaniu punktu granicznego opłacalności kampanii promocyjnych oraz przy planowaniu publishingowych dealów.
+
+---
+
+### Immutable
+
+🟢 **Confidence:** 0.90
+
+Serwis oferujący gotowe landing page'y z podpiętymi adsami i prostą automatyzacją, opakowane w dashboard. Według kilku deweloperów (MacPlaysGames, GameDevGrzesiek, Michał z MythicOwl Games) – narzędzie nie daje wartości nad to, co można zrobić samodzielnie; po rozmowach uznano, że "to tylko ubierają w ładny Dashboard".
+
+**Link:** https://www.immutable.com/
+
+**Kontekst:** Deweloperzy z community (MacPlaysGames, GameDevGrzesiek, Michał z MythicOwl Games) przeprowadzili rozmowy handlowe i testy – wszyscy došli do wniosku, że narzędzie nie warto płacić, bo funkcjonalność jest podstawowa i łatwa do odtworzenia we własnym zakresie.
 
 ---
 

@@ -2,7 +2,7 @@
 
 > Realne pytania z community z odpowiedziami skondensowanymi z dyskusji.
 
-**39 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
+**40 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
 
 [← powrót do głównej](README.md)
 
@@ -16,7 +16,7 @@
 - [Pricing — cennik, SRP, region pricing, promocje, sale strategy](#pricing) (4)
 - [Community / Discord / social profile / network / wzajemne wsparcie](#community) (2)
 - [Lokalizacja / Chiny / Azja / języki / regionalna dystrybucja](#localization) (1)
-- [Trailer / wideo / capsule video / content marketing / YouTube / shorts](#trailer) (1)
+- [Trailer / wideo / capsule video / content marketing / YouTube / shorts](#trailer) (2)
 - [Publishing / wydawcy / kontrakty / pitch deck / negocjacje z wydawcą](#publishing) (1)
 - [Steam events / festiwale / Save & Continue / Summer Sale / MIX / showcases](#events) (6)
 - [Sprzedaż na konsolach](#console) (1)
@@ -314,6 +314,16 @@ Tak, niektórzy deweloperzy (np. Michał z MythicOwl Games) tłumaczą gry na tr
 
 <a id="trailer"></a>
 ## Trailer / wideo / capsule video / content marketing / YouTube / shorts
+
+### Czy mogę zgłosić nieogłoszoną grę do 'From Poland to Million Worlds' bez linku do materiałów?
+
+🟢 **Confidence:** 0.90
+
+Tak, gra może być nieogłoszona, ale komisja musi mieć na czym ocenić – potrzebny jest jakiś materiał (trailer, build, gameplay, pitch deck). Brak publicznego announce'u nie jest problemem; celem akcji jest właśnie rozpęd takich gier na Next Feście przez influencerów.
+
+**Kontekst:** Pytanie MacPlaysGames i odpowiedź praktyk z portfolio Movie Games/GOG – potwierdza, że 'coś do pokazania' jest wymagane, ale status 'unannounced' nie blokuje zgłoszenia.
+
+---
 
 ### Jak uzyskać slot redakcyjny na Future Games Show / gamescomowy event?
 

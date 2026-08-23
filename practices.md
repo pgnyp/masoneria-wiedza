@@ -2,7 +2,7 @@
 
 > Workflow, metody i taktyki działania indie game marketingu, potwierdzone doświadczeniem społeczności.
 
-**114 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
+**118 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
 
 [← powrót do głównej](README.md)
 
@@ -11,18 +11,18 @@
 - [Steam Broadcast i zapętlone streamy 24/7](#broadcast) (2)
 - [Live streamerzy i influencerzy](#streamers) (14)
 - [Wishlisty — kumulacja, konwersja, pre-launch, mailing do wishlistujących, minimalna liczba](#wishlists) (9)
-- [Demo i Next Fest](#demo) (4)
+- [Demo i Next Fest](#demo) (5)
 - [Reklamy płatne](#ads) (3)
 - [Steam Store strona](#steam-store) (10)
 - [Press / PR / dziennikarze gamingowi / branżowe newslettery](#press) (2)
 - [Email marketing własny — newslettery, mailing zewnętrzny, lead magnet](#email) (2)
 - [Pricing — cennik, SRP, region pricing, promocje, sale strategy](#pricing) (9)
-- [Community / Discord / social profile / network / wzajemne wsparcie](#community) (12)
+- [Community / Discord / social profile / network / wzajemne wsparcie](#community) (14)
 - [Lokalizacja / Chiny / Azja / języki / regionalna dystrybucja](#localization) (3)
 - [Trailer / wideo / capsule video / content marketing / YouTube / shorts](#trailer) (6)
 - [Analityka / dane / tracking / metryki / Gamalytic / games-stats / Steam Spy](#analytics) (4)
 - [Publishing / wydawcy / kontrakty / pitch deck / negocjacje z wydawcą](#publishing) (8)
-- [Steam events / festiwale / Save & Continue / Summer Sale / MIX / showcases](#events) (13)
+- [Steam events / festiwale / Save & Continue / Summer Sale / MIX / showcases](#events) (14)
 - [Branding / nazwa gry / pozycjonowanie / target audience](#branding) (1)
 - [Sprzęt produkcyjny / dev workflow / Jira / Notion / Clickup](#production) (2)
 - [Sprzedaż na konsolach](#console) (2)
@@ -341,6 +341,16 @@ Aby uzyskać slot na demo i na Next Fest, wystarczy dodać nowe SKU (App ID) w p
 *Inne sformułowania w społeczności:* Strategia uruchomienia nowego SKU z demo na Steam Next Fest; Strategia wprowadzania nowego SKU z demo na Steam Next Fest
 
 **Kontekst:** Deweloper z community omawia potrzebę dodania nowego SKU w Steam, aby zapewnić sloty na demo i Next Fest, wskazując, że proces wymaga jedynie dodania App ID. ¦ Deweloper z community rozważał ryzyko związane z podobieństwem nowego SKU do starego oraz wpływ na konwersję, szukając alternatywy dla usunięcia starego SKU. ¦ Deweloper obawia się, że gra jest zbyt podobna do starego SKU i chce zwiększyć konwersję przy pomocy nowego demo na Next Fest. Dyskusja dotyczyła podziału na dwa warianty (prolog vs Definitive Edition) i ich wpływu na wskaźniki konwersji. ¦ Deweloper obawia się, że gra jest zbyt podobna do starego SKU i chce zwiększyć konwersję przy pomocy nowego demo na Next Fest. ¦ Deweloper z community rozważał, jak uniknąć problemu zbyt dużej podobieństwa nowego SKU do starego przy jednoczesnym wykorzystaniu Steam Next Fest do promocji.
+
+---
+
+### Akcja 'From Poland to Million Worlds' na GOG – timing przed Next Fest
+
+🟢 **Confidence:** 0.85
+
+Termin zgłoszeń tuż przed Steam Next Fest jest celowy: warto zgłaszać dema, które mają potencjał na rozpęd na Next Feście. GOG/polska społeczność promuje te gry influencerami podczas Next Festa, co potem łańcuchowo podbija widoczność na Steam.
+
+**Kontekst:** praktyk z portfolio Movie Games/GOG (organizator/koordynator akcji) wyjaśnia strategię: cel to synergia GOG + influencerzy na Next Fest → organiczny ruch na Steam.
 
 ---
 
@@ -746,6 +756,16 @@ Wprowadzenie w grze systemu, który pozwala na dodawanie żartobliwych nazw rest
 
 ---
 
+### Negocjowanie placementu gier u vendorów po awarii stoiska (case study: Galaktus/ASUS/HP)
+
+🟢 **Confidence:** 0.85
+
+Po wycofaniu się stoiska Galaktus na evencie, deweloper z community przeprowadził bezpośrednie rozmowy z vendorami sprzętowymi (ASUS, HP) o placementach gier. ASUS zaakceptował 2 z zaproponowanych tytułów: Barkour (zamknięty) i Arms of God (szczegóły dostawy do ustalenia). HP po dwóch follow-upach odrzucił. Wniosek: warto mieć listę gier gotową do prezentacji vendorom, celować w 1-2 silne tytuły, a nie masę, i liczyć na krótki czas reakcji.
+
+**Kontekst:** Relacja po fakcie z dyskusji z ASUS i HP na evencie (Kolonia). ASUS wypił się na rekomendacje po kilku godzinach rozmowy. HP nie dał efektu mimo follow-upów. Dodatkowo wysłano 50 komputerów awaryjnych na miejsce na wypadek braków sprzętu.
+
+---
+
 ### Wykorzystanie Steam Community Groups do ogłoszeń zamiast panelu wydawcy
 
 🟢 **Confidence:** 0.85
@@ -773,6 +793,16 @@ Przy współpracy z tłumaczami‑fanami warto przygotować krótkie oświadczen
 TinyBuild wypuściło symulator w ten sam dzień co Iron Nest (mały indie), dodatkowo ustawiając premierę godzinę po konkurencie, mimo że data Iron Nest była znana od 2 tygodni. Mały deweloper nie ma narzędzi prawnych/negocjacyjnych - trzeba liczyć na jakość gry i community.
 
 **Kontekst:** Scream_Wattson (Iron Nest) opisuje sytuację: TinyBuild ogłosili datę 2 tyg po nim, ten sam dzień, godzina po nim. 'Nigdy nie zrozumiem decyzji tiny build'. Yellowcrusher (indie dev) potwierdza: 'rzuc okiem na lewy dolny róg' (widoczność obu gier).
+
+---
+
+### Strategia promocji niezapowiedzianych gier na Next Fest przez polską społeczność/GOG
+
+🟡 **Confidence:** 0.75
+
+Polska inicjatywa (GOG + community) celowo szuka nieogłoszonych gier, by dać im pierwszy publiczny pokaz podczas Next Festa za pośrednictwem influencerów. To generuje 'pierwszy sygnał' dla algorytmów Steam i buduje wishlisty przed premierą.
+
+**Kontekst:** Wnioski z dyskusji praktyk z portfolio Movie Games/GOG: akcja ma na celu wypełnienie luki 'brak materiałów przed Next Fest' i wykorzystanie fali Next Festa do cold-startu wishlist.
 
 ---
 
@@ -1134,6 +1164,16 @@ Współpraca przy tworzeniu wspólnych bundle’ów (np. z Beyond Sunset, BUTCHE
 Samodzielne wydanie gry bez większego ogłoszenia może mieć ograniczony zasięg; lepsze efekty przynosi połączenie premiery z wydarzeniem lub współpracą (cross‑promo).
 
 **Kontekst:** Jakub zastanawia się, czy solo release ma jeszcze sens w porównaniu do cross‑promocji z eventem/beatem.
+
+---
+
+### Uzyskanie dostępu do eventów Steam China
+
+🟡 **Confidence:** 0.80
+
+Eventy Steam China organizuje bezpośrednio chińska odnoga Valve. Dostęp uzyskuje się zazwyczaj przez chińskiego wydawcę lub wysyłając support ticket do Steam – support dalej kieruje procesem.
+
+**Kontekst:** Pawel Lekki dzieli się doświadczeniem z wejścia na wydarzenia Steam China; potwierdza, że kluczowy jest chiński wydawca lub kontakt z supportem Steam.
 
 ---
 

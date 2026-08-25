@@ -3,7 +3,7 @@
 > Wyciąg wiedzy z Discord Masonerii Marketingu — polskiej społeczności indie game marketingowców.
 > Wszystkie wypowiedzi są zanonimizowane, cytowani są tylko publicznie rozpoznawalni deweloperzy z kontekstem ich studio/produktu.
 
-**Aktualizowane:** 2026-08-23
+**Aktualizowane:** 2026-08-25
 **Items:** 329 (71 narzędzi, 118 praktyk, 40 Q&A, 100 linków)
 
 ## Spis treści

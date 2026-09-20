@@ -2,14 +2,14 @@
 
 > Realne pytania z community z odpowiedziami skondensowanymi z dyskusji.
 
-**40 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
+**41 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
 
 [← powrót do głównej](README.md)
 
 ## Spis treści
 
 - [Live streamerzy i influencerzy](#streamers) (2)
-- [Wishlisty — kumulacja, konwersja, pre-launch, mailing do wishlistujących, minimalna liczba](#wishlists) (7)
+- [Wishlisty — kumulacja, konwersja, pre-launch, mailing do wishlistujących, minimalna liczba](#wishlists) (8)
 - [Demo i Next Fest](#demo) (3)
 - [Reklamy płatne](#ads) (2)
 - [Steam Store strona](#steam-store) (4)
@@ -71,6 +71,16 @@ Zalecane minimum to około 10 000 wishlist; przy aktualnym współczynniku kon
 *Inne sformułowania w społeczności:* Ile wishlist potrzebnych do sprzedania 1000 kopii w pierwszym tygodniu?; Ile wishlists potrzebnych do sprzedaży 1000 kopii w pierwszym tygodniu?
 
 **Kontekst:** Pytanie zadane przez TomekTomasz (indie dev), odpowiedź udzielona przez praktyk z portfolio Movie Games/GOG, odwołująca się do kalkulatora i własnych danych. ¦ Pytanie zadane przez Tomka, odpowiedź od praktyk z portfolio Movie Games/GOG i Kuby, odwołująca się do kalkulatora i własnych danych. ¦ TomekTomasz (indie dev) zapytał o wymaganą liczbę wishlists; praktyk z portfolio Movie Games/GOG odpowiedział, że nie startuje się poniżej 10 k, co implikuje potrzebę takiej liczby. ¦ Tomek pyta o liczbę wishlist; Piotr i Kuba Wójcik podają progowy próg 10 k i wspominają o współczynniku konwersji.
+
+---
+
+### Czy kampanie Gleam.io (Steam actions) dają wartościowe wishlisty dla gier singleplayer?
+
+🟢 **Confidence:** 0.90
+
+Według doświadczenia dewelopera: kliknięcia i wishlisty uzyskane za obietnicą nagrody (nie z zainteresowania grą) rzadko przekładają się na sprzedaż. Działają tylko na 'napompowanie numerków' (wishlist count), ale nie budują prawdziwego community ani konwersji.
+
+**Kontekst:** Pytanie o użycie https://gleam.io/docs/actions/steam dla gier singleplayer. Odpowiedź oparta na doświadczeniu przedpremierowym.
 
 ---
 

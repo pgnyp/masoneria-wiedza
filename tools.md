@@ -2,7 +2,7 @@
 
 > Serwisy, narzędzia i platformy polecane przez członków społeczności. Każde z kontekstem użycia i autora polecenia.
 
-**71 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
+**72 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
 
 [← powrót do głównej](README.md)
 
@@ -13,7 +13,7 @@
 - [Wishlisty — kumulacja, konwersja, pre-launch, mailing do wishlistujących, minimalna liczba](#wishlists) (3)
 - [Reklamy płatne](#ads) (1)
 - [Press / PR / dziennikarze gamingowi / branżowe newslettery](#press) (5)
-- [Email marketing własny — newslettery, mailing zewnętrzny, lead magnet](#email) (2)
+- [Email marketing własny — newslettery, mailing zewnętrzny, lead magnet](#email) (3)
 - [Community / Discord / social profile / network / wzajemne wsparcie](#community) (8)
 - [Lokalizacja / Chiny / Azja / języki / regionalna dystrybucja](#localization) (6)
 - [Trailer / wideo / capsule video / content marketing / YouTube / shorts](#trailer) (3)
@@ -298,6 +298,18 @@ Usługa do masowej wysyłki maili, wykorzystywana do rozsyłania listy kluczy po
 - [Sendy](https://sendy.co/)
 
 **Kontekst:** Uczestnik wspomniał, że dystrybucję kluczy robi jako makro do Excela, a następnie wrzuca na Sendy. ¦ Uczestnicy opisują, że dystrybucję kluczy robią jako makro do Excela, wrzucane na Sendy. ¦ Użytkownik opisuje, że dystrybucję kluczy robi jako makro do Excela, a następnie wrzuca na Sendy.
+
+---
+
+### GameDiscoverCo
+
+🟡 **Confidence:** 0.75
+
+Platforma/newsletter o odkrywalności gier (game discovery), marketingu i trendach rynkowych dla indie devów.
+
+**Link:** https://gamediscover.co
+
+**Kontekst:** Wskazano jako przydatny zasób w kontekście marketingu indie („GameDiscoverCo jakby co”).
 
 ---
 

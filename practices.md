@@ -2,7 +2,7 @@
 
 > Workflow, metody i taktyki działania indie game marketingu, potwierdzone doświadczeniem społeczności.
 
-**118 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
+**119 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
 
 [← powrót do głównej](README.md)
 
@@ -10,7 +10,7 @@
 
 - [Steam Broadcast i zapętlone streamy 24/7](#broadcast) (2)
 - [Live streamerzy i influencerzy](#streamers) (14)
-- [Wishlisty — kumulacja, konwersja, pre-launch, mailing do wishlistujących, minimalna liczba](#wishlists) (9)
+- [Wishlisty — kumulacja, konwersja, pre-launch, mailing do wishlistujących, minimalna liczba](#wishlists) (10)
 - [Demo i Next Fest](#demo) (5)
 - [Reklamy płatne](#ads) (3)
 - [Steam Store strona](#steam-store) (10)
@@ -316,6 +316,16 @@ Reklamy w formie banerów w wątkach na Reddit przynoszą głównie brand awaren
 Przykład 30‑dniowej kampanii, która wygenerowała 280 k zapisów na listę oczekujących, w 99 % opierając się na działaniach w social media, bez użycia bannerów na Steam.
 
 **Kontekst:** praktyk z portfolio Movie Games/GOG podzielił się statystyką kampanii WL po usunięciu bannerów ze Steam, podkreślając skuteczność social mediów.
+
+---
+
+### Unikaj kampain opartych wyłącznie na nagrodach materialnych dla wishlist na Steam
+
+🟢 **Confidence:** 0.85
+
+Wishlisty zebrane przez giveaway/konkursy (Gleam, itp.) to zazwyczaj 'martwe konta' lub gracze myślący o nagrodzie, nie grze. Nie generują one organicznego ruchu, recenzji ani sprzedaży po premierze. Lepsze ROI dają kampanie targetujące zainteresowanie mechaniką/settingiem gry.
+
+**Kontekst:** Wniosek z dyskusji o Gleam.io Steam actions — deweloper potwierdza, że takie wishlisty 'nie przekładają się na sprzedaż'.
 
 ---
 

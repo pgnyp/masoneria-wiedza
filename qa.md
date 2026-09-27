@@ -2,7 +2,7 @@
 
 > Realne pytania z community z odpowiedziami skondensowanymi z dyskusji.
 
-**41 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
+**42 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
 
 [← powrót do głównej](README.md)
 
@@ -10,7 +10,7 @@
 
 - [Live streamerzy i influencerzy](#streamers) (2)
 - [Wishlisty — kumulacja, konwersja, pre-launch, mailing do wishlistujących, minimalna liczba](#wishlists) (8)
-- [Demo i Next Fest](#demo) (3)
+- [Demo i Next Fest](#demo) (4)
 - [Reklamy płatne](#ads) (2)
 - [Steam Store strona](#steam-store) (4)
 - [Pricing — cennik, SRP, region pricing, promocje, sale strategy](#pricing) (4)
@@ -166,6 +166,16 @@ Wyniki są mieszane – niektórzy zauważyli jedynie niewielki wzrost zainteres
 Sekcja Popular Upcoming dawała kilkanaście‑kilkadziesiąt godzin dodatkowego boostu widoczności tuż przed premierą, co mogło pomóc, ale nie było decydujące. W nowej wersji beta sekcja będzie dostępna dłużej, ale dla ograniczonej liczby użytkowników, chyba że personalizują ją.
 
 **Kontekst:** Pytanie zadane przez dewelopera z community po obejrzeniu dyskusji na Reddit o zmianie UI Steam. Odpowiedź udzielona przez innego dewelopera z community (Madras (indie dev)).
+
+---
+
+### Czy Playtester.io jest płatne i czy warto?
+
+🟡 **Confidence:** 0.80
+
+Platforma nie jest wprost płatna za playtesty (twórcy sami dodają gry), ale organizuje płatne sloty eventowe. Ruch na Steamworks jest zauważalny, ale nie spektakularny ('bez szału'). Warto traktować jako uzupełnienie, nie główny kanał.
+
+**Kontekst:** Pytanie Kuba Wójcik + odpowiedź murmur. Kontekst: szukanie opcji na announcement/playtesty w trudnym okresie (listopad-grudzień).
 
 ---
 

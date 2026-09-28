@@ -2,7 +2,7 @@
 
 > Realne pytania z community z odpowiedziami skondensowanymi z dyskusji.
 
-**42 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
+**41 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
 
 [← powrót do głównej](README.md)
 
@@ -10,7 +10,7 @@
 
 - [Live streamerzy i influencerzy](#streamers) (2)
 - [Wishlisty — kumulacja, konwersja, pre-launch, mailing do wishlistujących, minimalna liczba](#wishlists) (8)
-- [Demo i Next Fest](#demo) (4)
+- [Demo i Next Fest](#demo) (3)
 - [Reklamy płatne](#ads) (2)
 - [Steam Store strona](#steam-store) (4)
 - [Pricing — cennik, SRP, region pricing, promocje, sale strategy](#pricing) (4)
@@ -74,13 +74,13 @@ Zalecane minimum to około 10 000 wishlist; przy aktualnym współczynniku kon
 
 ---
 
-### Czy kampanie Gleam.io (Steam actions) dają wartościowe wishlisty dla gier singleplayer?
+### Czy gleam.io Steam actions (kampanie z nagrodami) warto stosować do gier singleplayer?
 
 🟢 **Confidence:** 0.90
 
-Według doświadczenia dewelopera: kliknięcia i wishlisty uzyskane za obietnicą nagrody (nie z zainteresowania grą) rzadko przekładają się na sprzedaż. Działają tylko na 'napompowanie numerków' (wishlist count), ale nie budują prawdziwego community ani konwersji.
+Według doświadczenia Michaela P – kampanie na gleam.io generują kliki i wishlisty z motywacji nagrody, a nie zainteresowania grą. Nie przekładają się one na sprzedaż, jedynie 'napompowują numerki' (statystyki wishlist). Może mieć sens tylko jeśli celem jest sztuczne podbicie wskaźników przed premierą.
 
-**Kontekst:** Pytanie o użycie https://gleam.io/docs/actions/steam dla gier singleplayer. Odpowiedź oparta na doświadczeniu przedpremierowym.
+**Kontekst:** Pytanie VVirusa/Jakuba o użycie https://gleam.io/docs/actions/steam dla gier singleplayer. Odpowiedź oparta na doświadczeniu przedpremierowym.
 
 ---
 
@@ -166,16 +166,6 @@ Wyniki są mieszane – niektórzy zauważyli jedynie niewielki wzrost zainteres
 Sekcja Popular Upcoming dawała kilkanaście‑kilkadziesiąt godzin dodatkowego boostu widoczności tuż przed premierą, co mogło pomóc, ale nie było decydujące. W nowej wersji beta sekcja będzie dostępna dłużej, ale dla ograniczonej liczby użytkowników, chyba że personalizują ją.
 
 **Kontekst:** Pytanie zadane przez dewelopera z community po obejrzeniu dyskusji na Reddit o zmianie UI Steam. Odpowiedź udzielona przez innego dewelopera z community (Madras (indie dev)).
-
----
-
-### Czy Playtester.io jest płatne i czy warto?
-
-🟡 **Confidence:** 0.80
-
-Platforma nie jest wprost płatna za playtesty (twórcy sami dodają gry), ale organizuje płatne sloty eventowe. Ruch na Steamworks jest zauważalny, ale nie spektakularny ('bez szału'). Warto traktować jako uzupełnienie, nie główny kanał.
-
-**Kontekst:** Pytanie Kuba Wójcik + odpowiedź murmur. Kontekst: szukanie opcji na announcement/playtesty w trudnym okresie (listopad-grudzień).
 
 ---
 

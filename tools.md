@@ -2,7 +2,7 @@
 
 > Serwisy, narzędzia i platformy polecane przez członków społeczności. Każde z kontekstem użycia i autora polecenia.
 
-**74 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
+**71 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
 
 [← powrót do głównej](README.md)
 
@@ -11,16 +11,15 @@
 - [Steam Broadcast i zapętlone streamy 24/7](#broadcast) (3)
 - [Live streamerzy i influencerzy](#streamers) (6)
 - [Wishlisty — kumulacja, konwersja, pre-launch, mailing do wishlistujących, minimalna liczba](#wishlists) (3)
-- [Demo i Next Fest](#demo) (1)
 - [Reklamy płatne](#ads) (1)
 - [Press / PR / dziennikarze gamingowi / branżowe newslettery](#press) (5)
-- [Email marketing własny — newslettery, mailing zewnętrzny, lead magnet](#email) (3)
+- [Email marketing własny — newslettery, mailing zewnętrzny, lead magnet](#email) (2)
 - [Community / Discord / social profile / network / wzajemne wsparcie](#community) (8)
 - [Lokalizacja / Chiny / Azja / języki / regionalna dystrybucja](#localization) (6)
 - [Trailer / wideo / capsule video / content marketing / YouTube / shorts](#trailer) (3)
 - [Analityka / dane / tracking / metryki / Gamalytic / games-stats / Steam Spy](#analytics) (13)
 - [Publishing / wydawcy / kontrakty / pitch deck / negocjacje z wydawcą](#publishing) (7)
-- [Steam events / festiwale / Save & Continue / Summer Sale / MIX / showcases](#events) (2)
+- [Steam events / festiwale / Save & Continue / Summer Sale / MIX / showcases](#events) (1)
 - [Branding / nazwa gry / pozycjonowanie / target audience](#branding) (1)
 - [Sprzęt produkcyjny / dev workflow / Jira / Notion / Clickup](#production) (5)
 - [Sprzedaż na konsolach](#console) (1)
@@ -189,21 +188,6 @@ Post na X (Twitter) podający aktualny współczynnik konwersji wishlist → spr
 
 ---
 
-<a id="demo"></a>
-## Demo i Next Fest
-
-### Playtester.io
-
-🟢 **Confidence:** 0.85
-
-Platforma organizująca eventy playtestowe (np. 30 listopada – 7 grudnia). Gry dodają sami twórcy, platforma promuje na socialach. Generuje jakiś ruch na Steamworks, ale bez przełamania.
-
-**Link:** https://playtester.io/
-
-**Kontekst:** Deweloperzy z community (Kuba Wójcik, murmur) dyskutują o opłacalności – platforma sama trackuje wyniki, niektórzy polscy deweloperzy mają tam swoje gry. Wartość: dodatkowy kanał playtestów, ale nie gwarantuje masowego influksu.
-
----
-
 <a id="ads"></a>
 ## Reklamy płatne
 
@@ -314,18 +298,6 @@ Usługa do masowej wysyłki maili, wykorzystywana do rozsyłania listy kluczy po
 - [Sendy](https://sendy.co/)
 
 **Kontekst:** Uczestnik wspomniał, że dystrybucję kluczy robi jako makro do Excela, a następnie wrzuca na Sendy. ¦ Uczestnicy opisują, że dystrybucję kluczy robią jako makro do Excela, wrzucane na Sendy. ¦ Użytkownik opisuje, że dystrybucję kluczy robi jako makro do Excela, a następnie wrzuca na Sendy.
-
----
-
-### GameDiscoverCo
-
-🟡 **Confidence:** 0.75
-
-Platforma/newsletter o odkrywalności gier (game discovery), marketingu i trendach rynkowych dla indie devów.
-
-**Link:** https://gamediscover.co
-
-**Kontekst:** Wskazano jako przydatny zasób w kontekście marketingu indie („GameDiscoverCo jakby co”).
 
 ---
 
@@ -816,16 +788,6 @@ Gamejam organizowany przez IGP w Poznaniu, otwarty dla zespołów indie.
 **Link:** https://gamejamwtramwaju.pl/
 
 **Kontekst:** Kuba Wójcik udostępnił link do gamejamu, zachęcając zespoły do udziału. ¦ Kuba Wójcik udostępnił link do nadchodzącego GameJam w Poznaniu, zachęcając zespoły do udziału.
-
----
-
-### Wholesome Snack
-
-🟡 **Confidence:** 0.80
-
-Cyklowy event (początek grudnia) dedykowany grzym 'wholesome/cozy'. Warto rozważyć na announcement, jeśli gra pasuje do klimatu.
-
-**Kontekst:** Michał z MythicOwl Games poleca jako alternatywę dla dużych gal (Golden Joystick, PCGS, TGA) w okresie listopad-grudzień. Matt odrzuca dla Hellforged (nie pasuje klimatycznie).
 
 ---
 

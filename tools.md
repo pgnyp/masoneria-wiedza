@@ -2,15 +2,16 @@
 
 > Serwisy, narzędzia i platformy polecane przez członków społeczności. Każde z kontekstem użycia i autora polecenia.
 
-**71 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
+**74 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
 
 [← powrót do głównej](README.md)
 
 ## Spis treści
 
 - [Steam Broadcast i zapętlone streamy 24/7](#broadcast) (3)
-- [Live streamerzy i influencerzy](#streamers) (6)
+- [Live streamerzy i influencerzy](#streamers) (8)
 - [Wishlisty — kumulacja, konwersja, pre-launch, mailing do wishlistujących, minimalna liczba](#wishlists) (3)
+- [Demo i Next Fest](#demo) (1)
 - [Reklamy płatne](#ads) (1)
 - [Press / PR / dziennikarze gamingowi / branżowe newslettery](#press) (5)
 - [Email marketing własny — newslettery, mailing zewnętrzny, lead magnet](#email) (2)
@@ -75,13 +76,14 @@ Płatny serwis do streamowania zapętlonych filmików na Steam Broadcast, oferuj
 
 ### Keymailer
 
-🟢 **Confidence:** 0.95 · **13× wzmianek**
+🟢 **Confidence:** 0.95 · **14× wzmianek**
 
 Platforma do dystrybucji kluczy, umożliwiająca darmowy listing oraz sprzedaż kluczy gry.
 
 **Linki:**
 - [Keymailer](None)
 - [Keymailer](https://keymailer.com)
+- [Keymailer](https://keymailer.co)
 
 **Kontekst:** Wspomniana przez praktyk z portfolio Movie Games/GOG i Michala (Michał z MythicOwl Games) jako przydatna do dystrybucji kluczy, szczególnie w połączeniu z darmowym listingiem. ¦ Użytkownik TomekTomasz (indie dev) pyta o skuteczność Keymailer, a praktyk z portfolio Movie Games/GOG potwierdza, że korzystali z największego pakietu i uznali go za przydatny. ¦ Wymieniona przez uczestników jako jedna z opcji do dystrybucji kluczy; polecana do darmowego listingu.
 
@@ -89,11 +91,13 @@ Platforma do dystrybucji kluczy, umożliwiająca darmowy listing oraz sprzedaż 
 
 ### Lurkit
 
-🟢 **Confidence:** 0.92 · **9× wzmianek**
+🟢 **Confidence:** 0.92 · **10× wzmianek**
 
 Platforma do promowania gier poprzez płatne streamy i kampanie marketingowe. Wymaga wcześniejszego zaplanowania kampanii (np. "coming soon"), budżetu (kilka tysięcy dolarów) i negocjacji stawek z streamerami.
 
-**Link:** None
+**Linki:**
+- [Lurkit](None)
+- [Lurkit](https://lurkit.com)
 
 **Kontekst:** Pytanie Pawła o doświadczenia z Lurkit. TomekTomasz (indie dev) opisuje, jak działa i czego wymaga. ¦ Użytkownicy wymieniają Lurkit jako sprawdzony serwis do płatnych promocji i kontaktu z influencerami. ¦ Użytkownik TomekTomasz (indie dev) opisuje, że Lurkit działa, ale trzeba mieć budżet i dobrze dobrać streamerów, bo nie każdy przynosi konwersję.
 
@@ -101,13 +105,27 @@ Platforma do promowania gier poprzez płatne streamy i kampanie marketingowe. Wy
 
 ### PressEngine
 
-🟢 **Confidence:** 0.85 · **3× wzmianek**
+🟢 **Confidence:** 0.85 · **4× wzmianek**
 
 Platforma do dystrybucji kluczy i zarządzania promocjami, często używana razem z Keymailer i Lurkit.
 
-**Link:** None
+**Linki:**
+- [PressEngine](https://pressengine.co)
+- [PressEngine](None)
 
-**Kontekst:** Wspomniana przez Michala (Michał z MythicOwl Games) jako kolejna opcja do darmowego listingu i promocji gry. ¦ Wspomniana jako kolejna opcja przy darmowym listingu i kampaniach promocyjnych. ¦ Wspomniana jako kolejna opcja przy darmowym listingu oraz negocjacjach z dużymi kanałami.
+**Kontekst:** Wspomniana przez Michala (Michał z MythicOwl Games) jako kolejna opcja do darmowego listingu i promocji gry. ¦ Michał z MythicOwl Games: 'działamy na lurkit i pressengine'. ¦ Wspomniana jako kolejna opcja przy darmowym listingu i kampaniach promocyjnych.
+
+---
+
+### PlayIndies
+
+🟢 **Confidence:** 0.85 · **2× wzmianek**
+
+Nowa platforma odkryta na PAX. Kluczowa cecha: creator ma 30 dni na nagranie wideo po odebraniu klucza, inaczej jest usuwany z platformy. Silne wymuszanie delivery.
+
+**Link:** https://playindies.com
+
+**Kontekst:** Kuba Wójcik poleca, zna założycieli z PAX. Udostępnia info deck: https://docs.google.com/presentation/d/1y-4vjdkkrkR1pMVg2CfeHuSYnhyNKne9/edit?slide=id.p1. Michał z MythicOwl Games chce sprawdzić. ¦ Polecana przez dewelopera z community jako alternatywa dla Keymailer/Lurkit z silniejszymi creatorami w kategorii cozy.
 
 ---
 
@@ -144,6 +162,18 @@ Serwis umożliwiający dystrybucję kluczy gry i promocję poprzez influencerów
 **Link:** None
 
 **Kontekst:** Wspomniany w pytaniu Pawła jako alternatywa do Lurkit. Brak szczegółowych doświadczeń, ale uznany za potencjalny kanał. ¦ Wspomniany w pytaniu jako alternatywa do Lurkit; brak szczegółowych doświadczeń, ale uznany za potencjalną opcję.
+
+---
+
+### JESTR
+
+🟡 **Confidence:** 0.75
+
+Platforma do płatnych kampanii z creatorami (minimum $5000 budżetu). Niektórym creatorom 'bardzo mocno siadło' – sugeruje silne zaangażowanie lub wysokie koszty.
+
+**Link:** https://jestr.com
+
+**Kontekst:** GameDevGrzesiek wprowadza jako opcję 'gdy jest więcej hajsu'. praktyk z portfolio Movie Games/GOG pyta o szczegóły – nowość na rynku.
 
 ---
 
@@ -185,6 +215,21 @@ Post na X (Twitter) podający aktualny współczynnik konwersji wishlist → spr
 **Link:** https://x.com/tipheret/status/1763266231736414670
 
 **Kontekst:** praktyk z portfolio Movie Games/GOG odwołał się do tego tweeta przy omawianiu współczynników konwersji.
+
+---
+
+<a id="demo"></a>
+## Demo i Next Fest
+
+### Playtester.io
+
+🟢 **Confidence:** 0.85
+
+Platforma/event playtestowy (30 listopada – 7 grudnia). Organizatorzy sami dodają gry i promują na socialach. Generuje jakiś ruch na Steamworks, ale bez spektakularnych wyników.
+
+**Link:** https://playtester.io/
+
+**Kontekst:** Michał z MythicOwl Games poleca jako opcję na announcement/playtesty w okresie listopad-grudzień. Użytkownik 'murmur' potwierdza: oni sami dodają gry, wrzucają info na sociale, ruch na Steamworks jest, ale bez szału.
 
 ---
 

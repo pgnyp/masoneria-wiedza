@@ -2,7 +2,7 @@
 
 > Zewnętrzne materiały, artykuły, raporty i narzędzia polecane w dyskusjach.
 
-**100 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
+**101 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
 
 [← powrót do głównej](README.md)
 
@@ -15,7 +15,7 @@
 - [Steam Store strona](#steam-store) (5)
 - [Press / PR / dziennikarze gamingowi / branżowe newslettery](#press) (1)
 - [Email marketing własny — newslettery, mailing zewnętrzny, lead magnet](#email) (4)
-- [Pricing — cennik, SRP, region pricing, promocje, sale strategy](#pricing) (4)
+- [Pricing — cennik, SRP, region pricing, promocje, sale strategy](#pricing) (5)
 - [Community / Discord / social profile / network / wzajemne wsparcie](#community) (20)
 - [Lokalizacja / Chiny / Azja / języki / regionalna dystrybucja](#localization) (2)
 - [Trailer / wideo / capsule video / content marketing / YouTube / shorts](#trailer) (4)
@@ -355,6 +355,16 @@ Newsletter where the change is discussed in more detail.
 
 <a id="pricing"></a>
 ## Pricing — cennik, SRP, region pricing, promocje, sale strategy
+
+### Oficjalne ogłoszenie Steam: 'Updating Seasonal Sales and Daily Deals'
+
+🟢 **Confidence:** 1.00
+
+Pełny tekst komunikatu Valve o zmianach w systemie promocji na Steamie — przejście od kalendarzowych okien (Daily Deals, Midweek Madness, Weekend Deals) do modelu w pełni personalizowanego.
+
+**Link:** https://store.steampowered.com/news/group/4145017/view/676258795703240951
+
+---
 
 ### Analiza zmian pricingu Steam (YouTube)
 

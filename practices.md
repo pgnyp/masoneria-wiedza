@@ -2,27 +2,27 @@
 
 > Workflow, metody i taktyki działania indie game marketingu, potwierdzone doświadczeniem społeczności.
 
-**118 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
+**122 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
 
 [← powrót do głównej](README.md)
 
 ## Spis treści
 
 - [Steam Broadcast i zapętlone streamy 24/7](#broadcast) (2)
-- [Live streamerzy i influencerzy](#streamers) (14)
+- [Live streamerzy i influencerzy](#streamers) (16)
 - [Wishlisty — kumulacja, konwersja, pre-launch, mailing do wishlistujących, minimalna liczba](#wishlists) (9)
 - [Demo i Next Fest](#demo) (5)
 - [Reklamy płatne](#ads) (3)
 - [Steam Store strona](#steam-store) (10)
 - [Press / PR / dziennikarze gamingowi / branżowe newslettery](#press) (2)
 - [Email marketing własny — newslettery, mailing zewnętrzny, lead magnet](#email) (2)
-- [Pricing — cennik, SRP, region pricing, promocje, sale strategy](#pricing) (9)
+- [Pricing — cennik, SRP, region pricing, promocje, sale strategy](#pricing) (10)
 - [Community / Discord / social profile / network / wzajemne wsparcie](#community) (14)
 - [Lokalizacja / Chiny / Azja / języki / regionalna dystrybucja](#localization) (3)
 - [Trailer / wideo / capsule video / content marketing / YouTube / shorts](#trailer) (6)
 - [Analityka / dane / tracking / metryki / Gamalytic / games-stats / Steam Spy](#analytics) (4)
 - [Publishing / wydawcy / kontrakty / pitch deck / negocjacje z wydawcą](#publishing) (8)
-- [Steam events / festiwale / Save & Continue / Summer Sale / MIX / showcases](#events) (14)
+- [Steam events / festiwale / Save & Continue / Summer Sale / MIX / showcases](#events) (15)
 - [Branding / nazwa gry / pozycjonowanie / target audience](#branding) (1)
 - [Sprzęt produkcyjny / dev workflow / Jira / Notion / Clickup](#production) (2)
 - [Sprzedaż na konsolach](#console) (2)
@@ -137,6 +137,26 @@ Tworzenie makra w Excelu generującego listę kluczy, a następnie importowanie 
 *Inne sformułowania w społeczności:* Wykorzystanie makra Excel + Sendy do masowej dystrybucji kluczy
 
 **Kontekst:** Uczestnik opisuje własny workflow, który pozwala na szybkie przygotowanie i rozesłanie kluczy bezpośrednio do listy kontaktów. ¦ Uczestnicy opisują własny workflow przy dystrybucji kluczy, podkreślając prostotę i skalowalność rozwiązania.
+
+---
+
+### Strategia dystrybucji kluczy: unikanie ręcznego wysyłania, korzystanie z platform z wymuszaniem delivery
+
+🟢 **Confidence:** 0.90
+
+Nie wysyłać kluczy ręcznie na prośby e-mailowe (90% scam). Używać platform z mechanizmami odpowiedzialności: Lurkit (rating system), PlayIndies (30 dni lub usunięcie), PressEngine. Keymailer tylko jako uzupełnienie – słabe wymuszanie. JESTR dla płatnych kampanii z budżetem 5k+ USD.
+
+**Kontekst:** Konsensus dyskusji: Michał z MythicOwl Games, GameDevGrzesiek, Michał z MythicOwl Games, Kuba Wójcik. Wskazówka: publisher Michał z MythicOwl Games odradza Keymailer, ale community widzi w nim wartość jako bazy.
+
+---
+
+### Wykrywanie scamu w prośbach o klucze Steam od creatorów
+
+🟢 **Confidence:** 0.90
+
+Typowy wzór scam-maila: spersonalizowane powitanie, konkretna liczba followerów (np. 18,332), link do Twitch/YouTube zgadzający się z danymi, ~50k subów. 90% takich requestów to scam – klucze lądują na G2A, konta to często AI slop. Weryfikacja: sprawdzić czy creator faktycznie robi materiały, czy konto nie jest botem.
+
+**Kontekst:** Michał z MythicOwl Games pyta o podejrzane maile; potwierdzają Michał z MythicOwl Games i GameDevGrzesiek. Michał z MythicOwl Games dodaje, że większość nie dowozi wideo, a klucze trafiają na G2A.
 
 ---
 
@@ -572,6 +592,16 @@ W tytule maila do dużych twórców umieść wyraźny znacznik, np. [STEAM KEY],
 
 <a id="pricing"></a>
 ## Pricing — cennik, SRP, region pricing, promocje, sale strategy
+
+### Steam wycofuje tradycyjne okna promocyjne na rzecz rekomendacji personalizowanych
+
+🟢 **Confidence:** 0.95
+
+Steam eliminuje Daily Deals, Midweek Madness i inne stałe okna czasowe. Zamiast nich promowanie gier będzie oparte na algorytmicznych rekomendacjach dopasowanych do indywidualnego gracza. Oznacza to koniec planowania release'ów i zniżek wokół konkretnych dni tygodnia / eventów Steamowych.
+
+**Kontekst:** Jakub Kwinta (indie dev) (znany polski gamedev, twórca 'The Cub' i '7 Days to End with You') dzieli się wiadomością z oficjalnego newsroomu Steam. Zmiana fundamentalnie wpływa na strategię marketingową indie devów — nie da się już 'celować' w widoczność w konkretnym oknie promocyjnym, trzeba budować siłę sygnałów dla algorytmu rekomendacyjnego (recenzje, wishlisty, engagement, tagi).
+
+---
 
 ### Analiza price matrix pod kątem SRP i cen lokalnych
 
@@ -1174,6 +1204,16 @@ Samodzielne wydanie gry bez większego ogłoszenia może mieć ograniczony zasi�
 Eventy Steam China organizuje bezpośrednio chińska odnoga Valve. Dostęp uzyskuje się zazwyczaj przez chińskiego wydawcę lub wysyłając support ticket do Steam – support dalej kieruje procesem.
 
 **Kontekst:** Pawel Lekki dzieli się doświadczeniem z wejścia na wydarzenia Steam China; potwierdza, że kluczowy jest chiński wydawca lub kontakt z supportem Steam.
+
+---
+
+### Wholesome Snack – event na początek grudnia
+
+🟡 **Confidence:** 0.80
+
+Cykliczny event/spotlight na gry wholesome. Warto rozważyć na announcement jeśli gra pasuje do klimatu.
+
+**Kontekst:** Michał z MythicOwl Games sugeruje jako alternatywę dla Golden Joystick / PCGS / TGA w grudniu, pod warunkiem że gra jest 'wholesome'.
 
 ---
 

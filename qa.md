@@ -2,7 +2,7 @@
 
 > Realne pytania z community z odpowiedziami skondensowanymi z dyskusji.
 
-**42 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
+**43 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
 
 [← powrót do głównej](README.md)
 
@@ -19,7 +19,7 @@
 - [Trailer / wideo / capsule video / content marketing / YouTube / shorts](#trailer) (2)
 - [Publishing / wydawcy / kontrakty / pitch deck / negocjacje z wydawcą](#publishing) (1)
 - [Steam events / festiwale / Save & Continue / Summer Sale / MIX / showcases](#events) (6)
-- [Sprzedaż na konsolach](#console) (1)
+- [Sprzedaż na konsolach](#console) (2)
 - [Inne / ogólne wskazówki marketingowe nie pasujące do żadnej powyższej kategorii](#other) (5)
 
 ---
@@ -447,6 +447,16 @@ Nie, według uczestników (Kuba Wójcik) ostatnie edycje MIX mają małą widocz
 Sony zazwyczaj wypożycza devkity na okres 2 lat i wymaga ich zwrotu po upływie tego czasu; brak zwrotu może skutkować koniecznością zakupu nowych lub renegocjacji warunków.
 
 **Kontekst:** Pytanie zadane przez dewelopera z community dotyczące otrzymania maila o zwrocie/wymianie sprzętu Sony devkitów. Inna osoba (Kuba Wójcik) potwierdził 2‑letni okres wypożyczenia. Dyskusja sugeruje, że po terminie można negocjować zakup lub ponowne wypożyczenie.
+
+---
+
+### Jak uzyskać devkit Nintendo Switch 2 w Europie?
+
+🟢 **Confidence:** 0.85
+
+Nintendo Europe rozdziela devkity Switch 2 głównie studio AA i powyżej oraz indie developerom z naprawdę dużym sukcesem komercyjnym. Zgłoszenia indywidualnych deweloperów indie są w zdecydowanej większości odrzucane (ok. 90% przypadków).
+
+**Kontekst:** Michał z MythicOwl Games pytał o kontakty do Nintendo Europe w sprawie devkitu Switch 2. Madras (indie dev) potwierdził, że zgłaszał się i nie dostał, podobnie jak większość deweloperów z jego otoczenia.
 
 ---
 

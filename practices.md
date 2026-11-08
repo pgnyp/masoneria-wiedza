@@ -2,7 +2,7 @@
 
 > Workflow, metody i taktyki działania indie game marketingu, potwierdzone doświadczeniem społeczności.
 
-**123 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
+**124 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
 
 [← powrót do głównej](README.md)
 
@@ -25,7 +25,7 @@
 - [Steam events / festiwale / Save & Continue / Summer Sale / MIX / showcases](#events) (15)
 - [Branding / nazwa gry / pozycjonowanie / target audience](#branding) (1)
 - [Sprzęt produkcyjny / dev workflow / Jira / Notion / Clickup](#production) (2)
-- [Sprzedaż na konsolach](#console) (3)
+- [Sprzedaż na konsolach](#console) (4)
 - [Inne / ogólne wskazówki marketingowe nie pasujące do żadnej powyższej kategorii](#other) (8)
 
 ---
@@ -1299,6 +1299,16 @@ Rzeczywistość premier: patchowanie w ostatniej chwili to norma. Przykłady: ad
 Domyślne sortowanie w Top 30 przeszło z 'pobrań w ostatnich 14 dniach' na 'przychód w ostatnich 3 dniach'. To zwiększa widoczność gier generujących wyższy przychód, ale może utrudnić promocję tanich indie, które wcześniej korzystały z dużego wolumenu pobrań.
 
 **Kontekst:** Wiadomość od dewelopera z community informuje o aktualizacji systemu eShop, opisuje wpływ na widoczność gier indie.
+
+---
+
+### Uzyskanie devkitu Nintendo przez wydawcę z kontaktami
+
+🟢 **Confidence:** 0.85
+
+Wydawcy posiadający osobiste kontakty w Nintendo (np. Amplified Games) mogą zwiększyć szansę na otrzymanie devkitu, ale zazwyczaj wymagają deklaracji szybkiego dostarczenia gotowego portu na konsolę.
+
+**Kontekst:** Deweloper z community (GameDevGrzesiek) opisuje praktykę branżową; potwierdza Maciek Łączny (macieklaczny), że w ich przypadku (gra UT) ta strategia się udała.
 
 ---
 

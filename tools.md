@@ -2,7 +2,7 @@
 
 > Serwisy, narzędzia i platformy polecane przez członków społeczności. Każde z kontekstem użycia i autora polecenia.
 
-**74 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
+**75 items**, pogrupowane tematycznie. W obrębie sekcji sortowane malejąco po confidence.
 
 [← powrót do głównej](README.md)
 
@@ -23,7 +23,7 @@
 - [Steam events / festiwale / Save & Continue / Summer Sale / MIX / showcases](#events) (1)
 - [Branding / nazwa gry / pozycjonowanie / target audience](#branding) (1)
 - [Sprzęt produkcyjny / dev workflow / Jira / Notion / Clickup](#production) (5)
-- [Sprzedaż na konsolach](#console) (1)
+- [Sprzedaż na konsolach](#console) (2)
 - [Inne / ogólne wskazówki marketingowe nie pasujące do żadnej powyższej kategorii](#other) (6)
 
 ---
@@ -928,6 +928,16 @@ Firma zajmująca się wydawaniem gier w fizycznych pudełkach, w tym na Nintendo
 **Link:** https://www.superraregames.com
 
 **Kontekst:** Polecona jako opcja do wydania gry w limitowanej edycji na Switcha. ¦ Kuba Wójcik pyta o firmę, która mogłaby wydać grę w pudełku na Switcha; TomekTomasz (indie dev) poleca Super Rare Games jako opcję. ¦ Polecona jako potencjalny wydawca do wydania gry w pudełku na Switcha (limited run).
+
+---
+
+### Amplified Games
+
+🟡 **Confidence:** 0.75
+
+Wydawca indie z osobistymi kontaktami do Nintendo, wspierający deweloperów w uzyskaniu devkitów i portowaniu na Switch.
+
+**Kontekst:** Wymieniony jako przykład wydawcy, który może "zwiększyć szansę" na devkit Nintendo w zamian za zobowiązanie do szybkiego portu.
 
 ---
 
